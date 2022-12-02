@@ -29,6 +29,16 @@ const Nav = () => {
                     </ul>
                 </li>
                 <li className="menu-item-has-children">
+                    <Link to="#">Services<FaAngleDown /></Link>
+                    <ul className="axil-submenu">
+                        <li><Link to={process.env.PUBLIC_URL + "/about"}>Digital Marketing</Link></li>
+                        <li><Link to={process.env.PUBLIC_URL + "/how-it-works"}>SEO</Link></li>
+                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Web Development</Link></li>
+                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>App Development</Link></li>
+
+                    </ul>
+                </li>
+                <li className="menu-item-has-children">
                     <Link to="#">Portfolio <FaAngleDown /></Link>
                     <ul className="axil-submenu">
                         <li><Link to={process.env.PUBLIC_URL + "/project-grid-one"}>Two Column</Link></li>
