@@ -54,6 +54,7 @@ import WhyAbout from './pages/WhyAbout';
 import HowWorks from './pages/HowWorks';
 import WebDevelopment from './pages/WebDevelopment';
 import Seo from './pages/Seo';
+import DigitalMarketing from './pages/DigitalMarketing';
 
 
 const App = () => {
@@ -111,6 +112,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<WebDevelopment />}/>
 
 				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<Seo />}/>
+				<Route path={process.env.PUBLIC_URL + "/services/digital-marketing"} element={<DigitalMarketing />}/>
 
 
 			</Routes>
