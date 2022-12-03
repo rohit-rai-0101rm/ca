@@ -34,7 +34,7 @@ const Nav = () => {
                         <li><Link to={process.env.PUBLIC_URL + "/about"}>Digital Marketing</Link></li>
                         <li><Link to={process.env.PUBLIC_URL + "/how-it-works"}>SEO</Link></li>
                         <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Web Development</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>App Development</Link></li>
+                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Design</Link></li>
 
                     </ul>
                 </li>
