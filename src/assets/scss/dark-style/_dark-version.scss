@@ -100,6 +100,20 @@
             font-size: 14px;
         }
     }
+    .section-padding-proffessional {
+        padding: 175px 0px 0px;
+        @media #{$smlg-device} {
+            padding: 100px 0 70px;
+        }
+        @media #{$md-layout} {
+            padding: 80px 0 50px;
+        }
+        @media #{$sm-layout} {
+            padding: 60px 0 30px;
+        }
+        background-color: #171717;
+        
+    }
 
     .error-msg {
         p {
@@ -1162,6 +1176,20 @@
             opacity: 0.1;
         }
     }
+    .section-padding-pro {
+        padding: 75px 0px 0px;
+        @media #{$smlg-device} {
+            padding: 100px 0 70px;
+        }
+        @media #{$md-layout} {
+            padding: 80px 0 50px;
+        }
+        @media #{$sm-layout} {
+            padding: 60px 0 30px;
+        }
+        background-color:  var(--color-dark);
+        
+    }
 
     .support-box  {
         a {
@@ -1184,4 +1212,4 @@
               width:100%;
               object-fit: cover;
         }
-       
+      

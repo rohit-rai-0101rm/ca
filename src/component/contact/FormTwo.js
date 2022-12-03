@@ -37,24 +37,28 @@ const FormTwo = () => {
     return (
         <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
         <div className="form-group">
-            <label>Name</label>
-            <input type="text" className="form-control" name="contact-name" required />
+            <input placeholder="Name*" type="text" className="form-control" name="contact-name" required />
         </div>
         <div className="form-group">
-            <label>Email</label>
-            <input type="email" className="form-control" name="contact-email" required />
+            <input placeholder="Work Email*" type="email" className="form-control" name="contact-email" required />
         </div>
         <div className="form-group">
-            <label>Phone</label>
-            <input type="tel" className="form-control" name="contact-phone" required />
+            <input  placeholder="Phone*" type="tel" className="form-control" name="contact-phone" required />
+        </div>
+        <div className="form-group">
+            <label>How soon do you want to start the project?*</label>
+            <select className="form-control" name="contact-phone">
+            <option value="volvo">Within 8 weeks</option>
+            <option value="saab">More than 8 weeks</option>
+       
+        </select>
         </div>
         <div className="form-group mb--40">
-            <label>How can we help you?</label>
-            <textarea className="form-control" name="contact-message" rows="4"></textarea>
+            <input placeholder="Share Your Requirements*"  className="form-control" name="contact-message" rows="4"></input>
             
         </div>
         <div className="form-group">
-            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Get Pricing Now</button>
+            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">SUBMIT</button>
         </div>
         <div className="form-group">
             {result ? <Result /> : null}
