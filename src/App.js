@@ -56,6 +56,7 @@ import HowWorks from './pages/HowWorks';
 import Seo from './pages/Seo';
 import Design from './pages/Design';
 import Webdevelopment from './pages/Webdevelopment';
+import DigitalMarketing from './pages/DigitalMarketing';
 
 
 const App = () => {
@@ -111,6 +112,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
 
 				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<Seo />}/>
+				<Route path={process.env.PUBLIC_URL + "/services/digital-marketing"} element={<DigitalMarketing />}/>
 
 
 				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<Webdevelopment />}/>
