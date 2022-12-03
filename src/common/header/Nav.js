@@ -8,15 +8,8 @@ const Nav = () => {
         <nav className="mainmenu-nav">
             <ul className="mainmenu">
                 <li className="menu-item-has-children">
-                    <Link to="#">Home<FaAngleDown /> </Link>
-                    <ul className="axil-submenu">
-                        <li><Link to={process.env.PUBLIC_URL + "/digital-agency"}>Digital Agency</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/creative-agency"}>Creative Agency</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/personal-portfolio"}>Personal Portfolio</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/home-startup"}>Home Startup</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/corporate-agency"}>Corporate Agency</Link></li>
-                        <li><a href="https://new.axilthemes.com/demo/react/abstrak-rtl/">RTL Demo</a></li>
-                    </ul>
+                    <Link to="/">Home </Link>
+               
                 </li>
                 <li className="menu-item-has-children">
                     <Link to="#">Why Dignifyd <FaAngleDown /></Link>
@@ -33,8 +26,8 @@ const Nav = () => {
                     <ul className="axil-submenu">
                         <li><Link to={process.env.PUBLIC_URL + "/about"}>Digital Marketing</Link></li>
                         <li><Link to={process.env.PUBLIC_URL + "/how-it-works"}>SEO</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Web Development</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Design</Link></li>
+                        <li><Link to={process.env.PUBLIC_URL + "/services/web-development"}>Web Development</Link></li>
+                        <li><Link to={process.env.PUBLIC_URL + "/services/design"}>Design</Link></li>
 
                     </ul>
                 </li>
