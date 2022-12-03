@@ -52,7 +52,6 @@ import TermsOfUse from './pages/TermsOfUse';
 import './assets/scss/app.scss';
 import WhyAbout from './pages/WhyAbout';
 import HowWorks from './pages/HowWorks';
-import WebDevelopment from './pages/WebDevelopment/WebDevelopment';
 
 
 const App = () => {
@@ -63,7 +62,6 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/"} element={<DigitalAgency />}/>
 				<Route path={process.env.PUBLIC_URL + "/how-it-works"} element={<HowWorks />}/>
 
-				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<WebDevelopment />}/>
 
 				<Route path={process.env.PUBLIC_URL + "/digital-agency"} element={<DigitalAgency />}/>
 				<Route path={process.env.PUBLIC_URL + "/creative-agency"} element={<CreativeAgency />}/>
