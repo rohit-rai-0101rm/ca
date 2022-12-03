@@ -53,8 +53,9 @@ import './assets/scss/app.scss';
 import WhyAbout from './pages/WhyAbout';
 import HowWorks from './pages/HowWorks';
 
-import WebDevelopment from './pages/WebDevelopment';
 import Seo from './pages/Seo';
+import Design from './pages/Design';
+import Webdevelopment from './pages/Webdevelopment';
 
 
 const App = () => {
@@ -108,11 +109,13 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/coming-soon"} element={<ComingSoon />}/>
 				<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />}/>
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
-				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<WebDevelopment />}/>
 
 				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<Seo />}/>
 
 
+				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<Webdevelopment />}/>
+				<Route path={process.env.PUBLIC_URL + "/services/design"} element={<Design />}/>
+                
 			</Routes>
 		</ScrollToTop>
     </Router>
