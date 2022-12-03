@@ -53,6 +53,8 @@ import './assets/scss/app.scss';
 import WhyAbout from './pages/WhyAbout';
 import HowWorks from './pages/HowWorks';
 import WebDevelopment from './pages/WebDevelopment/WebDevelopment';
+import Webdevelopment from './pages/Webdevelopment';
+import Design from './pages/Design';
 
 
 const App = () => {
@@ -63,7 +65,6 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/"} element={<DigitalAgency />}/>
 				<Route path={process.env.PUBLIC_URL + "/how-it-works"} element={<HowWorks />}/>
 
-				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<WebDevelopment />}/>
 
 				<Route path={process.env.PUBLIC_URL + "/digital-agency"} element={<DigitalAgency />}/>
 				<Route path={process.env.PUBLIC_URL + "/creative-agency"} element={<CreativeAgency />}/>
@@ -107,7 +108,9 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/coming-soon"} element={<ComingSoon />}/>
 				<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />}/>
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
-
+				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<Webdevelopment />}/>
+				<Route path={process.env.PUBLIC_URL + "/services/design"} element={<Design />}/>
+                
 			</Routes>
 		</ScrollToTop>
     </Router>
