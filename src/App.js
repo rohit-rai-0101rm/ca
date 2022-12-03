@@ -55,8 +55,8 @@ import HowWorks from './pages/HowWorks';
 
 import Seo from './pages/Seo';
 import Design from './pages/Design';
-import Webdevelopment from './pages/Webdevelopment';
 import DigitalMarketing from './pages/DigitalMarketing';
+import Webdevelopment from './pages/Webdevelopment';
 
 
 const App = () => {
