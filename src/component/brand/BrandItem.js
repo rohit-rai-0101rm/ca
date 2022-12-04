@@ -1,9 +1,7 @@
 import React from 'react';
 
 const Data = [
-    {
-        image: "/images/clients/Logos-01.svg"
-    },
+
     {
         image: "/images/clients/Logos-02.svg"
     },
@@ -13,9 +11,7 @@ const Data = [
     {
         image: "/images/clients/Logos-04.svg"
     },
-    {
-        image: "/images/clients/Logos-05.svg"
-    },
+  
     {
         image: "/images/clients/Logos-06.svg"
     },
@@ -33,7 +29,7 @@ const BrandItem = () => {
     return (
         <>
             {Data.map((data, index) => (
-                <div className="col-lg-3 col-6" key={index}>
+                <div className="col-lg-4 col-6" key={index}>
                     <div className="brand-grid clientLogo">
                         <img src={process.env.PUBLIC_URL + data.image} alt="Brand" />
                     </div>
