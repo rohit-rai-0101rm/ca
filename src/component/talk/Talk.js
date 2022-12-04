@@ -29,12 +29,15 @@ const Talk = () => {
 
   return (
     <>
-      <div className="row">
+      <div className="row mt-10">
         <div className="col-lg-4 ">
           <div className="pricing-table-enquiry pricing-borderd">
             <div className="pricing-header">
               <img className="enquiry" src="/images/enquiry/sales.svg" />
-              <h3 className="title">Sales & Inquiries</h3>
+              <center>
+              <h6 className="title">Sales & Inquiries</h6>
+
+              </center>
             </div>
             <hr />
             <center>
@@ -54,8 +57,10 @@ const Talk = () => {
           <div className="pricing-table-enquiry pricing-borderd">
             <div className="pricing-header">
               <img className="enquiry" src="/images/enquiry/help.svg" />
-              <h3 className="title">Help & Support</h3>
-            </div>
+              <center>
+              <h6 className="title">Help & Support</h6>
+
+              </center>            </div>
             <hr />
             <center>
               {" "}
@@ -74,8 +79,10 @@ const Talk = () => {
           <div className="pricing-table-enquiry pricing-borderd">
             <div className="pricing-header">
               <img className="enquiry" src="/images/enquiry/media.svg" />
-              <h3 className="title">Media & Press</h3>
-            </div>
+              <center>
+              <h6 className="title">Media & Press</h6>
+
+              </center>            </div>
             <hr />
             <center>
               {" "}
