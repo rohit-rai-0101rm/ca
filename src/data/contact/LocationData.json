@@ -2,22 +2,17 @@
 
     {
         "thumb": "/images/others/location-1.png",
-        "title": "Virginia-HQ",
-        "address": "435 Pouros Locks United States"
+        "title": "Dubai",
+        "address": "Level3,Conventional Tower,World Trade Center"
     },
     {
         "thumb": "/images/others/location-2.png",
-        "title": "Nevada",
-        "address": "46 Watsica Creek Suite 071 United States"
+        "title": "San Francisco",
+        "address": "548 Market St.,San Francisco,CA 94104-5401"
     },
     {
         "thumb": "/images/others/location-3.png",
-        "title": "Columbia",
-        "address": "7140 Wehner Tunnel Washington, D.C"
-    },
-    {
-        "thumb": "/images/others/location-4.png",
-        "title": "New Mexico",
-        "address": "10 Maggie Valleys United States"
+        "title": "South Delhi",
+        "address": "546 Hanuman Mandir Road,Chirag Delhi"
     }
 ]

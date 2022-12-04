@@ -24,8 +24,18 @@
     @media #{$sm-layout} {
         padding: 60px 0 30px;
     }
-    background-color:#F0DBDB;
     
+}
+.section-padding-amazing{
+    background-color:#212121;
+
+}
+.titleAmazing{
+    color: #F0DBDB;
+}
+.addressLine2{
+    font-size: 20px;
+    color: #fff;
 }
 .section-padding-technologies{
     padding: 75px 0px 0px;
@@ -212,4 +222,9 @@
     .pb_sm--0 {
         padding-bottom: 0;
     }
+}
+
+.enquiry{
+    height: 200px;
+    width: 200px;
 }

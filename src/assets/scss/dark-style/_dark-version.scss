@@ -729,9 +729,17 @@
         color: white !important;
     }
     .section-padding-technologies{
-        background-color:#212121;
+        background-color: color-ship-gray;
         color: white !important;
 
+    }
+    .section-padding-amazing{
+        background-color:  var(--color-ship-gray);
+
+    }
+    .addressLine2{
+        font-size: 20px;
+        color: #fff;
     }
     .contact-address {
         .address {
@@ -816,6 +824,42 @@
             border-color: var(--dark-border-gray);
         }
     }
+    .pricing-table-enquiry {
+        background-color: var(--dark-main-body);
+        .pricing-header {
+            .subtitle {
+                color: var(--dark-body-text);
+            }
+            .price-wrap {
+                border-color: rgba(227, 230, 233, 0.2);
+                .amount {
+                    color: var(--dark-body-text);
+                }
+            }
+        }
+        &:hover, &.active {
+            .pricing-header {
+                .price-wrap {
+                    border-color: rgba(227, 230, 233, 0.4);
+                    .amount {
+                        color: var(--color-white);
+                    }
+                }
+                .axil-btn {
+                    background-color: var(--color-primary);
+                    border-color: var(--color-link);
+                    color: var(--color-white);
+                    &:after {
+                        transform: translateY(-50%) translateX(-50%) scale(1);
+                    }
+                }
+            }
+        }
+        &.pricing-borderd {
+            border-color: var(--dark-border-gray);
+        }
+    }
+    
     
 
     // Why Choose 

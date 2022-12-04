@@ -1,20 +1,18 @@
-import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
-import CounterUp from '../../component/counterup/CounterUp';
-
+import React from "react";
+import SectionTitle from "../../elements/section-title/SectionTitle";
+import CounterUp from "../../component/counterup/CounterUp";
 
 const CounterUpOne = () => {
-    return (
-        <div className="section section-padding bg-color-ship-gray">
-            <div className="container">
-          
-                <div className="row">
-                    <CounterUp colSize="col-lg-3 col-6" layoutStyle="" evenTopMargin="" />
-                </div>
-            </div>
+  return (
+    <div className="section section-padding bg-color-ship-gray">
+      <div className="container">
+        <div className="row">
+          <CounterUp colSize="col-lg-3 col-6" layoutStyle="" evenTopMargin="" />
         </div>
-    )
-}
-
+      </div>
+    </div>
+  );
+};
 
 export default CounterUpOne;
+
