@@ -10,6 +10,15 @@
         padding: 150px 0 40px;
     }
 }
+.breadcrum-area-talk {
+    background: var(--gradient-primary);
+    padding: 20px 0 100px;
+    position: relative;
+    z-index: 1;
+    @media #{$sm-layout} {
+        padding: 150px 0 40px;
+    }
+}
 .breadcrumb {
     display: block;
     ul {

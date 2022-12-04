@@ -20,10 +20,10 @@ const TeamOne = () => {
             </div>
             <div className="row">
                 {allData.map((data) => (
-                    <div className="col-xl-3 col-sm-6" key={data.id}>
+                    <div className="col-xl-2 col-sm-6" key={data.id}>
                         <div className="team-grid">
                             <div className="thumbnail">
-                                <Link to={process.env.PUBLIC_URL + `/team-details/${slugify(data.title)}`}>
+                                <Link>
                                     <img className='technologyImages' src={process.env.PUBLIC_URL + data.thumb} alt={data.title} />
                                 </Link>
                             </div>
