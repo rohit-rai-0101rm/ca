@@ -11,7 +11,7 @@ const Data = [
         image: "/images/clients/Logos-03.svg"
     },
     {
-        image: "/images/clients/Logos-04.svg"
+        image: "/images/clients/tvg.svg"
     },
     {
         image: "/images/clients/Logos-05.svg"
@@ -24,6 +24,9 @@ const Data = [
     },
     {
         image: "/images/clients/Memechat.svg"
+    },
+    {
+        image: "/images/clients/volks.svg"
     },
    
 ]

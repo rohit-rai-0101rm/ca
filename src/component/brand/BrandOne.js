@@ -7,12 +7,9 @@ const BrandOne = () => {
     return (
         <div className="section section-padding-2 bg-color-dark">
         <div className="container">
-            <SectionTitle 
-                subtitle="Top Clients"
-                title="more than 250+ business empowered digitally!"
-                textAlignment="heading-light-left"
-                textColor=""
-            />
+            <h3 className='titleClient'>
+               more than 250+ business empowered digitally!
+                </h3>
             <div className='row'>
                <BrandItem />
             </div>

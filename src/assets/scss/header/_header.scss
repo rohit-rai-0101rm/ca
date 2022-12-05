@@ -26,11 +26,13 @@
                 @media #{$md-layout} {
                     width: 150px;
                     }
-            }
-            height: 90px;
-            width: 250px;
+                    height: 10px;
+            width: 200px;
             display: flex;
             align-items: center;
+            height: 100px;
+            }
+            
         }
             .original
         {
