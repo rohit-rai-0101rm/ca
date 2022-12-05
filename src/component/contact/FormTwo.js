@@ -37,12 +37,13 @@ const FormTwo = () => {
     return (
         <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
         <div className="form-group">
-            <label>Name</label>
-            <input type="text" className="form-control" name="contact-name" required />
+            <input placeholder='Full Name*' type="text" className="form-control" name="contact-name" required />
         </div>
         <div className="form-group">
-            <label>Email</label>
-            <input type="email" className="form-control" name="contact-email" required />
+            <input placeholder='Your Email*' type="email" className="form-control" name="contact-email" required />
+        </div>
+        <div className="form-group">
+            <input placeholder='Company*' type="email" className="form-control" name="contact-email" required />
         </div>
         <div className="form-group">
             <label>Phone</label>
@@ -50,7 +51,7 @@ const FormTwo = () => {
         </div>
         <div className="form-group mb--40">
             <label>How can we help you?</label>
-            <textarea className="form-control" name="contact-message" rows="4"></textarea>
+            <textarea placeholder='Describe your project to uss*' className="form-control" name="contact-message" rows="4"></textarea>
             
         </div>
         <div className="form-group">
