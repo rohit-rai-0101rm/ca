@@ -24,44 +24,44 @@ const FooterOne = ({ parentClass }) => {
           <div className="footer-social-link">
             <ul className="list-unstyled">
               <li>
-                <Link to="https://facebook.com/">
+                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
                   <FaFacebookF />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="https://twitter.com/">
+                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
                   <FaTwitter />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="https://www.pinterest.com/">
+                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
                   <FaPinterestP />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="https://www.linkedin.com/">
+                <a target="_blank" href="https://in.linkedin.com/company/dignifyd">
                   <FaLinkedin />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="https://www.instagram.com/">
+                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
                   <FaInstagram />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="https://vimeo.com/">
+                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
                   <FaVimeoV />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="https://dribbble.com/">
+                <Link target="_blank" href="https://www.facebook.com/dignifydsolutions/">
                   <FaDribbble />
                 </Link>
               </li>
               <li>
-                <Link to="https://www.behance.net/">
+                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
                   <FaBehance />
-                </Link>
+                </a>
               </li>
             </ul>
           </div>
@@ -72,7 +72,7 @@ const FooterOne = ({ parentClass }) => {
               <div className="footer-widget border-end">
                 <div className="footer-newsletter">
                   <h2 className="title">Get in touch!</h2>
-              
+
                   <form>
                     <div className="input-group">
                       <span className="mail-icon">
@@ -101,10 +101,7 @@ const FooterOne = ({ parentClass }) => {
                         {getServiceData.slice(0, 6).map((data, index) => (
                           <li key={index}>
                             <Link
-                              to={
-                                process.env.PUBLIC_URL +
-                                `/service-details/${slugify(data.title)}`
-                              }
+                              
                             >
                               {data.title}
                             </Link>
@@ -122,7 +119,10 @@ const FooterOne = ({ parentClass }) => {
                         <li>
                           <Link to={process.env.PUBLIC_URL + "/blog-grid"}>
                             <div className="d-flex flex-row">
-                              <img className="px-2 footerContact" src="/images/contact/email.svg" />
+                              <img
+                                className="px-2 footerContact"
+                                src="/images/contact/email.svg"
+                              />
                               hello@dignifyd.ae
                             </div>
                           </Link>
@@ -131,27 +131,31 @@ const FooterOne = ({ parentClass }) => {
                           {" "}
                           <Link to={process.env.PUBLIC_URL + "/case-study"}>
                             <div className="d-flex flex-row">
-                              <img className="px-2 footerContact" src="/images/contact/tele.svg" />
+                              <img
+                                className="px-2 footerContact"
+                                src="/images/contact/tele.svg"
+                              />
                               +971-501-599-266{" "}
                             </div>{" "}
                           </Link>
                         </li>
                         <li>
-                          <Link
-                            to={process.env.PUBLIC_URL + "/project-grid-one"}
-                          >
+                         
                             <div className="d-flex flex-row">
-                              <img className="px-2 footerContact" src="/images/contact/website.svg" />
-                              www.dignifyd.ae{" "}
+                              <img
+                                className="px-2 footerContact"
+                                src="/images/contact/website.svg"
+                              />
+                              <a href="https://in.linkedin.com/company/dignifyd"  target="blank">
+                              www.dignifyd.ae
+                              </a>
+                              {" "}
                             </div>{" "}
-                          </Link>
                         </li>
                       </ul>
                     </div>
                   </div>
                 </div>
-             
-
               </div>
             </div>
           </div>
@@ -162,9 +166,9 @@ const FooterOne = ({ parentClass }) => {
               <div className="footer-copyright">
                 <span className="copyright-text">
                   © {new Date().getFullYear()}. All rights reserved by{" "}
-                    <strong>Dignifyd</strong> Digital Solutions
-                 
-                  .
+                  <a href="https://in.linkedin.com/company/dignifyd"  target="blank">
+                  <strong>Dignifyd</strong> Digital Solutions.
+                              </a>
                 </span>
               </div>
             </div>
