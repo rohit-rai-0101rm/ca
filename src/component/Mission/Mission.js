@@ -18,22 +18,8 @@ const Mission = () => {
             </div>
           </div>
           <div className="row">
-            <div className="col-xl-8 col-lg-8 ">
-              <Link
-                to="#"
-                className="axil-btn text-right btn-fill-primary btn-large"
-              >
-                Our Mission
-              </Link>
-              <div className="section-heading heading-right">
-                <img
-                  src={process.env.PUBLIC_URL + "/images/solutions.webp"}
-                  alt="travel"
-                />
-              </div>
-            </div>
-            <div className="col-xl-4 col-lg-4 ">
-              <div className="">
+          
+            <div className="col-xl-6 col-lg-6 ">
                 <h3 className="title">
                   integrity.
                   <br />
@@ -46,18 +32,16 @@ const Mission = () => {
                   Dignifyd, strives to meet its customers’ needs in order to
                   build a long-term, successful business relationship with them.
                 </p>
-                <br />
-                <p>
+                <p className="mt-2">
                   We believe in excellent customer service and that all of our
                   customers deserve our best efforts to further serve them.
                 </p>
-                <br />
                 <p>
                   We hope you will join us as we build a tradition of excellence
                   and professional excellence.
                 </p>
-              </div>
             </div>
+         
             <div className="col-xl-6 col-lg-6 case-study-featured-thumb text-start"></div>
           </div>
         </div>

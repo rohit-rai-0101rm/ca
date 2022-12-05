@@ -1,9 +1,5 @@
 [
-    {
-        "image": "/images/icon/icon-1.png",
-        "title": "Design",
-        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
-    },
+  
     {
         "image": "/images/icon/icon-2.png",
         "title": "Design",
@@ -21,19 +17,21 @@
         "cate": "Design"
     },
     {
-        "image": "/images/icon/icon-28.png",
-        "title": "Mobile app ",
+        "image": "/images/icon/icon-34.png",
+        "title": "SEO",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+  
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Manage Service Provider",
         "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
         "cate": "Design"
     },
     {
-        "image": "/images/icon/icon-4.png",
-        "title": "Business",
-        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
-    },
-    {
         "image": "/images/icon/icon-5.png",
-        "title": "Technology",
+        "title": "Dedicated Resources",
         "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
     },
     {
@@ -49,12 +47,7 @@
         "cate": "Design"
     },
    
-    {
-        "image": "/images/icon/icon-4.png",
-        "title": "Graphic/print design",
-        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
-        "cate": "Design"
-    },
+ 
     {
         "image": "/images/icon/icon-30.png",
         "title": "Video production",
@@ -68,24 +61,14 @@
         "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
         "cate": "Development"
     },
-    {
-        "image": "/images/icon/icon-32.png",
-        "title": "Mobile app development",
-        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
-        "cate": "Development"
-    },
+
     {
         "image": "/images/icon/icon-33.png",
         "title": "eCommerce",
         "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
         "cate": "Development"
     },
-    {
-        "image": "/images/icon/icon-34.png",
-        "title": "SEO",
-        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
-        "cate": "Online Marketing"
-    },
+   
     {
         "image": "/images/icon/icon-35.png",
         "title": "Pay-per click",

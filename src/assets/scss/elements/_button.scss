@@ -70,10 +70,18 @@
         width: 100%;
     }
 }
+
 .clientLogo{
     height: 177px;
     width: 102.344px;
     filter: invert(48%) sepia(89%) saturate(80%) hue-rotate(0deg) brightness(780%) contrast(200%);
+ 
+
+}
+.clientLogo:hover{
+    height: 177px;
+    width: 102.344px;
+    filter: invert(48%) sepia(23%) saturate(80%) hue-rotate(0deg) brightness(780%) contrast(200%);
  
 
 }

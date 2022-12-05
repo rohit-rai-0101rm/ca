@@ -8,7 +8,7 @@ const BrandOne = () => {
         <div className="section section-padding-2 bg-color-dark">
         <div className="container">
             <h3 className='titleClient'>
-               more than 250+ business empowered digitally!
+               more than 250+ business empowered  <strong>digitally!</strong>
                 </h3>
             <div className='row'>
                <BrandItem />

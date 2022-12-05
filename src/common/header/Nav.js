@@ -15,9 +15,9 @@ const Nav = () => {
                     <Link to="#">Why Dignifyd <FaAngleDown /></Link>
                     <ul className="axil-submenu">
                         <li><Link to={process.env.PUBLIC_URL + "/about"}>About</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/how-it-works"}>How it works</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Why India</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Pricing</Link></li>
+                        <li><Link>How it works</Link></li>
+                        <li><Link >Why India</Link></li>
+                        <li><Link>Pricing</Link></li>
 
                     </ul>
                 </li>

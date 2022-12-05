@@ -69,7 +69,7 @@ const DigitalAgency = () => {
               <ServicePropOne
                 colSize="col-xl-4 col-md-6"
                 serviceStyle=""
-                itemShow="18"
+                itemShow="6"
               />
             </div>
           </div>
@@ -96,6 +96,7 @@ const DigitalAgency = () => {
         </div>
         <AboutFour />
         <Innovate />
+        <TestimonialOne/>
         <CounterUpOne />
         <TeamOne />
         <CtaLayoutOne />

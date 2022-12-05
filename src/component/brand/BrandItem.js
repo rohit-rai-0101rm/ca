@@ -3,26 +3,39 @@ import React from 'react';
 const Data = [
 
     {
-        image: "/images/clients/Logos-02.svg"
+        image: "/images/clients/Logos-02.svg",
+        url:"https://nubralife.com/"
     },
     {
-        image: "/images/clients/Logos-03.svg"
+        image: "/images/clients/Logos-03.svg",
+        url:"http://kubberinternational.com/"
+
     },
     {
-        image: "/images/clients/tvg.svg"
+        image: "/images/clients/tvg.svg",
+        url:"https://www.tvgconsultancy.com/"
+
     },
   
     {
-        image: "/images/clients/Logos-06.svg"
+        image: "/images/clients/Logos-06.svg",
+        url:"https://mitrpaisa.com/"
+
     },
     {
-        image: "/images/clients/ABP.svg"
+        image: "/images/clients/ABP.svg",
+        url:"https://www.abplive.com/"
+
     },
     {
-        image: "/images/clients/Memechat.svg"
+        image: "/images/clients/Memechat.svg",
+        url:"https://memechat.app/"
+
     },
     {
-        image: "/images/clients/volks.svg"
+        image: "/images/clients/volks.svg",
+        url:"https://www.volkswagen.co.in/en.html"
+
     },
    
 ]
@@ -32,9 +45,12 @@ const BrandItem = () => {
     return (
         <>
             {Data.map((data, index) => (
-                <div className="col-lg-4 col-6" key={index}>
+                <div className="col-lg-3 col-6" key={index}>
                     <div className="brand-grid clientLogo">
-                        <img src={process.env.PUBLIC_URL + data.image} alt="Brand" />
+                      <a className="brand-grid clientLogo" target="_blank" href={data.url}>
+                      <img src={process.env.PUBLIC_URL + data.image} alt="Brand" />
+
+                      </a>
                     </div>
                 </div>
             ))}

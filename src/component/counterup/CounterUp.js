@@ -35,7 +35,7 @@ const Data = [
 
 const CounterUp = ({ colSize, layoutStyle, evenTopMargin }) => {
   return (
-    <div className="section section-padding bg-color-ship-gray">
+    <div className="section section-padding section-padding-numbers bg-color-ship-gray">
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-6">
