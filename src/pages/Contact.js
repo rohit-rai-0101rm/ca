@@ -18,61 +18,73 @@ import BcrumbBannerOne from "../elements/breadcrumb/BcrumbBannerOne";
 import ProcessOne from "../component/process/ProcessOne";
 import BcrumbBannerContact from "../elements/breadcrumb/BcrumbBannerContact";
 import BcrumbBannerTouch from "../elements/breadcrumb/BcrumbBannerTouch";
+import FormTouch from "../component/contact/FormTouch";
 
 const Contact = () => {
   return (
     <>
-      <SEO title="About us" />
-      <ColorSwitcher />
-      <main className="main-wrapper">
+    <SEO title="Blog Grid" />
+    <ColorSwitcher />
+    <main className="main-wrapper">
         <HeaderOne />
-        <BcrumbBannerContact
-          title="One of the fastest growing agency"
-          paragraph="We design and develop web and mobile applications for our clients worldwide."
-          styleClass="thumbnail-4"
-          mainThumb="/images/banner/banner-thumb-3.png"
+        <BreadCrumbOne 
+        title="Contact"
+        page="Contact"
         />
-        <div className="section section-padding-innovate">
-          <div className="container">
-            <center>
-              <h3 className="title">
-                Get in Touch
-              </h3>
-              <h6>Get in touch with the right people at Dignifyd, we’re here to help.</h6>
-            </center>
 
+    <div className="section section-padding">
+        <div className="container">
             <div className="row">
-              <div className="col-xl-6 col-lg-6">
-                <img src="/images/contact.webp" />
-              </div>
-
-              <div className="col-xl-6 col-lg-6">
-                <div className="contact-form-box shadow-box">
-                  <FormFour />
+                <div className="col-xl-5 col-lg-6">
+                    <div className="contact-form-box shadow-box mb--30">
+                        <h3 className="title">need a human? Let’s talk.
+</h3>
+                        <FormTouch />
+                    </div>
                 </div>
-              </div>
+                <div className="col-xl-5 col-lg-6 offset-xl-1">
+                    <div className="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
+                        <h4 className="title">Phone</h4>
+                        <p>Our customer care is open from Mon-Fri, 10:00 am to 6:00 pm</p>
+                        <h4 className="phone-number"><a href="tel:+971-501-599-266">+971-501-599-266</a></h4>
+                    </div>
+                    <div className="contact-info mb--30">
+                        <h4 className="title">Email</h4>
+                        <p>Our support team will get back to in 48-h during standard business hours.</p>
+                        <h4 className="phone-number"><a href="mailto:www.dignifyd.ae">www.dignifyd.ae</a></h4>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div className="section section-padding-amazing   overflow-hidden">
-          <div className="container">
-            <div className={`section-heading`}>
-              <div className="subtitle"></div>
-              <h2 className="titleAmazing">
-                we serve <strong>amazing</strong> coffee... Let's Meet?
-              </h2>
-              <p></p>
-            </div>
-            <div className="row">
-              <ContactLocation />
-            </div>
-          </div>
-        </div>
+        <ul className="list-unstyled shape-group-12">
+            <li className="shape shape-1"><img src={process.env.PUBLIC_URL + "/images/others/bubble-2.png"} alt="Bubble" /></li>
+            <li className="shape shape-2"><img src={process.env.PUBLIC_URL + "/images/others/bubble-1.png"} alt="Bubble" /></li>
+            <li className="shape shape-3"><img src={process.env.PUBLIC_URL + "/images/others/circle-3.png"} alt="Circle" /></li>
+        </ul>
+    </div>
 
-        <CtaLayoutOne />
-        <FooterOne parentClass="" />
-      </main>
-    </>
+    <div className="section section-padding bg-color-dark overflow-hidden">
+        <div className="container">
+            <SectionTitle 
+                subtitle="Find Us"
+                title="Our office"
+                description=""
+                textAlignment="heading-light-left"
+                textColor=""
+            />
+            <div className="row">
+                <ContactLocation />
+            </div>
+        </div>
+        <ul className="shape-group-11 list-unstyled">
+            <li className="shape shape-1"><img src={process.env.PUBLIC_URL + "/images/others/line-6.png"} alt="line" /></li>
+            <li className="shape shape-2"><img src={process.env.PUBLIC_URL + "/images/others/circle-3.png"} alt="line" /></li>
+        </ul>
+    </div>
+
+    <FooterOne parentClass="pt--150 pt_lg--100 pt_md--80 pt_sm--60" />
+    </main>
+</>
   );
 };
 

@@ -96,7 +96,6 @@ const DigitalAgency = () => {
         </div>
         <AboutFour />
         <Innovate />
-        <Content />
         <CounterUpOne />
         <TeamOne />
         <CtaLayoutOne />
