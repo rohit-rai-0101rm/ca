@@ -32,7 +32,7 @@ const Contact = () => {
           styleClass="thumbnail-4"
           mainThumb="/images/banner/banner-thumb-3.png"
         />
-        <div className="section section-padding">
+        <div className="section section-padding-innovate">
           <div className="container">
             <center>
               <h3 className="title">
@@ -43,7 +43,7 @@ const Contact = () => {
 
             <div className="row">
               <div className="col-xl-6 col-lg-6">
-                <img src="/images/unique/revol.png" />
+                <img src="/images/contact.webp" />
               </div>
 
               <div className="col-xl-6 col-lg-6">
