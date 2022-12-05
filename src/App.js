@@ -52,7 +52,6 @@ import TermsOfUse from './pages/TermsOfUse';
 import './assets/scss/app.scss';
 import WhyAbout from './pages/WhyAbout';
 import HowWorks from './pages/HowWorks';
-import WebDevelopment from './pages/WebDevelopment/WebDevelopment';
 import Webdevelopment from './pages/Webdevelopment';
 import Design from './pages/Design';
 

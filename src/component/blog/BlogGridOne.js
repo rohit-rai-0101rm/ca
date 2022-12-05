@@ -61,17 +61,34 @@ const BlogGridOne = () => {
                         <Link to={process.env.PUBLIC_URL + `/blog-details/${data.id}`}>{data.title}</Link>
                     </h3>
                     <div className="author">
-                        <div className="author-thumb">
-                            <img src={`${process.env.PUBLIC_URL}/${data.author_avatar}`} alt="Blog Author" />
-                        </div>
+                    
                         <div className="info">
                             <h6 className="author-name">
-                                <Link to={process.env.PUBLIC_URL + `/archive/${slugify(data.author_name)}`}>{data.author_name}</Link>
                             </h6>
-                            <ul className="blog-meta list-unstyled">
-                                <li>{data.post_date}</li>
-                                <li>{data.read_time}</li>
-                            </ul>
+                            
+                            <p>
+                          A one-stop solution for your custom web application needs - from designing interactive UI/UX, personalization, design, quality checks,<br/> support, and maintenance. We offer custom-built solutions so you stay ahead of the competition, while our customer-centric approach <br/> ensures better conversion rates!
+                          </p>
+                          <p>
+Technologies we use to create Web Applications:
+                      </p>
+                      
+                      <div className="col-md-4 col-sm-6 mb--30">
+                                    <ol className="list-style">
+                                    <li>Angular Js</li>
+                                    <li>React Js</li>
+                                    <li>VueJS</li>
+                                    <li>PHP</li>
+                                    <li>NodeJS</li>
+                                    <li>Java</li>
+
+                                    </ol>
+                                </div>
+                                <p className='mt--80'>Do You Need A Custom Web Application For Business?
+
+</p>
+            <button type="submit" className="axil-btn touch " >Get in Touch</button>
+
                         </div>
                     </div>
                     <div className="post-thumbnail">
@@ -80,40 +97,22 @@ const BlogGridOne = () => {
                             <Slider {...slideSettings} className="slick-arrow-nav">
                                 {data.large_thumb.map((data, index) => (
                                     <div className="slide-item" key={index}>
-                                        <img src={`${process.env.PUBLIC_URL}/${data}`} alt="Blog" />
                                     </div>
                                 ))}
                                 
                             </Slider> 
-                            : <Link to={process.env.PUBLIC_URL + `/blog-details/${data.id}`}><img src={`${process.env.PUBLIC_URL}/${data.large_thumb}`} alt="Blog" /></Link>
+                            : <Link to={process.env.PUBLIC_URL + `/blog-details/${data.id}`}>
+                            
+                            
+                            </Link>
                         }
                         
-                        {data.format === "video" ?
-                        <>
-                            <div className="popup-video">
-                                <button className="play-btn" onClick={ () => setToggler(!toggler) }><FaPlay /></button>
-                            </div> 
-                            <FsLightbox toggler={ toggler } sources={ ['https://www.youtube.com/watch?v=1iIZeIy7TqM'] }/>
-                        </> 
-                        : ""
-                        }  
+                    
                     </div>
-                    <p>{data.excerpt}</p>
-                    <Link className="axil-btn btn-borderd btn-large" to={process.env.PUBLIC_URL + `/blog-details/${data.id}`}>Read More</Link>
                 </div>
             ))}
 
-            <ReactPaginate
-                previousLabel={<FaArrowLeft />}
-                nextLabel={<FaArrowRight />}
-                pageCount= {pageCount}
-                onPageChange={changePage}
-                containerClassName={"pagination justify-content-start"}
-                previousLinkClassName={"prev"}
-                nextLinkClassName={"next"}
-                disabledClassName={"disabled"}
-                activeClassName={"current"}
-            />
+         
 
         </>
     )
