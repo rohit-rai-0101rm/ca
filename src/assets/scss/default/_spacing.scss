@@ -26,8 +26,9 @@
     }
 }
 .section-padding-innovate {
+    max-height: 850px;
     background-color: #F0DBDB;
-    padding: 75px 0px 0px;
+    padding: 75px 0px 75px 0px;
     @media #{$smlg-device} {
         padding: 100px 0 70px;
     }
@@ -71,6 +72,9 @@
 }
 .section-padding-mission{
     background-color: #F0DBDB;
+}
+.success-text{
+    font-size: 24px;
 }
 
 .section-padding-2 {

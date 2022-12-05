@@ -12,7 +12,7 @@ const Success = () => {
                 <h2 className="">
                   the foundation to your <strong>success.</strong>
                 </h2>
-                <p className="">
+                <p className="success-text">
                   We care about more than just tech, we
                   <br /> care about creating value and want <br /> your business
                   to succeed. Making <br /> sure to deliver excellence and{" "}

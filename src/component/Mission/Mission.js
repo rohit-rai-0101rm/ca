@@ -19,7 +19,7 @@ const Mission = () => {
           </div>
           <div className="row">
           
-            <div className="col-xl-6 col-lg-6 ">
+            <div className="col-xl-6 col-lg-6">
                 <h3 className="title">
                   integrity.
                   <br />
@@ -28,18 +28,19 @@ const Mission = () => {
                   innovation.
                 </h3>
 
-                <p className="">
+                <p >
                   Dignifyd, strives to meet its customers’ needs in order to
-                  build a long-term, successful business relationship with them.
-                </p>
-                <p className="mt-2">
+                  build a long-term, successful business relationship with them.<br/>
+                  <br/>
                   We believe in excellent customer service and that all of our
-                  customers deserve our best efforts to further serve them.
-                </p>
-                <p>
+                  customers deserve our best efforts to further serve them.<br/>
+                  <br/>
                   We hope you will join us as we build a tradition of excellence
                   and professional excellence.
                 </p>
+              
+                
+                
             </div>
          
             <div className="col-xl-6 col-lg-6 case-study-featured-thumb text-start"></div>
