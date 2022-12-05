@@ -13,6 +13,7 @@ import {
 } from "react-icons/fa";
 import ServiceData from "../../data/service/ServiceMain.json";
 import { slugify } from "../../utils";
+import Logo from "../../elements/logo/Logo";
 
 const getServiceData = ServiceData;
 
@@ -70,25 +71,9 @@ const FooterOne = ({ parentClass }) => {
           <div className="row">
             <div className="col-xl-6 col-lg-5">
               <div className="footer-widget border-end">
-                <div className="footer-newsletter">
-                  <h2 className="title">Get in touch!</h2>
-
-                  <form>
-                    <div className="input-group">
-                      <span className="mail-icon">
-                        <FaEnvelopeOpen />{" "}
-                      </span>
-                      <input
-                        type="email"
-                        className="form-control"
-                        placeholder="Email address"
-                      />
-                      <button className="subscribe-btn" type="submit">
-                        Subscribe
-                      </button>
-                    </div>
-                  </form>
-                </div>
+              
+                <img className="footerLogo" src="/images/dignifydLogo.png"/>
+              
               </div>
             </div>
             <div className="col-xl-6 col-lg-7">
