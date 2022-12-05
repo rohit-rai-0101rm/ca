@@ -12,13 +12,13 @@ const Success = () => {
                 <h2 className="">
                   the foundation to your <strong>success.</strong>
                 </h2>
-                <p className="success-text">
+                <p className="innovate-list-para">
                   We care about more than just tech, we
                   <br /> care about creating value and want <br /> your business
                   to succeed. Making <br /> sure to deliver excellence and{" "}
                   <br /> professional service.
                 </p>
-                <p>
+                <p className="innovate-list-para" >
                   Our goal is to help you make the right <br/> decisions for your
                   business.
                 </p>

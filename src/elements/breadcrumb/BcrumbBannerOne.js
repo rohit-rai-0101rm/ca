@@ -12,7 +12,7 @@ const BcrumbBannerOne = ({ title, paragraph, styleClass, mainThumb }) => {
           <h1 className="title h2">
             An overnight success, <strong>5-years</strong><br/><strong>in the making</strong> 
           </h1>
-          <p >A partner for all your digital needs, we offer a technology-driven
+          <p className="innovate-list-para">A partner for all your digital needs, we offer a technology-driven
 approach to all our projects.</p>
         </div>
       </div>

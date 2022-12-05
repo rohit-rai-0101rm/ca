@@ -24,22 +24,22 @@ const AboutFour = () => {
                   <br />
                   convert<strong> faster</strong>{" "}
                 </h2>
-                <p className="">
+                <p className="innovate-list-para">
                   Crafting responsive, friendly designs with instant impact,
                   impressing users, and effectively portraying your brand.
                 </p>
               </div>
               <div className="col-md-12 col-sm-6 mb--30">
                 <ul className="list-style">
-                  <li>
+                  <li className="innovate-list">
                     Deliver a tailor-made experience to your customers to
                     attract them.
                   </li>
-                  <li>
+                  <li className="innovate-list">
                     We study user behavourial patterns to ensure highly
                     interactive & friendly designs.
                   </li>
-                  <li>
+                  <li className="innovate-list">
                     Using the power of Psychology, we make sure to be
                     aesthetically pleasing for first time interactions.
                   </li>

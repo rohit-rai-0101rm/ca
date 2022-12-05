@@ -13,7 +13,7 @@ const Innovate = () => {
                   we code to <br />
                   <strong> innovate</strong>{" "}
                 </h2>
-                <p className="">
+                <p className="innovate-list-para">
                   Early design-driven development enables rapid <br />
                   changes to minimize both cost and time. Code that
                   <br /> drives your business forward. We test our systems to
@@ -22,15 +22,15 @@ const Innovate = () => {
               </div>
               <div className="col-md-12 col-sm-6 mb--30">
                 <ul className="list-style">
-                  <li>
+                  <li className="innovate-list">
                     Deliver a tailor-made experience to your customers to
                     attract them.
                   </li>
-                  <li>
+                  <li className="innovate-list">
                     We study user behavourial patterns to ensure highly
                     interactive & friendly designs.
                   </li>
-                  <li>
+                  <li className="innovate-list">
                     Using the power of Psychology, we make sure to be
                     aesthetically pleasing for first time interactions.
                   </li>

@@ -28,7 +28,7 @@ const Mission = () => {
                   innovation.
                 </h3>
 
-                <p >
+                <p className="innovate-list-para" >
                   Dignifyd, strives to meet its customers’ needs in order to
                   build a long-term, successful business relationship with them.<br/>
                   <br/>
@@ -41,6 +41,17 @@ const Mission = () => {
               
                 
                 
+            </div>
+             
+         
+            <div className="col-xl-6 col-lg-6 ">
+           
+              <div className="section-heading heading-right">
+                <img
+                  src={process.env.PUBLIC_URL + "/images/solutions.webp"}
+                  alt="travel"
+                />
+              </div>
             </div>
          
             <div className="col-xl-6 col-lg-6 case-study-featured-thumb text-start"></div>

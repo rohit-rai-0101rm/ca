@@ -3,11 +3,11 @@
     {
         "thumb": "/images/cities/citi1.svg",
         "title": "Dubai",
-        "address": "Level 3, Conventional Tower, World Trade Center"
+        "address": "Level 3, Convention Tower, World Trade Center"
     },
     {
         "thumb": "/images/cities/citi2.svg",
-        "title": "San Francisco",
+        "title": "London",
         "address": "548 Market St.San Francisco, CA 94104-5401"
     },
     {
@@ -16,7 +16,7 @@
         "address": "546 Hanuman Mandir Road, Chirag Delhi"
     },
     {
-        "thumb": "/images/cities/cities-3.svg",
+        "thumb": "/images/cities/citi3.svg",
         "title": "New Delhi Delhi",
         "address": "546 Hanuman Mandir Road, Chirag Delhi"
     }

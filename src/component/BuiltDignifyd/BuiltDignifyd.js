@@ -14,23 +14,26 @@ const BuiltDignifyd = () => {
                   <strong>Digitally Ahead.</strong>
                 </h2>
               </div>
-          
-            
             </div>
           </div>
           <div className="col-xl-2 col-lg-3"></div>
           <div className="col-xl-5 col-lg-3">
             <div className="case-study-featured-thumb text-start">
-              <p>
-              Our core business is to provide clients all over the <br/> world with scalable, dependable, and inexpensive<br/> eCommerce, Digital Solutions, Marketing, and <br/> Development services.
+              <p className="innovate-list-para">
+                Our core business is to provide clients all over the world with
+                scalable, dependable, and inexpensive eCommerce, Digital
+                Solutions, Marketing, and Development services.
               </p>
             </div>
             <div className="case-study-featured-thumb text-start">
-              <p>
-              Our innovative methods and trained personnel have<br/> enabled us to complete projects on time and within <br/>budget, allowing us to become the technology <br/> partner of choice for numerous businesses <br/> throughout the Middle East, Europe, the United <br/>States & India.              </p>
+              <p className="innovate-list-para">
+                Our innovative methods and trained personnel have enabled us to
+                complete projects on time and within budget, allowing us to
+                become the technology partner of choice for numerous businesses
+                throughout the Middle East, Europe, the United States & India.
+              </p>
             </div>
           </div>
-          
         </div>
       </div>
     </div>
