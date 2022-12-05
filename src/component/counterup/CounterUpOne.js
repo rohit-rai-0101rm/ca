@@ -3,14 +3,17 @@ import SectionTitle from "../../elements/section-title/SectionTitle";
 import CounterUp from "../../component/counterup/CounterUp";
 
 const CounterUpOne = () => {
-  return (
-    <div className="section section-padding bg-color-ship-gray">
-      <div className="container">
-        <div className="row">
-          <CounterUp colSize="col-lg-3 col-6" layoutStyle="" evenTopMargin="" />
+   
+    return (
+        <div className="section section-padding  section-padding-numbers bg-color-ship-gray">
+            <div className="container">
+          
+                <div className="row">
+                    <CounterUp colSize="col-lg-3 col-6" layoutStyle="" evenTopMargin="" />
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
+     
   );
 };
 

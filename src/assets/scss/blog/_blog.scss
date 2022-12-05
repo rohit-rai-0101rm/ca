@@ -577,6 +577,11 @@
         }
     } 
 }
+.touch {
+    background-color:var(--color-primary);
+    border: none;
+    color: #fff;
+}
 .technologyImages{
     height: 100px;
     width: 100px;
@@ -590,4 +595,14 @@
 }
 .mission15{
     padding: 3rem;
+}
+.row-services{
+    padding: 10rem;
+}
+.titleClient{
+    color:#fff
+
+}
+.text2center{
+    text-align: center;
 }

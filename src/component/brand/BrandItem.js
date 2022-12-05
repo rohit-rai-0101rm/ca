@@ -9,7 +9,7 @@ const Data = [
         image: "/images/clients/Logos-03.svg"
     },
     {
-        image: "/images/clients/Logos-04.svg"
+        image: "/images/clients/tvg.svg"
     },
   
     {
@@ -20,6 +20,9 @@ const Data = [
     },
     {
         image: "/images/clients/Memechat.svg"
+    },
+    {
+        image: "/images/clients/volks.svg"
     },
    
 ]

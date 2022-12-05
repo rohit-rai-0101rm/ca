@@ -13,6 +13,18 @@
         padding: 60px 0 30px;
     }
 }
+.section-padding {
+    padding: 140px 0 110px;
+    @media #{$smlg-device} {
+        padding: 100px 0 70px;
+    }
+    @media #{$md-layout} {
+        padding: 80px 0 50px;
+    }
+    @media #{$sm-layout} {
+        padding: 60px 0 30px;
+    }
+}
 .section-padding-innovate {
     background-color: #F0DBDB;
     padding: 75px 0px 0px;
@@ -102,6 +114,9 @@
 }
 .mt--120 {
     margin-top: 120px;
+}
+.mt--80 {
+    margin-top: 80px;
 }
 .mt--90 {
     margin-top: 90px;
@@ -258,4 +273,8 @@
 .enquiry{
     height: 200px;
     width: 200px;
+}
+.section-padding-numbers{
+    padding: 20px 0px 20px
+
 }

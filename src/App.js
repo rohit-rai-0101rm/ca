@@ -52,8 +52,12 @@ import TermsOfUse from './pages/TermsOfUse';
 import './assets/scss/app.scss';
 import WhyAbout from './pages/WhyAbout';
 import HowWorks from './pages/HowWorks';
+<<<<<<< HEAD
 
 import Seo from './pages/Seo';
+=======
+import Webdevelopment from './pages/Webdevelopment';
+>>>>>>> dev/b
 import Design from './pages/Design';
 import DigitalMarketing from './pages/DigitalMarketing';
 import Webdevelopment from './pages/Webdevelopment';

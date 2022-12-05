@@ -33,11 +33,11 @@ const DigitalAgency = () => {
         <BrandOne />
         <div className="section bg-color-light section-padding">
           <div className="container">
-            <h3 class>
+            <h2 className="text2center">
               creating something truly
-              <br />
+             
               <strong> unique!</strong>
-            </h3>
+            </h2>
             <PricingOne />
           </div>
           <ul className="list-unstyled shape-group-3">
