@@ -10,13 +10,14 @@ const BannerDesign = () => {
                     <div className="col-lg-6">
                         <div className="banner-content">
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
-                                <h1 className="title">innovative.</h1>
-                                <h1 className="title">bold.</h1>
-                                <h1 className="title">effective.</h1>
+                                <h1 className="title">Professional & Creative Graphic
+                                Design Agency
+                                </h1>
+                                <h5 >Quality designs delivered in no time</h5>
 
-                                <span className="subtitle">Jumpstart your<strong>Digital Journey with Dignifyd!</strong>  We create websites and apps, devise growth strategies, and develop a brand identity.</span>
+                                <span className="subtitle">We offer a ﬁne-tuned creative aspect to the designs while adhering to your branding guidelines. Our job doesn’t end at simply creating clean, simple, and unique designs, but we go one step beyond by providing assistance and post-production support.</span>
                                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">
-                                    Schedule a free consultation</Link>
+                                    Explore Graphic Design Packages</Link>
                             </AnimationOnScroll>
                         </div>
                     </div>
