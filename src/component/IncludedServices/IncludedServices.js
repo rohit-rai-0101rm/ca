@@ -35,7 +35,7 @@ const IncludedServices = () => {
 
     return (
         <>
-            <div className="row row-services">
+            <div className="row row-services row-services2">
                     <div className="col-lg-4">
                         <div className="pricing-table pricing-borderd">
                             <div className="pricing-header">
