@@ -24,10 +24,10 @@ const Nav = () => {
                 <li className="menu-item-has-children">
                     <Link to="#">Services<FaAngleDown /></Link>
                     <ul className="axil-submenu">
-                        <li><Link to={process.env.PUBLIC_URL + "/about"}>Digital Marketing</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/how-it-works"}>SEO</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/services/web-development"}>Web Development</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/services/design"}>Design</Link></li>
+                        <li><Link >Digital Marketing</Link></li>
+                        <li><Link >SEO</Link></li>
+                        <li><Link >Web Development</Link></li>
+                        <li><Link >Design</Link></li>
 
                     </ul>
                 </li>
