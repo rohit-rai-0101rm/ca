@@ -11,14 +11,17 @@ import Content from '../component/content/Content'
 import CounterUpOne from '../component/counterup/CounterUpOne'
 import CtaLayoutOne from '../component/cta/CtaLayoutOne'
 import DigitalMarketingIntro from '../component/DigitalMarketingIntro/DigitalMarketingIntro'
+import DigitalMarketingServices from '../component/DIgitalMarketingServices/DigitalMarketingServices'
 import Innovate from '../component/Innovate/Innovate'
 import PricingOne from '../component/pricing/PricingOne'
 import ProcessOne from '../component/process/ProcessOne'
 import ServicePropOne from '../component/service/ServicePropOne'
 import TeamOne from '../component/team/TeamOne'
 import Unleash from '../component/Unleash/Unleash'
+import WhyChooseUs from '../component/WhyChooseUs/WhyChooseUs'
 import SectionTitle from '../elements/section-title/SectionTitle'
 import ColorSwitcher from '../elements/switcher/ColorSwitcher'
+import ServiceOne from './ServiceOne'
 
 const DigitalMarketing = () => {
   return (
@@ -29,13 +32,9 @@ const DigitalMarketing = () => {
       <HeaderOne />
 
       <DigitalMarketingIntro />
-   
-
-    
-      <AboutFour />
-      <Unleash />
-      <CounterUpOne />
-      <TeamOne />
+         <Unleash />
+      <DigitalMarketingServices />
+      <WhyChooseUs />
       <CtaLayoutOne />
 
       <FooterOne parentClass="" />

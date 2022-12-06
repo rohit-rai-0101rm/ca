@@ -1,0 +1,72 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Brand Building",
+        "description": "Our full service digital marketing agency will make sure that your brand registers itself on the radar of your target audience. With our brand building service, you’ll soon find your products and offerings becoming the talk of the town."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Paid Search",
+        "description": "Rank higher on search engine results pages with our paid search service. We’ll combine inventive PPC strategies with high quality ads to maximize your campaign’s ROI."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Marketing Strategy",
+        "description": "Want to know what’s the best way to reach your customers? Our marketing strategy service will help! From effectively giving you the lay of the land to helping you increase sales opportunities, we’ll look to it that you always stay ahead of the curve."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Paid Social",
+        "description": "Tap into the immense potential of social media with our paid social service. We help boost the visibility and reach of your brand by crafting ads that are perfectly in sync with your audience’s user profiles.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-28.png",
+        "title": "Content Marketing",
+        "description": "Content is vital currency for every business out there and we help you leverage it to the fullest. With our content marketing service, we aim to position you as a thought leader within your domain and fortify the bond you share with your customers.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Messaging and Positioning",
+        "description": "Cut through the noise and carve a unique brand identity for yourself. Our messaging and positioning service will help you cast an indelible impression on your audience’s minds."
+    },
+    {
+        "image": "/images/icon/icon-5.png",
+        "title": "B2B Marketing",
+        "description": "Looking to effectively market your offerings to other businesses and organizations? Our B2B marketing experts have got you covered. We’ll help you chalk out airtight strategies, identify the right channels, and run high-performing campaigns."
+    },
+    {
+        "image": "/images/icon/icon-6.png",
+        "title": "Content and Website Personalization",
+        "description": "Take your engagement to new heights with our content and website personalization service. We help you deliver personalized experiences by expertly leveraging zero and first-party data."
+    },
+
+    {
+        "image": "/images/icon/icon-29.png",
+        "title": "Video Production",
+        "description": "Explain the USPs of your products in an immersive and comprehensive manner with the help of our video production services. Capture your audience’s imagination with ease and successfully drive home your value proposition without breaking a sweat.",
+        "cate": "Design"
+    },
+   
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Affiliate Marketing",
+        "description": "Set up an additional revenue source for your business with our affiliate marketing service. Uncover new networking opportunities and drive more traffic to your page.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-30.png",
+        "title": "Conversion Rate Optimization (CRO)",
+        "description": "Convert visitors to customers effortlessly with our conversion rate optimization service. We will optimize your landing page, improve your site navigation, and immaculately monitor visitor activity to bolster your conversion rates.",
+        "cate": "Design"
+    },
+
+    {
+        "image": "/images/icon/icon-31.png",
+        "title": "Branded Search",
+        "description": "With our branded search service, we will help enhance your SERP authority and outshine your competitors’ ads.",
+        "cate": "Development"
+    }
+    
+]
