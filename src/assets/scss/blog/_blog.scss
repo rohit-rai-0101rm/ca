@@ -628,3 +628,18 @@
 font-size: 18px !important;
 font-weight: 500 !important;
 }
+
+.image-rezising{
+    height: 7rem;
+    width: 7rem;
+ 
+}
+.image-sizing{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.centerimage{
+    display: flex;
+    justify-content: center;
+}

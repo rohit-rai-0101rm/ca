@@ -8,11 +8,16 @@ import BannerOne from "../component/banner/BannerOne";
 import BannerDesign from '../component/BannerDesign/BannerDesign';
 import BlogOne from "../component/blog/BlogOne";
 import BrandOne from "../component/brand/BrandOne";
+import BrandingService from '../component/BrandingService/BrandingService';
 import CaseStudyProp from "../component/casestudy/CaseStudyProp";
 import Content from "../component/content/Content";
 import CounterUpOne from "../component/counterup/CounterUpOne";
 import CtaLayoutOne from "../component/cta/CtaLayoutOne";
+import FaqDesign from '../component/faq/FaqDesignn';
+import FormGraphics from '../component/FormGraphics/FormGraphics';
 import Innovate from "../component/Innovate/Innovate";
+import LifeCycle from '../component/LifeCycle/LifeCycle';
+import PixelDiscription from '../component/Pixeldiscription/PixelDiscription';
 import PricingOne from "../component/pricing/PricingOne";
 import ProjectOne from "../component/project/ProjectOne";
 import ServicePropOne from "../component/service/ServicePropOne";
@@ -21,6 +26,7 @@ import TestimonialOne from "../component/testimonial/TestimonialOne";
 import SectionTitle from "../elements/section-title/SectionTitle";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 import Testimonials from "./Testimonials";
+import Typography from './Typography';
 const Design = () => {
   return (
     <>
@@ -30,14 +36,19 @@ const Design = () => {
       <HeaderOne />
       <BannerDesign/>
 
-      <BrandOne />
+      <PixelDiscription />
+      <BrandingService />
+      <LifeCycle/>
+      <Typography/>
+      <FormGraphics/>
+      <FaqDesign/>
+
       <div className="section bg-color-light section-padding">
         <div className="container">
           <h3 class>
             creating something truly
             <strong> unique!</strong>
           </h3>
-          <PricingOne />
         </div>
         <ul className="list-unstyled shape-group-3">
           <li className="shape shape-1">
