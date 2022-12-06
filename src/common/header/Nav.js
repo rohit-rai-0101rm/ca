@@ -24,10 +24,10 @@ const Nav = () => {
                 <li className="menu-item-has-children">
                     <Link to="#">Services<FaAngleDown /></Link>
                     <ul className="axil-submenu">
-                        <li><Link >Digital Marketing</Link></li>
-                        <li><Link >SEO</Link></li>
-                        <li><Link >Web Development</Link></li>
-                        <li><Link >Design</Link></li>
+                        <li><Link to="/services/digital-marketing" >Digital Marketing</Link></li>
+                        <li><Link to="/services/seo" >SEO</Link></li>
+                        <li><Link to="/services/web-development">Web Development</Link></li>
+                        <li><Link to="/services/design">Design</Link></li>
 
                     </ul>
                 </li>
