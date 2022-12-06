@@ -14,7 +14,11 @@ const ContactLocation = () => {
                         </div>
                         <div className="content">
                             <h4 className="title">{data.title}</h4>
-                            <p className='addressLine2'>{data.address}</p>
+                            <p className='addressLine2'>{data.address}
+                            
+                            {data.phone}
+                            </p>
+
                         </div>
                     </div>
                 </div>
