@@ -15,20 +15,40 @@ const Sign = () => {
             <SectionTitle6 />
           </div>
           <div className="col-lg-12 col-xl-12">
-            <center>
-            
-            </center>
+            <center></center>
             <div className="faq-accordion">
               <Accordion defaultActiveKey="1">
                 {allData.map((data) => (
                   <Accordion.Item eventKey={data.id} key={data.id}>
-                    <Accordion.Header>
-                      {data.title}
-                    </Accordion.Header>
+                    <Accordion.Header>{data.title}</Accordion.Header>
                     <Accordion.Body>
                       <p>{data.body}</p>
+                      <br />
                       <p>{data.body2}</p>
-
+                      <br />
+                      <p>{data.body3}</p>
+                      <br />
+                      {data.heading1}
+                      <br />
+                      <p>{data.para1}</p>
+                      <br />
+                      {data.heading2}
+                      <br />
+                      <p>{data.para2}</p>
+                      <br />
+                      {data.heading3}
+                      <br />
+                      <p>{data.para3}</p>
+                      <br />
+                      {data.heading4}
+                      <br />
+                      <p>{data.para4}</p>
+                      <br />
+                      {data.heading5}
+                      <br />
+                      <p>{data.para5}</p>
+                      <br/>
+                      <p>{data.para6}</p>
                     </Accordion.Body>
                   </Accordion.Item>
                 ))}
