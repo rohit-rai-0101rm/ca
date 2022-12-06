@@ -49,8 +49,6 @@ const DigitalMarketingServices = () => {
        
 
     
-        <CtaLayoutOne />
-        <FooterOne parentClass="" />
       </main>
     </>
   );

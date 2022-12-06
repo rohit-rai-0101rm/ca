@@ -1,0 +1,42 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/process-1.png",
+        "subtitle": "Step One",
+        "title": "Range of services",
+        "paragraph": "Before partnering up with a digital marketing services company, make sure they have an extensive service suite to offer.",
+        "paragraph2": "Share complete roles, and responsibilities, must-have skills, necessary market experience, and budget.On top of this, we’ll also ask certain behavioral questions to ensure that we not only find talent with technical skills but also someone who matches the vibe and culture that you have in your company.The more information you share, the better matchmaking we would be able to do for you."
+
+    
+    
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/process-2.png",
+        "subtitle": "Step Two",
+        "title": "Credibility",
+        "paragraph": "Once you have shortlisted agencies, go through online reviews and their customer testimonials to evaluate their trustworthiness and reliability"
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/process-3.png",
+        "subtitle": "Step Three",
+        "title": "Compatibility",
+        "paragraph": "Assess whether the agency’s work ethic aligns with that of your business or not. Additionally, try to find out what kind of experience they have dealing with projects specific to your industry."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/process-4.png",
+        "subtitle": "Step four",
+        "title": "Support",
+        "paragraph": "Digital marketing often involves several operations running parallely. Hence, the agency you choose must offer continuous support to eliminate confusion and resolve queries as and when they arise."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/process-4.png",
+        "subtitle": "Step four",
+        "title": "Security",
+        "paragraph": "When you join hands with a digital marketing firm, you will be making them privy to sensitive information. Before proceeding, look to it that they draw an ironclad NDA to steer clear of data misuse and security breaches."
+    }
+]
