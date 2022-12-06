@@ -20,23 +20,24 @@ const Unleash = () => {
             <div className="case-study-featured">
               <div className="section-heading heading-left">
                 <h3 className="">
-                  A Digital Marketing Firm That Believes In Unleashing Limitless
+                  A Digital Marketing Firm That <br/> Believes In Unleashing<br/> Limitless
                   Possibilities
                 </h3>
-                <p className="">
+                <p className="unleash-para">
                   An effective digital marketing campaign requires strategic
                   planning and <br /> consistent optimization to drive results.
-                  Our digital marketing agency services <br /> have the
+                  Our digital marketing agency <br/> services  have the
                   bandwidth and faculty to execute multiple campaigns with
-                  minimal <br /> turnaround time at scale. We chalk out
-                  well-defined and focused strategies <br /> in a bid to
+                  minimal  turnaround time at scale. We chalk out
+                  well-defined and focused strategies  in a bid to
                   minimize the time to returns and maximize ROI.
                 </p>
-              </div>
-         
-              <Link to="#" className="axil-btn btn-fill-primary btn-large">
+                <Link to="#" className="axil-btn btn-fill-primary btn-large">
                 Inquire Now
               </Link>
+              </div>
+         
+            
             </div>
           </div>
         </div>
