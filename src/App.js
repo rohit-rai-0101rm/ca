@@ -57,6 +57,7 @@ import Seo from './pages/Seo';
 import Design from './pages/Design';
 import DigitalMarketing from './pages/DigitalMarketing';
 import Webdevelopment from './pages/Webdevelopment';
+import SeoPage from './pages/SeoPage';
 
 
 
@@ -80,6 +81,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/category/:slug"} element={<BlogCategory />}/>
 				<Route path={process.env.PUBLIC_URL + "/archive/:slug"} element={<BlogArchive />}/>
 				<Route path={process.env.PUBLIC_URL + "/blog-details/:id"} element={<BlogDetails />}/>
+				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<SeoPage />}/>
 
 				{/* Service */}
 				<Route path={process.env.PUBLIC_URL + "/service-one/"} element={<ServiceOne />}/>

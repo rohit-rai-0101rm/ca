@@ -41,14 +41,9 @@ const FormTwo = () => {
         </div>
         <div className="form-group">
             <input placeholder="Work Email*" type="email" className="form-control" name="contact-email" required />
-            <input placeholder='Full Name*' type="text" className="form-control" name="contact-name" required />
         </div>
-        <div className="form-group">
-            <input placeholder='Your Email*' type="email" className="form-control" name="contact-email" required />
-        </div>
-        <div className="form-group">
-            <input placeholder='Company*' type="email" className="form-control" name="contact-email" required />
-        </div>
+       
+      
         <div className="form-group">
             <input  placeholder="Phone*" type="tel" className="form-control" name="contact-phone" required />
         </div>
@@ -61,9 +56,8 @@ const FormTwo = () => {
         </select>
         </div>
         <div className="form-group mb--40">
-            <input placeholder="Share Your Requirements*"  className="form-control" name="contact-message" rows="4"></input>
             <label>How can we help you?</label>
-            <textarea placeholder='Describe your project to uss*' className="form-control" name="contact-message" rows="4"></textarea>
+            <textarea placeholder='Describe your project to us*' className="form-control" name="contact-message" rows="4"></textarea>
             
         </div>
         <div className="form-group">

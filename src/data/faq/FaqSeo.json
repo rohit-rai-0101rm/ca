@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "What is SEO?",
+        "body": "SEO, also known as Search Engine Optimization, is a technique to increase your website’s visibility, traffic and rankings in Search Engines (Google, Yahoo or Bing)."
+    },
+    {
+        "id": 2,
+        "title": "Planning",
+        "body": "We will provide you with the wireframing based on your specific requirements. The wireframes will help us come on the same page with the website's layout, approach, and style."
+    },
+    {
+        "id": 3,
+        "title": "Design.",
+        "body": "At this point, our goal is to produce a UI design that matches the expectations of your website and appeals to your customers."
+    },
+    {
+        "id": 4,
+        "title": "Development",
+        "body": "This step involves execution, from defining the tech architecture and choosing the right technology stack to finally turning your vision into reality."
+    },
+    {
+        "id": 5,
+        "title": "Launch",
+        "body": "Here comes the time for the final delivery! We will provide the final output for you to review and share feedback."
+    }
+
+
+]
