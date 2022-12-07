@@ -8,6 +8,7 @@ import BrandOne from "../component/brand/BrandOne";
 import BuiltDignifyd from "../component/BuiltDignifyd/BuiltDignifyd";
 import CounterUpOne from "../component/counterup/CounterUpOne";
 import CtaLayoutOne from "../component/cta/CtaLayoutOne";
+import GetstartedForm from "../component/GetstartedForm/GetstartedForm";
 import HiringProcess from "../component/HiringProcess/HiringProcess";
 import JobOpenings from "../component/JobOpenings/JobOpenings";
 import Mission from "../component/Mission/Mission";
@@ -32,6 +33,7 @@ const HowWorks = () => {
         mainThumb="/images/banner/banner-thumb-3.png"
       />
       <HiringProcess />
+      <GetstartedForm/>
       <CounterUpOne />
 
       <div className="section section-padding-2 bg-color-dark">

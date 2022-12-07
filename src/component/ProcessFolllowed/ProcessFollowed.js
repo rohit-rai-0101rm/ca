@@ -11,12 +11,10 @@ const ProcessFollowed = () => {
         <div className="section section-padding-equal bg-color-light faq-area">
             <div className="container">
                 <div className="row">
+                         <center>  <h3>Web Development Process followed by Dignifyd being a Website Development Agency</h3> </center> 
+                          
                     <div className="col-lg-5 col-xl-4">
-                        <SectionTitle 
-                            title="Web Development Process followed by Uplers being a Website Development Agency"
-                            textAlignment="heading-left"
-                            textColor=""
-                        />
+                   
                     </div>
                     <div className="col-lg-7 col-xl-8">
                         <div className="faq-accordion">

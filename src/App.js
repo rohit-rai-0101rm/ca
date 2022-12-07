@@ -60,6 +60,7 @@ import Webdevelopment from './pages/Webdevelopment';
 import SeoPage from './pages/SeoPage';
 import WhyIndia from './pages/WhyIndia';
 
+import HowitWorks from './pages/HowitWorks';
 
 
 const App = () => {
@@ -123,6 +124,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/services/design"} element={<Design />}/>
 				<Route path={process.env.PUBLIC_URL + "/why-india"} element={<WhyIndia />}/>
 
+				
+                
 			</Routes>
 		</ScrollToTop>
     </Router>

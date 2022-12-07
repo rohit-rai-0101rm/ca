@@ -24,7 +24,7 @@ const PixelDiscription = () => {
                 </h2>
                 <p className="">
                 A Graphic Design Company That is Pixel Perfect
-Uplers is one of the preferred design agencies across 52+ nations owing to our quick TAT records, quality-standards, and great experience. We have been working over bulk design production requirements as well as creative design requirements from scratch. These include – websites, landing pages, display banners, email templates, blogs, infographics, eBooks, etc.
+                  Dignifyd is one of the preferred design agencies across 52+ nations owing to our quick TAT records, quality-standards, and great experience. We have been working over bulk design production requirements as well as creative design requirements from scratch. These include – websites, landing pages, display banners, email templates, blogs, infographics, eBooks, etc.
                 </p>
               </div>
               <div className="col-md-12 col-sm-6 mb--30">

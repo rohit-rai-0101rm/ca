@@ -46,7 +46,7 @@ const IncludedServices = () => {
                             </div>
                                 <h3 className="title">Ecommerce Web Development Services</h3>
                                 <div className="price-wrap">
-                                Uplers' team of Ecommerce experts can help you build and develop your online store and all things related. We offer consultation, design, execution, quality checks, and integrations to ensure your store is functioning at its best.
+                                Dignifyd's team of Ecommerce experts can help you build and develop your online store and all things related. We offer consultation, design, execution, quality checks, and integrations to ensure your store is functioning at its best.
                                 </div>
                             </div>
                          

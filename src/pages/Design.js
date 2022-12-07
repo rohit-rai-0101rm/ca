@@ -40,6 +40,7 @@ const Design = () => {
       <BrandingService />
       <LifeCycle/>
       <Typography/>
+      
       <FormGraphics/>
       <FaqDesign/>
 
