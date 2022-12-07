@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const SectionTitle = ({subtitle, title, description, textAlignment, textColor}) => {
+const SectionTitleWhyChooseus = ({subtitle, title, description, textAlignment, textColor}) => {
     return (
         <div className={`section-heading ${textAlignment} ${textColor}`}>
             <div className="subtitle" dangerouslySetInnerHTML={{__html: subtitle}}></div>
@@ -11,4 +11,4 @@ const SectionTitle = ({subtitle, title, description, textAlignment, textColor}) 
     )
 }
 
-export default SectionTitle;
+export default SectionTitleWhyChooseus;

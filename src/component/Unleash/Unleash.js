@@ -19,10 +19,10 @@ const Unleash = () => {
           <div className="col-xl-7 col-lg-7">
             <div className="case-study-featured">
               <div className="section-heading heading-left">
-                <h3 className="">
-                  A Digital Marketing Firm That <br/> Believes In Unleashing<br/> Limitless
+                <h4 className="title">
+                  A Digital Marketing Firm That  Believes In Unleashing Limitless
                   Possibilities
-                </h3>
+                </h4>
                 <p className="unleash-para">
                   An effective digital marketing campaign requires strategic
                   planning and <br /> consistent optimization to drive results.

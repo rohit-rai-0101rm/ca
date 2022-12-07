@@ -11,9 +11,9 @@ const SectionTitle2 = ({
     <div>
       <div className="subtitle">
 <center>
-    <h3 className="title">
+    <h4 className="title">
     What a Digital Marketing Services Company Can Do for Your Business
-    </h3>
+    </h4>
 </center>
 
       </div>

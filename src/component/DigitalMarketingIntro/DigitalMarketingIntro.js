@@ -9,14 +9,14 @@ const DigitalMarketingIntro = () => {
         <div className="row">
            
             <div className="col-xl-7 col-lg-6 ">
-                <div className="color-light  mb_md--30 mt_md--0 mt--100 ">
-                    <h2 className="title">Build A Formidable Brand Identity With Our Digital Marketing Services</h2>
+                <div className="color-light   mt_md--0 mt--60 ">
+                    <h3 className="title">Build A Formidable Brand Identity With Our Digital Marketing Services</h3>
                     <h4>Skyrocket your visibility, foster lasting customer relationships, and soar ahead of your competitors.</h4>
                     <p>Be it garnering new leads, consolidating your brand’s online footprint, or maximizing your revenue, digital marketing helps lend a competitive edge to your business. As a leading digital marketing firm, we help you achieve all these goals and more. Powered by our skilled technicians and customer-first ideology, our digital marketing services are sure to elevate your brand’s growth to the next level.</p>
                     
                 </div>
                 <div className="form-group">
-            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Explore Digital Marketing Pages</button>
+            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary mt--130" name="submit-btn">Explore Digital Marketing Packages</button>
         </div>
                
             </div>
