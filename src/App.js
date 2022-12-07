@@ -62,6 +62,7 @@ import WhyIndia from './pages/WhyIndia';
 
 import HowitWorks from './pages/HowitWorks';
 import DedicatedResource from './pages/DedicatedResource';
+import ManageServiceProvider from './pages/ManageServiceProvider';
 
 
 const App = () => {
@@ -128,6 +129,8 @@ const App = () => {
 
 				
 				
+
+				<Route path={process.env.PUBLIC_URL + "/managed-service-provider"} element={<ManageServiceProvider />}/>
                 
 			</Routes>
 		</ScrollToTop>
