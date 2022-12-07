@@ -9,6 +9,7 @@ import BuiltDignifyd from "../component/BuiltDignifyd/BuiltDignifyd";
 import CounterUpOne from "../component/counterup/CounterUpOne";
 import CtaLayoutOne from "../component/cta/CtaLayoutOne";
 import HireFromIndia from "../component/HireFromIndia/HireFromIndia";
+import HireTalent from "../component/HireTalent/HireTalent";
 import HiringProcess from "../component/HiringProcess/HiringProcess";
 import JobOpenings from "../component/JobOpenings/JobOpenings";
 import Mission from "../component/Mission/Mission";
@@ -33,27 +34,12 @@ const WhyIndia = () => {
         paragraph="We design and develop web and mobile applications for our clients worldwide."
         styleClass="thumbnail-4"
         mainThumb="/images/banner/banner-thumb-3.png"
-       />
-        <HireFromIndia/>
-              <Talent />
+      />
+      <HireFromIndia />
+      <Talent />
+      <HireTalent />
 
       <div className="section section-padding-2 bg-color-dark">
-        <div className="container">
-          <SectionTitle
-            subtitle="What We Can Do For You"
-            title="services that get you results"
-            description="Transform how your business works. We brainstorm together, develop strategies & build brands that guarantee business."
-            textAlignment="heading-light-left"
-            textColor=""
-          />
-          <div className="row">
-            <ServicePropOne
-              colSize="col-xl-4 col-md-6"
-              serviceStyle=""
-              itemShow="18"
-            />
-          </div>
-        </div>
         <ul className="list-unstyled shape-group-10">
           <li className="shape shape-1">
             <img
@@ -75,10 +61,7 @@ const WhyIndia = () => {
           </li>
         </ul>
       </div>
-      <Success />
-      <Mission />
 
-      <TeamDetails />
       <JobOpenings />
       <CtaLayoutOne />
 
