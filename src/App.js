@@ -61,6 +61,7 @@ import SeoPage from './pages/SeoPage';
 import WhyIndia from './pages/WhyIndia';
 
 import HowitWorks from './pages/HowitWorks';
+import DedicatedResource from './pages/DedicatedResource';
 
 
 const App = () => {
@@ -123,7 +124,9 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<Webdevelopment />}/>
 				<Route path={process.env.PUBLIC_URL + "/services/design"} element={<Design />}/>
 				<Route path={process.env.PUBLIC_URL + "/why-india"} element={<WhyIndia />}/>
+				<Route path={process.env.PUBLIC_URL + "/dedicated-resources"} element={<DedicatedResource />}/>
 
+				
 				
                 
 			</Routes>
