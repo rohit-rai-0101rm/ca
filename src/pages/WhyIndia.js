@@ -8,6 +8,7 @@ import BrandOne from "../component/brand/BrandOne";
 import BuiltDignifyd from "../component/BuiltDignifyd/BuiltDignifyd";
 import CounterUpOne from "../component/counterup/CounterUpOne";
 import CtaLayoutOne from "../component/cta/CtaLayoutOne";
+import FaqWhyIndia from "../component/faq/FaqWhyIndia";
 import HireFromIndia from "../component/HireFromIndia/HireFromIndia";
 import HireTalent from "../component/HireTalent/HireTalent";
 import HiringProcess from "../component/HiringProcess/HiringProcess";
@@ -19,6 +20,7 @@ import Success from "../component/Success/Success";
 import Talent from "../component/team/Talent";
 import TeamDetails from "../component/team/TeamDetails";
 import TeamOne from "../component/team/TeamOne";
+import TopChoice from "../component/TopChoice/TopChoice";
 import BcrumbBannerHowWorks from "../elements/breadcrumb/BcrumbBannerHowWorks";
 import BcrumbBannerOne from "../elements/breadcrumb/BcrumbBannerOne";
 import BcrumbBannerWhyIndia from "../elements/breadcrumb/BcrumbBannerWhyIndia";
@@ -38,6 +40,7 @@ const WhyIndia = () => {
       <HireFromIndia />
       <Talent />
       <HireTalent />
+      <FaqWhyIndia/>
 
       <div className="section section-padding-2 bg-color-dark">
         <ul className="list-unstyled shape-group-10">
@@ -61,6 +64,7 @@ const WhyIndia = () => {
           </li>
         </ul>
       </div>
+      <TopChoice/>
 
       <JobOpenings />
       <CtaLayoutOne />
