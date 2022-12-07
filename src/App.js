@@ -54,6 +54,7 @@ import WhyAbout from './pages/WhyAbout';
 import HowWorks from './pages/HowWorks';
 import Webdevelopment from './pages/Webdevelopment';
 import Design from './pages/Design';
+import HowitWorks from './pages/HowitWorks';
 
 
 const App = () => {
@@ -109,6 +110,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
 				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<Webdevelopment />}/>
 				<Route path={process.env.PUBLIC_URL + "/services/design"} element={<Design />}/>
+				
                 
 			</Routes>
 		</ScrollToTop>

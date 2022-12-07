@@ -9,8 +9,7 @@ const HiringProcess = () => {
   return (
     <div className="section section-padding bg-color-light pb--70">
       <SectionTitle
-        title="Hiring Indian talent was never this easy.
-                "
+        title="Hiring Indian talent was never this easy."
         description="A platform that takes care of everything beforehand.
                 Uplers source, vet, match and manage the talents for you."
         textAlignment=""
@@ -59,7 +58,7 @@ const HiringProcess = () => {
               For better clarity, when we receive the hiring request, there are
               3 cases that we come across in terms of matchmaking:
             </p>
-
+            <br/>
             <ul className="list-style">
               <li>
                 Deliver a tailor-made experience to your customers to attract
@@ -74,6 +73,8 @@ const HiringProcess = () => {
                 pleasing for first time interactions.
               </li>
             </ul>
+            <br/>
+            <div className="coloring2"> <strong><i>#Pre-interview Assessments -</i></strong>if you want any talents to take any additional assessment to better judge their technical capabilities, you can share your tests and the candidate would be more than willing to complete them.</div>
           </div>
           <Tilty perspective={2000}>
             <div className="thumbnail">
@@ -92,9 +93,17 @@ const HiringProcess = () => {
           <div className="content">
             <span className="subtitle">Step Three </span>
             <h3 className="title">Interview & Hire</h3>
-            <p>ggggggggggggggg</p>
+            <p>Assess them until you are confident, and provide feedback.</p>
             <br />
-            <p>gggggggggggggg</p>
+            <p>Because every talent is pre-vetted against their communication skills, technical capabilities, and more, we reduce the guesswork and the probability of a wrong hire drastically.</p>
+            <br />
+            <p>This helps even non-technical managers/interviewers to assess the talents mainly on the VIBE check.</p>
+            <br/>
+            <div className="coloring2"> <strong> <i>#No-Obligation Interview -</i> </strong>You are not obligated to hire unless you are 100% confident and happy with the talent.</div>
+            <br/>
+            <div className="coloring2"> <strong><i>#No Risk Trial -</i> </strong>We have the option where the talent can work for up to 2 weeks (based on availability), which allows many clients to gain more trust and confidence to decide on hiring, in the case where the clients are in two minds after the interview.</div>
+            
+            
           </div>
         </div>
       </div>
@@ -103,9 +112,14 @@ const HiringProcess = () => {
           <div className="content">
             <span className="subtitle">Step Four</span>
             <h3 className="title">Onboard & Manage</h3>
-            <p>ggggggggggggggg</p>
+            <p>After you confirm the talent, we sort all the legalities and contract with the talent, ensure a smooth onboarding and help you manage the talent.</p>
             <br />
-            <p>gggggggggggggg</p>
+            <p>A talent success coach from Uplers remains to ensure the engagement between the client and talent is top-notch.</p>
+            <br/>
+            <div className="coloring2"> <strong><i>#30-days Replacement -</i></strong>You will always have the option of replacement if you ever face challenges with the talent, which Uplers will fulfill without a problem.</div>
+            <br/>
+            <div className="coloring2"> <strong><i>#Easy Cancellation -</i>  </strong>In an unfortunate event if you don’t need the talent anymore or if there are constant performance challenges, you can opt for cancellation of engagement by giving a 30 days notice period at any given time. </div>
+            
           </div>
           <Tilty perspective={2000}>
             <div className="thumbnail">
