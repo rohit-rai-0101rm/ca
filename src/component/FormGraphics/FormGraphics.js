@@ -36,7 +36,7 @@ const FormGraphics = () => {
 
     return (
         <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
-        <div className="form-group">
+        <div className="form-group ">
             <input placeholder="Name*" type="text" className="form-control" name="contact-name" required />
         </div>
         <div className="form-group">

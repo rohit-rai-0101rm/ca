@@ -6,6 +6,7 @@ import { FaPlay, FaAngleRight, FaAngleLeft, FaArrowRight, FaArrowLeft } from "re
 import FsLightbox from 'fslightbox-react';
 import Slider from "react-slick";
 import ReactPaginate from 'react-paginate';
+import ResultDriven2 from '../Resultdriven2/ResultDriven2';
 
 
 const allBlogData = BlogData;
@@ -73,16 +74,8 @@ const BlogGridOne = () => {
 Technologies we use to create Web Applications:
                       </p>
                       
-                      <div className="col-md-4 col-sm-6 mb--30">
-                                    <ol className="list-style">
-                                    <li>Angular Js</li>
-                                    <li>React Js</li>
-                                    <li>VueJS</li>
-                                    <li>PHP</li>
-                                    <li>NodeJS</li>
-                                    <li>Java</li>
-
-                                    </ol>
+                      <div className="col-md-12 col-sm-12 mb--30">
+                                   <ResultDriven2/>
                                 </div>
                                 <p className='mt--80'>Do You Need A Custom Web Application For Business?
 

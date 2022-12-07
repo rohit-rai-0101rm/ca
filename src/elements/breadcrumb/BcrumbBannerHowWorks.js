@@ -13,7 +13,7 @@ const BcrumbBannerHowWorks = () => {
               <br />
             </h1>
             <p>
-              Right Matchmaking is at the core of everything that Uplers does,
+              Right Matchmaking is at the core of everything that Dignifyd does,
               hence, we put in <br/> a great deal of time and effort to ensure that
               the first shortlisted talent matches <br/> your requirements.
             </p>

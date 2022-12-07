@@ -11,7 +11,7 @@ const HiringProcess = () => {
       <SectionTitle
         title="Hiring Indian talent was never this easy."
         description="A platform that takes care of everything beforehand.
-                Uplers source, vet, match and manage the talents for you."
+                Dignifyd source, vet, match and manage the talents for you."
         textAlignment=""
         textColor="mb--90"
       />
@@ -114,9 +114,9 @@ const HiringProcess = () => {
             <h3 className="title">Onboard & Manage</h3>
             <p>After you confirm the talent, we sort all the legalities and contract with the talent, ensure a smooth onboarding and help you manage the talent.</p>
             <br />
-            <p>A talent success coach from Uplers remains to ensure the engagement between the client and talent is top-notch.</p>
+            <p>A talent success coach from Dignifyd remains to ensure the engagement between the client and talent is top-notch.</p>
             <br/>
-            <div className="coloring2"> <strong><i>#30-days Replacement -</i></strong>You will always have the option of replacement if you ever face challenges with the talent, which Uplers will fulfill without a problem.</div>
+            <div className="coloring2"> <strong><i>#30-days Replacement -</i></strong>You will always have the option of replacement if you ever face challenges with the talent, which Dignifyd will fulfill without a problem.</div>
             <br/>
             <div className="coloring2"> <strong><i>#Easy Cancellation -</i>  </strong>In an unfortunate event if you don’t need the talent anymore or if there are constant performance challenges, you can opt for cancellation of engagement by giving a 30 days notice period at any given time. </div>
             

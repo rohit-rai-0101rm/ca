@@ -9,16 +9,9 @@ const Frequently = () => {
     <div className="section section-padding-equal bg-color-light faq-area">
     <div className="container">
         <div className="row">
-            <div className="col-lg-3 col-xl-4">
-                <SectionTitle 
-                    subtitle="Pricing Plan"
-                    title="Frequently asked questions"
-                    description="Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque."
-                    textAlignment="heading-left"
-                    textColor=""
-                />
-            </div>
-            <div className="col-lg-9 col-xl-8">
+        <center> <h2>Frequently asked questions</h2> </center> 
+            
+            <div className="col-lg-12 col-xl-12">
                 <div className="faq-accordion">
                     <Accordion defaultActiveKey="1">
                         {allData.map((data) => (
