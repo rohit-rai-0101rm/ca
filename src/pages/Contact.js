@@ -107,6 +107,7 @@ const Contact = () => {
             </li>
           </ul>
         </div>
+        <CtaLayoutOne/>
 
         <FooterOne parentClass="pt--150 pt_lg--100 pt_md--80 pt_sm--60" />
       </main>
