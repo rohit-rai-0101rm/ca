@@ -56,6 +56,7 @@ import Webdevelopment from './pages/Webdevelopment';
 import Design from './pages/Design';
 import HowitWorks from './pages/HowitWorks';
 import ManageServiceProvider from './pages/ManageServiceProvider';
+import DedicatedResources from './pages/DedicatedResources';
 
 
 const App = () => {
@@ -112,6 +113,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<Webdevelopment />}/>
 				<Route path={process.env.PUBLIC_URL + "/services/design"} element={<Design />}/>
 				<Route path={process.env.PUBLIC_URL + "/managed-service-provider"} element={<ManageServiceProvider />}/>
+                <Route path={process.env.PUBLIC_URL + "/dedicated-resources"} element={<DedicatedResources />}/>
                 
 			</Routes>
 		</ScrollToTop>
