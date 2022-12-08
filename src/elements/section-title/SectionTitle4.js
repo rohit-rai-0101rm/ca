@@ -6,11 +6,11 @@ const SectionTitle4 = ({subtitle, title, description, textAlignment, textColor})
         <div className={`section-heading ${textAlignment} ${textColor}`}>
             <div className="subtitle"></div>
             <center>
-            <h2 className="title" >
+            <h3 className="title" >
 
 
 Why Your Business Should Be Using Digital Agency Services
-            </h2>
+            </h3>
             </center>
         
             <p ></p>

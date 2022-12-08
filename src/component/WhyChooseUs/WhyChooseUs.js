@@ -2,6 +2,7 @@ import React from 'react';
 import Accordion from 'react-bootstrap/Accordion';
 import SectionTitle from '../../elements/section-title/SectionTitle';
 import { FaCompress, FaCode, FaGlobe } from 'react-icons/fa';
+import SectionTitleWhyChooseus from '../../elements/section-title/SectionTitle';
 
 
 const WhyChooseUs = () => {
@@ -11,13 +12,8 @@ const WhyChooseUs = () => {
             <div className="row">
             <div className="col-lg-6">
                 <div className="why-choose-us">
-                <SectionTitle 
-                   
-                    title="There Are Plenty of Online Marketing Companies Why Choose Us?"
-                    description="Wondering what sets our digital marketing services a cut above the rest? Take a look."
-                    textAlignment="heading-left"
-                    textColor=""
-                />
+             <h4>There Are Plenty of Online Marketing Companies Why Choose Us? </h4>
+             <p className="innovate-list-para">Wondering what sets our digital marketing services a cut above the rest? Take a look.</p>
                     <Accordion defaultActiveKey="1">
                         <Accordion.Item eventKey="1">
                             <Accordion.Header><FaCompress /> Ample Industry Experience</Accordion.Header>

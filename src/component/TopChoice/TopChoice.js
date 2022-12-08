@@ -4,22 +4,22 @@ import SectionTitle from "../../elements/section-title/SectionTitle";
 const Datas = [
   {
     id: 1,
-    title: "Uplers Source",
+    title: "DIgnifyd Source",
     para: "We attract talents in India through the top 3 benefits that are super attractive.",
   },
   {
     id: 2,
-    title: "Uplers Vet",
+    title: "DIgnifyd Vet",
     para: "We screen every candidate with our rigorous Vetting process for language proficiency, technical capabilities, and behavioral skills.",
   },
   {
     id: 3,
-    title: "Uplers Match",
+    title: "DIgnifyd Match",
     para: "We match the job requirement with the candidates through our skill matchmaking process, ensuring that only the best one matches. (We have 70% First Interview Select Ratio)",
   },
   {
     id: 4,
-    title: "Uplers Manage",
+    title: "DIgnifyd Manage",
     para: "Proin dignissim facilisis tortor a mattis. Morbi non maximus nunc, ut mattis tellus. In hac habitasse platea dictumst. Mauris viverra enim tellus, vel ultrices dolor aliquam non.",
   },
 ];

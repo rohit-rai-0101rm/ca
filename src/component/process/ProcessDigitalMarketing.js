@@ -26,7 +26,7 @@ const ProcessDigitalMarketing = () => {
                     <div className="content">
                         <span className="subtitle">{data.subtitle}</span>
                         <h3 className="title">{data.title}</h3>
-                        <p>{data.paragraph}</p>
+                        <p className='innovate-list-para'>{data.paragraph}</p>
                     </div>
                 </div>
                 ))}

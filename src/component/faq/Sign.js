@@ -8,7 +8,7 @@ const allData = FaqData;
 
 const Sign = () => {
   return (
-    <div className="section section-padding-equal bg-color-light faq-area">
+    <div className="section section-padding-equal bg-white  faq-area">
       <div className="container">
         <div className="row">
           <div className="col-lg-5 col-xl-4">
@@ -20,7 +20,9 @@ const Sign = () => {
               <Accordion defaultActiveKey="1">
                 {allData.map((data) => (
                   <Accordion.Item eventKey={data.id} key={data.id}>
-                    <Accordion.Header>{data.title}</Accordion.Header>
+                    <Accordion.Header className="titleSigns">
+                      {data.title}
+                    </Accordion.Header>
                     <Accordion.Body>
                       <p>{data.body}</p>
                       <br />
@@ -28,26 +30,30 @@ const Sign = () => {
                       <br />
                       <p>{data.body3}</p>
                       <br />
-                      {data.heading1}
+                      <p className="titleSigns">{data.heading1}</p>
                       <br />
                       <p>{data.para1}</p>
                       <br />
-                      {data.heading2}
+                      <p className="titleSigns"> {data.heading2}</p>
+
                       <br />
                       <p>{data.para2}</p>
                       <br />
-                      {data.heading3}
+                      <p className="titleSigns">{data.heading3}</p>
                       <br />
                       <p>{data.para3}</p>
                       <br />
-                      {data.heading4}
+                      <p className="titleSigns">{data.heading4}</p>
                       <br />
                       <p>{data.para4}</p>
                       <br />
+                      <p className="titleSigns">
                       {data.heading5}
+                      </p>
+                      
                       <br />
                       <p>{data.para5}</p>
-                      <br/>
+                      <br />
                       <p>{data.para6}</p>
                     </Accordion.Body>
                   </Accordion.Item>
@@ -68,12 +74,6 @@ const Sign = () => {
           <img
             src={process.env.PUBLIC_URL + "/images/others/line-4.png"}
             alt="line"
-          />
-        </li>
-        <li className="shape shape-4">
-          <img
-            src={process.env.PUBLIC_URL + "/images/others/poses-lady.png"}
-            alt="Poses"
           />
         </li>
       </ul>

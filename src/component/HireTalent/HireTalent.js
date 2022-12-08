@@ -4,22 +4,22 @@ import SectionTitle from "../../elements/section-title/SectionTitle";
 const Datas = [
   {
     id: 1,
-    title: "Uplers Source",
+    title: "DIgnifyd Source",
     para: "We attract talents in India through the top 3 benefits that are super attractive.",
   },
   {
     id: 2,
-    title: "Uplers Vet",
+    title: "DIgnifyd Vet",
     para: "We screen every candidate with our rigorous Vetting process for language proficiency, technical capabilities, and behavioral skills.",
   },
   {
     id: 3,
-    title: "Uplers Match",
+    title: "DIgnifyd Match",
     para: "We match the job requirement with the candidates through our skill matchmaking process, ensuring that only the best one matches. (We have 70% First Interview Select Ratio)",
   },
   {
     id: 4,
-    title: "Uplers Manage",
+    title: "DIgnifyd Manage",
     para: "Proin dignissim facilisis tortor a mattis. Morbi non maximus nunc, ut mattis tellus. In hac habitasse platea dictumst. Mauris viverra enim tellus, vel ultrices dolor aliquam non.",
   },
 ];
@@ -32,12 +32,12 @@ const HireTalent = () => {
 
         <div className="row">
              <h2 className="talentTitle">
-          How Uplers is making it ridiculously easy to hire Indian Talents?
+          How DIgnifyd is making it ridiculously easy to hire Indian Talents?
         </h2>
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">1</h3>
-              <h5 className="title">Uplers Source</h5>
+              <h5 className="title">DIgnifyd Source</h5>
               <p>
                 We attract talents in India through the top 3 benefits that are
                 super attractive.
@@ -53,7 +53,7 @@ const HireTalent = () => {
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">2</h3>
-              <h5 className="title">Uplers Vet</h5>
+              <h5 className="title">DIgnifyd Vet</h5>
               <p>
                 We screen every candidate with our rigorous Vetting process for
                 language proficiency, technical capabilities, and behavioral
@@ -64,7 +64,7 @@ const HireTalent = () => {
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">3</h3>
-              <h5 className="title">Uplers Match</h5>
+              <h5 className="title">DIgnifyd Match</h5>
               <p>
                 We match the job requirement with the candidates through our
                 skill matchmaking process, ensuring that only the best one
@@ -75,7 +75,7 @@ const HireTalent = () => {
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">4</h3>
-              <h5 className="title">Uplers Manage</h5>
+              <h5 className="title">DIgnifyd Manage</h5>
               <p>
                 We take care of all the employment contracts, payrolls, IT
                 support, HR support, etc.

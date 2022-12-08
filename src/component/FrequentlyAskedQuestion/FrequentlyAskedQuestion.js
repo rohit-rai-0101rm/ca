@@ -13,7 +13,7 @@ const FrequentlyAskedQuestion = () => {
                 <div className="row">
                     <div className="col-lg-5 col-xl-4">
                         <SectionTitle 
-                            title="Web Development Process followed by Uplers being a Website Development Agency"
+                            title="Web Development Process followed by DIgnifyd being a Website Development Agency"
                             textAlignment="heading-left"
                             textColor=""
                         />

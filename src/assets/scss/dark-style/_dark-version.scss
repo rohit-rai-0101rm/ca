@@ -750,6 +750,10 @@
         color: white !important;
 
     }
+    .section-padding-unleash{
+        background-color:  var(--color-dark);
+        color: white !important;
+    }
     .section-padding-amazing{
         background-color:  var(--color-ship-gray);
 
@@ -877,7 +881,11 @@
         }
     }
     
-    
+    .titleSigns{
+        color: white !important;
+        font-weight: 700 !important;
+    }
+
 
     // Why Choose 
     .why-choose-us {
@@ -1175,7 +1183,7 @@
             }
         }
     }
-
+  
     // Splash Page
 
     .splash-main-banner {
