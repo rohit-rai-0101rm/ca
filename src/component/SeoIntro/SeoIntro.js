@@ -3,13 +3,13 @@ import FormTwo from "../contact/FormTwo";
 
 const SeoIntro = () => {
   return (
-    <div className="section section-padding-proffessional ">
+    <div className="section section-padding-proffessional mt--100 ">
       <div className="container ">
         <div className="row">
           <div className="col-xl-7 col-lg-6 ">
-            <div className="color-light  mb_md--30 mt_md--0 mt--100 ">
+            <div className="color-light  mb_md--30 mt_md--0 mt--60">
               <h2 className="title">Professional SEO Services Company</h2>
-              <h4>Rank Better. Increase Traffic. Achieve Better ROIs</h4>
+              <h4>Rank Better. Increase Traffic.<br/> Achieve Better ROIs</h4>
               <p>
                 We are a leading SEO Company that believes in human-first SEO
                 strategies. Our SEO experts are known for curating legit and
@@ -22,7 +22,7 @@ const SeoIntro = () => {
             <div className="form-group">
               <button
                 type="submit"
-                className="axil-btn btn-fill-primary btn-fluid btn-primary"
+                className="axil-btn btn-fill-primary btn-fluid btn-primary mt--150"
                 name="submit-btn"
               >
                 Explore SEO Pricing Packages

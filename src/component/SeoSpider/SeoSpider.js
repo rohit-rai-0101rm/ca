@@ -5,7 +5,7 @@ import TrackVisibility from "react-on-screen";
 
 const SeoSpider = () => {
   return (
-    <div className="section section-padding case-study-featured-area">
+    <div className="section section-padding-spider case-study-featured-area">
       <div className="container">
         <div className="row">
           <div className="col-xl-7 col-lg-6">
