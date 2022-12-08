@@ -1,0 +1,35 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "IT Help & Support Desk",
+        "description": "An omnichannel service desk approach for faster resolutions of issues and incidents."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Hybrid Datacenter Management",
+        "description": "Meet business demands and protect existing technology investment"
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": " Cloud Managed Services",
+        "description": "Maintain infrastructure and reduce risks by implementing best cloud practices."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": " Network Management ",
+        "description": "Optimize your IT network to boost up your business performance.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-28.png",
+        "title": "IT Security Management ",
+        "description": "Enjoy more secure, reliable, and risk-free business processes.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Disaster Recovery as a Service",
+        "description": "Protect and recover business-critical data & applications rapidly & reliably."
+    }
+    
+]
