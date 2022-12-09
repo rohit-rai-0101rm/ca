@@ -1,6 +1,7 @@
 import React from 'react'
 import HeaderOne from '../common/header/HeaderOne'
 import BrandingMatters from '../component/BrandingMatters/BrandingMatters'
+import FaqThree from '../component/faq/FaqThree'
 import TalentNetwork from '../component/TalentNetwork/TalentNetwork'
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne'
 import BcrumbDedicatedResources from '../elements/breadcrumb/BcrumbDedicatedResources'
@@ -17,6 +18,7 @@ const DedicatedResources = () => {
     />
     <TalentNetwork/>
     <BrandingMatters/>
+    <FaqThree/>
     </div>
   )
 }

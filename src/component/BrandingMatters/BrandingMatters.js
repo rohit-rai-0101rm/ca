@@ -10,7 +10,7 @@ const BrandingMatters = () => {
         <div className="container">
             <div className="row">
             <div className="col-lg-12">
-                <div className="why-choose-us centerthediv">
+                <div className="why-choose-us ">
            
                 <h1>
                     Why branding matters
@@ -23,21 +23,27 @@ const BrandingMatters = () => {
                
                     <Accordion defaultActiveKey="1">
                         <Accordion.Item eventKey="1">
-                            <Accordion.Header><FaCompress /> Strategy</Accordion.Header>
+                            <Accordion.Header><FaCompress /> Share the Job Description</Accordion.Header>
                             <Accordion.Body>
-                            Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque.
+                            Share complete roles and responsibilities, must-have skills, necessary market experience and budget.
                             </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="2">
-                            <Accordion.Header><FaCode /> Design</Accordion.Header>
+                            <Accordion.Header><FaCode /> Review & Shortlist the Matches</Accordion.Header>
                             <Accordion.Body>
-                            Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque.
+                            We'll match the best-fitted profile(s) in the next 48 hours for your review. You shortlist and share the time slots for us to schedule interviews.
                             </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="3">
-                            <Accordion.Header><FaGlobe /> Development</Accordion.Header>
+                            <Accordion.Header><FaGlobe /> Interview & Hire</Accordion.Header>
                             <Accordion.Body>
-                            Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque.
+                            Assess them until you are confident and provide feedback.
+                            </Accordion.Body>
+                        </Accordion.Item>
+                        <Accordion.Item eventKey="4">
+                            <Accordion.Header><FaGlobe /> Onboard & Manage</Accordion.Header>
+                            <Accordion.Body>
+                            We'll sort all the legalities and contracts with the talent, ensure a smooth onboarding and help you manage the talent.
                             </Accordion.Body>
                         </Accordion.Item>
                     </Accordion>
