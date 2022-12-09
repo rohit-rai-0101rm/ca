@@ -66,13 +66,7 @@ const HireTalent = () => {
                                     <Link to="#" className="axil-btn btn-large btn-borderd">Get Started Today</Link>
                                 </div>
                             </div>
-                            <div className="pricing-body">
-                                <ul className="list-unstyled">
-                                    {data.facility.map((data, index) => (
-                                        <li key={index}><FaCheck /> {data}</li>
-                                    ))}
-                                </ul>
-                            </div>
+                     
                         </div>
                     </div>
                 ))}

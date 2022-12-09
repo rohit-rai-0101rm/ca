@@ -642,7 +642,7 @@
     display: flex;
     align-items: center;
     width: 30%;
-    justify-content: space-around ;
+ 
     padding: 0px 20px 0px 20px;;
      
 }
@@ -651,13 +651,16 @@
     display: flex;
    padding: 0px 20px 0px 20px !important;
     width: 70%;
-    justify-content: space-between;
+    justify-content:space-between;
+  
 }
 
 .boxes
 {
     background-color: #e8e4e4;
     padding: 2px 6px 2px 6px;
+ 
+    
 }
 .centerthediv{
     text-align: center;
@@ -665,4 +668,7 @@
 
 .imagegap{
     padding:10px;
+}
+.talentImage{
+    padding: 0px 10px 0px 0px;
 }
