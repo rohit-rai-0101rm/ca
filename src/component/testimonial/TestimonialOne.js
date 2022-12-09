@@ -6,7 +6,7 @@ const TestimonialOne = () => {
     return (
         <div className="section section-padding">
             <div className="container">
-               <h3>hear what<strong> brands</strong>  around the world <br/><strong>saying</strong> about Dignifyd.</h3>
+               <h3 className='titleUnique'>hear what<strong className='uniqueBold'> brands</strong>  around the world <br/><strong className='uniqueBold'>saying</strong> about Dignifyd.</h3>
                 <div className="row">
                     <TestimonialPropOne colSize="col-lg-4" itemShow="3"/>
                 </div>

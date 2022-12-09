@@ -46,10 +46,10 @@
         padding: 100px 0 70px;
     }
     @media #{$md-layout} {
-        padding: 80px 0 50px;
+        max-height: 1550px;
     }
     @media #{$sm-layout} {
-        padding: 60px 0 30px;
+        max-height: 1650px;
     }
     
 }
@@ -126,7 +126,9 @@
 .mt--200 {
     margin-top: 200px;
 }
-
+.mt--250 {
+    margin-top: 270px;
+}
 .mt--150 {
     margin-top: 150px;
 }

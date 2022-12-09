@@ -11,7 +11,7 @@ const Unleash = () => {
           <div className="col-xl-5 col-lg-5 col-sm-12">
             <div className="case-study-featured-thumb text-start">
               <img
-                src={process.env.PUBLIC_URL + "/images/designs.png"}
+                src={process.env.PUBLIC_URL + "/images/digitalmarketing01.png"}
                 alt="travel"
               />
             </div>

@@ -2,7 +2,7 @@
 
     {
         "id": 1,
-        "thumb": "/images/others/process-1.png",
+        "thumb": "/images/design/breifing.png",
         "subtitle": "Step One",
         "title": "Briefing",
         "paragraph": "We are a process-driven design agency. Before getting started, we ﬁrst discuss the details of the design project clearly. You can brief us with your requirements either via email, chat, or call (whatever is convenient for you). Our team will get in touch with you and thoroughly discuss every minute detail to make sure that we could deliver you exactly what you want. Consequently, the estimate and timeline for the project also get discussed at this point."
@@ -20,14 +20,14 @@
     },
     {
         "id": 3,
-        "thumb": "/images/others/process-3.png",
+        "thumb": "/images/design/designing.png",
         "subtitle": "Step Three",
         "title": "Designing",
         "paragraph": "As soon as our team gets accustomed to the specifications and a wireframe gets finalized, we will start working on the designing aspects. Any additions, suggestions, and late changes get communicated at this stage and our designers and project managers ensure that this all goes very smoothly."
     },
     {
         "id": 4,
-        "thumb": "/images/others/process-4.png",
+        "thumb": "/images/design/delivery.png",
         "subtitle": "Step four",
         "title": "Delivery",
         "paragraph": "Here comes the time for the final delivery! As committed to you, this is the stage when you will be provided with the first draft of the design for your review and feedback. This is a cycle process and we handle your change requests. Once all is done, we deliver you the final files."

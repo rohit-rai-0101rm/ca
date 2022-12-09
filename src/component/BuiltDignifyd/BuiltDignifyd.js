@@ -9,9 +9,9 @@ const BuiltDignifyd = () => {
           <div className="col-xl-5 col-lg-6">
             <div className="case-study-featured">
               <div className="section-heading heading-left">
-                <h2 className="">
-                  We’ve built <strong>Dignifyd</strong> to bring businesses{" "}
-                  <strong>Digitally Ahead.</strong>
+                <h2 className="titleUnique">
+                  We’ve built <strong className="uniqueBold">Dignifyd</strong> to bring businesses{" "}
+                  <strong className="uniqueBold">Digitally Ahead.</strong>
                 </h2>
               </div>
             </div>

@@ -43,7 +43,7 @@ We prioritize your privacy and security and ensure that the integrity of any sen
             <div className="col-xl-5 col-lg-6 offset-xl-1">
                 <div className="why-choose-us mb--30">
                 <div className="why-choose-thumb">
-                    <img src={process.env.PUBLIC_URL + "/images/about/about-3.png"} alt="Office" />
+                    <img src={process.env.PUBLIC_URL + "/images/whyChooseUs.png"} alt="Office" />
                 </div>
                 </div>
             </div>

@@ -20,7 +20,7 @@ const getServiceData = ServiceData;
 const FooterOne = ({ parentClass }) => {
   return (
     <footer className={`footer-area ${parentClass}`}>
-      <div className="container">
+      <div className="container mt--20">
         <div className="footer-top">
           <div className="footer-social-link">
             <ul className="list-unstyled">

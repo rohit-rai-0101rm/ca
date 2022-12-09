@@ -3,7 +3,7 @@ import FormTwo from '../contact/FormTwo'
 
 const WebdevIntro = () => {
   return (
-    <div className="section section-padding-proffessional ">
+    <div className="section section-padding-proffessional mt--60">
     <div className="container ">
         <div className="row">
            
@@ -15,13 +15,13 @@ const WebdevIntro = () => {
                     
                 </div>
                 <div className="form-group">
-            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Explore Web Development Pricing Packages</button>
+            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary mt--250" name="submit-btn">Explore Web Development Pricing Packages</button>
         </div>
                
             </div>
 
             <div className="col-xl-5 col-lg-6">
-                <div className="contact-form-box shadow-box mb--30">
+                <div className="contact-form-box shadow-box mb--30 mt--60">
                     <h3 className="title">Want to kickstart your web development project?</h3>
                     <p>(no contracts, no commitments)</p>
                     <FormTwo />

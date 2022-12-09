@@ -9,8 +9,8 @@ const Success = () => {
           <div className="col-xl-5 col-lg-6">
             <div className="case-study-featured">
               <div className="section-heading heading-left">
-                <h2 className="">
-                  the foundation to your <strong>success.</strong>
+                <h2 className="titleUnique">
+                  the foundation to your <strong className="uniqueBold">success.</strong>
                 </h2>
                 <p className="innovate-list-para">
                   We care about more than just tech, we

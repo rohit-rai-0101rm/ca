@@ -10,9 +10,9 @@ const Innovate = () => {
         <div className="col-xl-5 col-lg-6">
           <div className="case-study-featured">
             <div className="section-heading heading-left">
-            <h2 className="innovate">
+            <h2 className="titleUnique">
                   we code to <br />
-                  <strong> innovate</strong>{" "}
+                  <strong className="uniqueBold"> innovate</strong>{" "}
                 </h2>
                 <p className="innovate-list-para">
                   Early design-driven development enables rapid <br />

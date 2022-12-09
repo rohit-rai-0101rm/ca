@@ -33,11 +33,13 @@ const DigitalAgency = () => {
         <BrandOne />
         <div className="section bg-color-light section-padding">
           <div className="container">
-            <h2 className="text2center">
-              creating something truly
-             
-              <strong> unique!</strong>
-            </h2>
+            <center>
+              <h2 className="titleUnique">
+                creating something truly
+                <strong className="uniqueBold"> unique!</strong>
+              </h2>
+            </center>
+
             <PricingOne />
           </div>
           <ul className="list-unstyled shape-group-3">
@@ -96,7 +98,7 @@ const DigitalAgency = () => {
         </div>
         <AboutFour />
         <Innovate />
-        <TestimonialOne/>
+        <TestimonialOne />
         <CounterUpOne />
         <TeamOne />
         <CtaLayoutOne />

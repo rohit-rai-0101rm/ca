@@ -19,10 +19,10 @@ const AboutFour = () => {
           <div className="col-xl-5 col-lg-6">
             <div className="case-study-featured">
               <div className="section-heading heading-left">
-                <h2 className="">
+                <h2 className="titleUnique">
                   designs that
                   <br />
-                  convert<strong> faster</strong>{" "}
+                  convert<strong className="uniqueBold"> faster</strong>{" "}
                 </h2>
                 <p className="innovate-list-para">
                   Crafting responsive, friendly designs with instant impact,

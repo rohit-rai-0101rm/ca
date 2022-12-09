@@ -11,16 +11,22 @@ const Mission = () => {
         <div className="row">
           <div className="col-xl-12 col-lg-6 mission">
             <div className="section-heading heading-right">
-              <h3 className="">
-                providing the simplest solutions <br /> for the most complex
-                problems
+              <h3 className="titleUnique">
+                providing the<strong className="uniqueBold">
+                simplest
+                  </strong>  solutions <br /> for the most               
+                  <strong className="uniqueBold">
+                  complex 
+                  </strong>
+                   
+                 {" "} problems
               </h3>
             </div>
           </div>
           <div className="row">
           
             <div className="col-xl-6 col-lg-6">
-                <h3 className="title">
+                <h3 className="uniqueBold">
                   integrity.
                   <br />
                   excellence.

@@ -7,13 +7,13 @@ const BcrumbBannerOne = ({ title, paragraph, styleClass, mainThumb }) => {
       <div className="container">
         <div className="section-heading heading-left">
           <center>
-            
-          </center>
-          <h1 className="title h2">
-            An overnight success, <strong>5-years</strong><br/><strong>in the making</strong> 
+          <h1 className="titleUnique h2">
+            An overnight success, <br/><strong className="uniqueBold">5-years</strong><br/><strong className="uniqueBold">in the making</strong> 
           </h1>
           <p className="innovate-list-para">A partner for all your digital needs, we offer a technology-driven
 approach to all our projects.</p>
+          </center>
+        
         </div>
       </div>
       <ul className="shape-group-8 list-unstyled">
