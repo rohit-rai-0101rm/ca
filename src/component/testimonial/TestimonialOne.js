@@ -4,7 +4,7 @@ import TestimonialPropOne from './TestimonialPropOne';
 
 const TestimonialOne = () => {
     return (
-        <div className="section section-padding mt--100">
+        <div className="section section-padding">
             <div className="container">
                <h3>hear what<strong> brands</strong>  around the world <br/><strong>saying</strong> about Dignifyd.</h3>
                 <div className="row">

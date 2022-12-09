@@ -29,6 +29,12 @@
     max-height: 850px;
     background-color: #F0DBDB;
     padding: 75px 0px 75px 0px;
+    @media #{$sm-layout} {
+        max-height: 1350px;
+    }
+    @media #{$md-layout} {
+        max-height: 1250px;
+    }
    
     
 }

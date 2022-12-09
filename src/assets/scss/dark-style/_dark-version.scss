@@ -745,6 +745,19 @@
         background-color:  var(--color-dark);
         color: white !important;
     }
+    .section-padding-innovate {
+        max-height: 850px;
+        background-color:  var(--color-dark);
+        padding: 75px 0px 75px 0px;
+        @media #{$sm-layout} {
+            max-height: 1250px;
+        }
+        @media #{$md-layout} {
+            max-height: 1250px;
+        }
+       
+        
+    }
     .section-padding-spider{
         background-color:var(--color-dark) ;
     }

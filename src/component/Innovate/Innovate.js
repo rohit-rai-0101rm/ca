@@ -4,12 +4,13 @@ import { Link } from "react-router-dom";
 const Innovate = () => {
   return (
     <div className="section section-padding-innovate case-study-featured-area">
-      <div className="container">
-        <div className="row">
-          <div className="col-xl-5 col-lg-6">
-            <div className="case-study-featured">
-              <div className="section-heading heading-left">
-                <h2 className="innovate">
+    <div className="container">
+      <div className="row">
+   
+        <div className="col-xl-5 col-lg-6">
+          <div className="case-study-featured">
+            <div className="section-heading heading-left">
+            <h2 className="innovate">
                   we code to <br />
                   <strong> innovate</strong>{" "}
                 </h2>
@@ -19,9 +20,9 @@ const Innovate = () => {
                   <br /> drives your business forward. We test our systems to
                   ensure reliability and efficiency.
                 </p>
-              </div>
-              <div className="col-md-12 col-sm-6 mb--30">
-                <ul className="list-style">
+            </div>
+            <div className="col-md-12 col-sm-6 mb--30">
+            <ul className="list-style">
                   <li className="innovate-list">
                     Deliver a tailor-made experience to your customers to
                     attract them.
@@ -35,24 +36,23 @@ const Innovate = () => {
                     aesthetically pleasing for first time interactions.
                   </li>
                 </ul>
-              </div>
-              <Link to="#" className="axil-btn btn-fill-primary btn-large">
-                Learn More
-              </Link>
             </div>
+            <Link to="#" className="axil-btn btn-fill-primary btn-large">
+              Learn More
+            </Link>
           </div>
-          <div className="col-xl-7 col-lg-3">
-            <div className="case-study-featured-thumb text-start change22">
-              <img
-            
-                src={process.env.PUBLIC_URL + "/images/code.png"}
-                alt="travel"
-              />
-            </div>
+        </div>
+        <div className="col-xl-7 col-lg-6">
+          <div className="case-study-featured-thumb text-start">
+            <img
+              src={process.env.PUBLIC_URL + "/images/code.png"}
+              alt="travel"
+            />
           </div>
         </div>
       </div>
     </div>
+  </div>
   );
 };
 
