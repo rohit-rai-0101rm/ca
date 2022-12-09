@@ -44,7 +44,7 @@ const Innovate = () => {
           <div className="col-xl-7 col-lg-3">
             <div className="case-study-featured-thumb text-start change22">
               <img
-              className="first22"
+            
                 src={process.env.PUBLIC_URL + "/images/code.png"}
                 alt="travel"
               />
