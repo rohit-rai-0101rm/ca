@@ -33,7 +33,7 @@ const SeoService = () => {
         <div className="col-lg-4 ">
           <div className="pricing-table pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/stunning.png" />
+              <img className="" src="/images/seo/seoService.png" />
               <h3 className="title">
             Full Suite Seo
               </h3>
