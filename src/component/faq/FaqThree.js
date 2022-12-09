@@ -18,8 +18,9 @@ const  FaqThree = () => {
                                 {allData.map((data) => (
                                     <Accordion.Item eventKey={data.id} key={data.id}>
                                         <Accordion.Body><p className='resizing10'>
-                                        <img src="/images/correct.svg"/>
-                                        
+                            
+                                        <img  className='imagegap'   src="/images/correct.svg"/>
+                                    
                                         {data.body}</p></Accordion.Body>
                                     </Accordion.Item>
                                 ))}
