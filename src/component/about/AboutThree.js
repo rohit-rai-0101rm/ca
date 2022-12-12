@@ -56,15 +56,15 @@ const AboutThree = () => {
                         <div className="col-lg-6" key={data.id}>
                             <div className="about-quality">
                                 <h3 className="sl-number">.</h3>
-                                <h5 className="title">{data.title}</h5>
-                                <p>{data.para}</p>
+                                <h4 className="title">{data.title}</h4>
+                                <p className='innovate-list-para'>{data.para}</p>
                             </div>
                         </div>
                     ))}
 
                 </div>
                 <center>
-                <Link  className="axil-btn btn-fill-primary btn-large">
+                <Link to="/contact"  className="axil-btn btn-fill-primary btn-large">
 Get in touch              </Link>                </center>
             </div>
             <ul className="list-unstyled shape-group-10">

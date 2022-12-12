@@ -5,7 +5,7 @@ import TrackVisibility from "react-on-screen";
 
 const Unleash = () => {
   return (
-    <div className="section section-padding-innovate  mb--80 ">
+    <div className="section section-padding-unleash mb--80 ">
       <div className="container">
         <div className="row">
           <div className="col-xl-5 col-lg-5 col-sm-12">

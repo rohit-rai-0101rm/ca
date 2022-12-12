@@ -38,6 +38,20 @@
    
     
 }
+.section-padding-dmServices
+{
+    max-height: 850px;
+    background-color: whitesmoke;
+    padding: 75px 0px 75px 0px;
+    @media #{$sm-layout} {
+        max-height: 1350px;
+    }
+    @media #{$md-layout} {
+        max-height: 1250px;
+    }
+   
+    
+}
 .section-padding-spider {
     max-height: 950px;
     background-color: #F0DBDB;
@@ -54,11 +68,12 @@
     
 }
 .section-padding-unleash {
-    background-color: #F0DBDB;
+    background-color: #FFF;
   
     
 }
 .section-padding-proffessional {
+
     padding: 175px 0px 0px;
     @media #{$smlg-device} {
         padding: 100px 0 70px;
@@ -69,7 +84,7 @@
     @media #{$sm-layout} {
         padding: 60px 0 30px;
     }
-    background-color:#fff
+    background-color: #F0DBDB;
 }
     
 .section-padding-amazing{
@@ -152,7 +167,7 @@
     margin-top: 52px;
 }
 .mt--50{
-    margin-top: 32px;
+    margin-top: 42px;
 }
 .mt--90 {
     margin-top: 90px;

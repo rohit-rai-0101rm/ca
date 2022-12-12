@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import FormTwo from '../contact/FormTwo'
 
 const WebdevIntro = () => {
@@ -9,14 +10,14 @@ const WebdevIntro = () => {
            
             <div className="col-xl-7 col-lg-6 ">
                 <div className="color-light  mb_md--30 mt_md--0 mt--100 ">
-                    <h2 className="title">Professional Web Development Services Company</h2>
-                    <h4>Interactive, innovative, eye-catching websites to grow your business like never before.</h4>
-                    <p>We are a trusted web development company with over 10 years of experience building responsive websites that reflect your brand. Our team of experienced developers specializes in developing custom themes and plugins tailored to your needs. We take pride in our ability to deliver quality results on time and ensure that your website is everything you hoped for</p>
+                    <h1 className="titleDigitalMarketing">Professional Web Development Services Company</h1>
+                    <h4 className="subheadingDigitalMarketing"> Interactive, innovative, eye-catching websites to grow your business like never before.</h4>
+                    <p className="innovate-list-para">We are a trusted web development company with over 10 years of experience building responsive websites that reflect your brand. Our team of experienced developers specializes in developing custom themes and plugins tailored to your needs. We take pride in our ability to deliver quality results on time and ensure that your website is everything you hoped for.</p>
                     
                 </div>
                 <div className="form-group">
-            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary mt--250" name="submit-btn">Explore Web Development Pricing Packages</button>
-        </div>
+                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mt--20">
+                           <bold>Explore Web Development Pricing Packages</bold>         </Link>        </div>
                
             </div>
 

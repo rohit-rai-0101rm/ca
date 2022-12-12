@@ -17,13 +17,13 @@ const allData = ServiceData;
 const DigitalMarketingServices = () => {
   const designData = allData
   return (
-    <>
+   <>
       <main className="main-wrapper">
        
           {/* Service Nav */}
 
        
-          <div className="section section-padding" id="section1">
+          <div className="section section-padding bg-color-light" id="section1">
             <div className="container">
               <SectionTitle2
                 subtitle="Service"

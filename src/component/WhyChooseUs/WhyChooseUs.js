@@ -7,7 +7,7 @@ import SectionTitleWhyChooseus from '../../elements/section-title/SectionTitle';
 
 const WhyChooseUs = () => {
     return (
-      <div className="section-padding bg-color-light">
+      <div className="section-padding-innovate bg-color-light">
         <div className="container">
             <div className="row">
             <div className="col-lg-6">
