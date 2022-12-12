@@ -680,9 +680,7 @@ font-weight: 500 !important;
     font-weight: 600;
 
 }
-.contact-form-box {
-    background-color: var(--dark-main-body);
-    &.shadow-box {
-        box-shadow: 10px 20px 48px  40px rgba(0, 0, 0, 0.1);
-    }
+.infoPlaceholder::-webkit-input-placeholder {
+    font-weight: 500;
+    color:#000;
 }

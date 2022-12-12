@@ -5,7 +5,8 @@ const SectionTitleWhyChooseus = ({subtitle, title, description, textAlignment, t
     return (
         <div className={`section-heading`}>
             <div className="subtitle"></div>
-            <h4 className="unique">Thereee Are Plenty of Online Marketing Companies Why Choose Us?</h4>
+            <h4 className="unique">Our Lifecycle for Creative Design Services
+</h4>
             <p></p>
         </div>
     )

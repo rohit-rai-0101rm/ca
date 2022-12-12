@@ -34,10 +34,10 @@ const DigitalAgency = () => {
         <div className="section bg-color-light section-padding">
           <div className="container">
             <center>
-              <h2 className="titleUnique">
+              <h3 className="titleUnique">
                 creating something truly
                 <strong className="uniqueBold"> unique!</strong>
-              </h2>
+              </h3>
             </center>
 
             <PricingOne />

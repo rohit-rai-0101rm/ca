@@ -10,10 +10,10 @@ const Innovate = () => {
         <div className="col-xl-5 col-lg-6">
           <div className="case-study-featured">
             <div className="section-heading heading-left">
-            <h2 className="titleUnique">
+            <h3 className="titleUnique">
                   we code to <br />
                   <strong className="uniqueBold"> innovate</strong>{" "}
-                </h2>
+                </h3>
                 <p className="innovate-list-para">
                   Early design-driven development enables rapid <br />
                   changes to minimize both cost and time. Code that

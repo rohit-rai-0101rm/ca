@@ -34,10 +34,10 @@ const DigitalMarketingIntro = () => {
           </div>
 
           <div className="col-xl-5 col-lg-6">
-            <div className="contact-form-box shadow-box mb--30">
-              <h2 className="formHeading">
+            <div className="contact-form-box mb--30">
+              <h3 className="title">
                 Want to kickstart your first Digital Marketing Campaign?
-              </h2>
+              </h3>
               <DigitalMarketingForm />
             </div>
           </div>

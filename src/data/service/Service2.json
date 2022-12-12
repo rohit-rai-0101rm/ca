@@ -26,21 +26,13 @@
         "description": "Content is vital currency for every business out there and we help you leverage it to the fullest. With our content marketing service, we aim to position you as a thought leader within your domain and fortify the bond you share with your customers.",
         "cate": "Design"
     },
-    {
-        "image": "/images/icon/messaging.png",
-        "title": "Messaging and Positioning",
-        "description": "Cut through the noise and carve a unique brand identity for yourself. Our messaging and positioning service will help you cast an indelible impression on your audience’s minds."
-    },
+  
     {
         "image": "/images/icon/b2b.png",
         "title": "B2B Marketing",
         "description": "Looking to effectively market your offerings to other businesses and organizations? Our B2B marketing experts have got you covered. We’ll help you chalk out airtight strategies, identify the right channels, and run high-performing campaigns."
     },
-    {
-        "image": "/images/icon/content.png",
-        "title": "Content and Website Personalization",
-        "description": "Take your engagement to new heights with our content and website personalization service. We help you deliver personalized experiences by expertly leveraging zero and first-party data."
-    },
+ 
 
     {
         "image": "/images/icon/vp.png",
@@ -55,18 +47,29 @@
         "description": "Set up an additional revenue source for your business with our affiliate marketing service. Uncover new networking opportunities and drive more traffic to your page.",
         "cate": "Design"
     },
-    {
-        "image": "/images/icon/icon-30.png",
-        "title": "Conversion Rate Optimization (CRO)",
-        "description": "Convert visitors to customers effortlessly with our conversion rate optimization service. We will optimize your landing page, improve your site navigation, and immaculately monitor visitor activity to bolster your conversion rates.",
-        "cate": "Design"
-    },
+  
 
     {
         "image": "/images/icon/icon-31.png",
         "title": "Branded Search",
         "description": "With our branded search service, we will help enhance your SERP authority and outshine your competitors’ ads.",
         "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-30.png",
+        "title": "Conversion Rate Optimization (CRO)",
+        "description": "Convert visitors to customers effortlessly with our conversion rate optimization service. We will optimize your landing page, improve your site navigation, and immaculately monitor visitor activity to bolster your conversion rates.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/messaging.png",
+        "title": "Messaging and Positioning",
+        "description": "Cut through the noise and carve a unique brand identity for yourself. Our messaging and positioning service will help you cast an indelible impression on your audience’s minds."
+    },
+    {
+        "image": "/images/icon/content.png",
+        "title": "Content and Website Personalization",
+        "description": "Take your engagement to new heights with our content and website personalization service. We help you deliver personalized experiences by expertly leveraging zero and first-party data."
     }
     
 ]

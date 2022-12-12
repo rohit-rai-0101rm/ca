@@ -34,9 +34,9 @@ const PricingOne = () => {
           <div className="pricing-table pricing-borderd">
             <div className="pricing-header">
               <img src="/images/unique/stunning.png" />
-              <h3 className="title">
+              <h5 className="title">
                 Stunning <br /> Designs
-              </h3>
+              </h5>
             </div>
             <div className="pricing-body">
               <center>

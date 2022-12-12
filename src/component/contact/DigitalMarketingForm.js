@@ -35,15 +35,15 @@ const DigitalMarketingForm = () => {
 
 
     return (
-        <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
+        <form ref={form} onSubmit={sendEmail} className="axil-contact-form ">
         <div className="form-group">
-            <input placeholder="Name*" type="text" className="form-control" name="contact-name" required />
+            <input placeholder="Name*" type="text" className="form-control infoPlaceholder" name="contact-name" required />
         </div>
         <div className="form-group">
-            <input placeholder="Work Email*" type="email" className="form-control" name="contact-email" required />
+            <input placeholder="Work Email*" type="email" className="form-control infoPlaceholder" name="contact-email" required />
         </div>
         <div className="form-group">
-            <input  placeholder="Phone*" type="tel" className="form-control" name="contact-phone" required />
+            <input  placeholder="Phone*" type="tel" className="form-control infoPlaceholder" name="contact-phone" required />
         </div>
         <div className="form-group">
             <label>How soon do you want to start the project?*</label>
@@ -54,7 +54,7 @@ const DigitalMarketingForm = () => {
         </select>
         </div>
         <div className="form-group mb--40">
-            <input placeholder="Share Your Requirements*"  className="form-control" name="contact-message" rows="4"></input>
+            <input placeholder="Share Your Requirements*"  className="form-control infoPlaceholder" name="contact-message" rows="4"></input>
             
         </div>
         <div className="form-group">

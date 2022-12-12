@@ -44,28 +44,7 @@ const Design = () => {
       <FormGraphics/>
       <FaqDesign/>
 
-      <div className="section bg-color-light section-padding">
-        <div className="container">
-          <h3 class>
-            creating something truly
-            <strong> unique!</strong>
-          </h3>
-        </div>
-        <ul className="list-unstyled shape-group-3">
-          <li className="shape shape-1">
-            <img
-              src={process.env.PUBLIC_URL + "/images/others/line-1.png"}
-              alt="shape"
-            />
-          </li>
-          <li className="shape shape-2">
-            <img
-              src={process.env.PUBLIC_URL + "/images/others/bubble-4.png"}
-              alt="shape"
-            />
-          </li>
-        </ul>
-      </div>
+      
 
       <div className="section section-padding-2 bg-color-dark">
         <div className="container">
@@ -105,11 +84,7 @@ const Design = () => {
           </li>
         </ul>
       </div>
-      <AboutFour />
-      <Innovate />
-      <Content />
-      <CounterUpOne />
-      <TeamOne />
+      
       <CtaLayoutOne />
 
       <FooterOne parentClass="" />
