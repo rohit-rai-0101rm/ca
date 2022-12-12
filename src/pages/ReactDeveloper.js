@@ -8,6 +8,7 @@ import BlogOne from '../component/blog/BlogOne'
 import BrandOne from '../component/brand/BrandOne'
 import CounterUpOne from '../component/counterup/CounterUpOne'
 import CtaLayoutOne from '../component/cta/CtaLayoutOne'
+import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
@@ -27,6 +28,7 @@ const ReactDeveloper = () => {
         <HireDevelopersIntro />
         <ReactSection/>
         <AdvantageSection/>
+        <FrequentlyAsked/>
         <AboutOne />
         <ProjectOne />
         <CounterUpOne />

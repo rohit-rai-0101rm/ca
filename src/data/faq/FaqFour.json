@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "How do I hire React developers through Dignifyd?",
+        "body": "A professional custom web development company will help you create a website that meets your specific needs. They will work with you to design the site, choose the right hosting and domain, and set up all of the necessary features and functionality. They can also help you with website security."
+    },
+    {
+        "id": 2,
+        "title": "What does a ReactJS developer do?",
+        "body": "A ReactJS developer is accountable for designing and implementing UI components for JavaScript-based web applications and mobile applications with the use of open-source library infrastructure. ReactJS developers are front-end developers who build modern-day UI components to improve application performance."
+    },
+    {
+        "id": 3,
+        "title": "What should I look at when hiring a ReactJS developer?",
+        "body": "A ReactJS developer is accountable for designing and implementing UI components for JavaScript-based web applications and mobile applications with the use of open-source library infrastructure. ReactJS developers are front-end developers who build modern-day UI components to improve application performance."
+    },
+    {
+        "id": 4,
+        "title": "What is the cost of hiring a ReactJS developer?",
+        "body": "The full-time hiring of a ReactJS developer from us will cost you approximately $2000 a month which is subjective to the skill set and experience of the candidate."
+    },
+    {
+        "id": 5,
+        "title": " it possible to migrate my existing web application into ReactJS?",
+        "body": "Yes, it is possible to migrate existing web applications into ReactJS because this is one of the best frameworks to develop a web application with. This method is cost-efficient, reusable in a wide variety of settings, and offers a more stable application."
+    },
+    {
+        "id": 6,
+        "title": "How does ReactJS differ from React Native?",
+        "body": "In ReactJS, virtual DOM is used to render browser code while in React Native, native APIs are used to render components in mobile. The apps developed with ReactJS render HTML in UI while React Native uses JSX for rendering UI."
+    }
+
+
+]
