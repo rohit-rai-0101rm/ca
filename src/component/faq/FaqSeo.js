@@ -15,7 +15,10 @@ const FaqSeo = () => {
             <SectionTitle6 />
           </div>
           <div className="col-lg-12 col-xl-12">
-            <center></center>
+            <center>
+
+              <h4>Frequently asked questions</h4>
+            </center>
             <div className="col-lg-12 col-xl-12">
                         <div className="faq-accordion">
                             <Accordion defaultActiveKey="1">

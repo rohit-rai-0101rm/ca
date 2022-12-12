@@ -1,33 +1,28 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import FormTwo from "../contact/FormTwo";
 
 const SeoIntro = () => {
   return (
-    <div className="section section-padding-proffessional mt--100 ">
+    <div className="section section-padding-proffessional mt--120 ">
       <div className="container ">
         <div className="row">
           <div className="col-xl-7 col-lg-6 ">
             <div className="color-light  mb_md--30 mt_md--0 mt--60">
               <h2 className="title">Professional SEO Services Company</h2>
               <h4>Rank Better. Increase Traffic.<br/> Achieve Better ROIs</h4>
-              <p>
-                We are a leading SEO Company that believes in human-first SEO
-                strategies. Our SEO experts are known for curating legit and
-                professional SEO services aligned with your brand. Our
-                innovation-led approach has helped hundreds of our clients
+              <p className="innovate-list-para">
+                We are a leading SEO Company that believes in human-first <br/> SEO
+                strategies. Our SEO experts are known for curating legit <br/> and
+                professional SEO services aligned with your brand. Our<br/>
+                innovation-led approach has helped hundreds of our clients <br/>
                 acquire a solid foothold and visibility of their business among
                 Search Engines.
               </p>
             </div>
-            <div className="form-group">
-              <button
-                type="submit"
-                className="axil-btn btn-fill-primary btn-fluid btn-primary mt--150"
-                name="submit-btn"
-              >
-                Explore SEO Pricing Packages
-              </button>
-            </div>
+            <Link  to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mt--140">
+                           <bold>EXPLORE DIGITAL MARKETING PACKAGES</bold>         </Link>
+            
           </div>
 
           <div className="col-xl-5 col-lg-6">

@@ -10,9 +10,9 @@ const SeoExperts = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="why-choose-us">
-             <h2>
+             <h4>
              What’s so special about our SEO Experts?
-             </h2>
+             </h4>
               <Accordion defaultActiveKey="1">
                 <Accordion.Item eventKey="1">
                   <Accordion.Header>
@@ -55,7 +55,7 @@ With years of profound experience, one of the most important things that we lear
             <div className="why-choose-us mb--30">
               <div className="why-choose-thumb">
                 <img
-                  src={process.env.PUBLIC_URL + "/images/about/about-3.png"}
+                  src={process.env.PUBLIC_URL + "/images/seoExperts.png"}
                   alt="Office"
                 />
               </div>

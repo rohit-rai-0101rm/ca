@@ -11,7 +11,7 @@ const SeoSpider = () => {
           <div className="col-xl-7 col-lg-6">
             <div className="case-study-featured-thumb text-start">
               <img
-                src={process.env.PUBLIC_URL + "/images/designs.png"}
+                src={process.env.PUBLIC_URL + "/images/justSpiders.png"}
                 alt="travel"
               />
             </div>
