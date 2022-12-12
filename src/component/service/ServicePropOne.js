@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import ServiceData from "../../data/service/ServiceMain.json";
+import ServiceData from "../../data/service/ServiceMain2.json";
 import { slugify } from '../../utils';
 
 

@@ -661,6 +661,7 @@ font-weight: 500 !important;
 .form-Resizing{
     padding: 0rem 40rem 0rem 40rem ;
 }
+<<<<<<< HEAD
 .unleasInquire{
     padding: 2rem 40rem;
 }
@@ -683,4 +684,52 @@ font-weight: 500 !important;
 .infoPlaceholder::-webkit-input-placeholder {
     font-weight: 500;
     color:#000;
+=======
+.Boxreq{
+    display: flex;
+    border-radius: 10px;
+    padding: 5px 0px 5px 0px;
+    justify-content: space-between;
+    width: 60rem;
+    border: 1px solid #dbdbdb ;
+    align-items: center ! important;
+
+}
+.Boxreq2{
+    display: flex;
+    align-items: center;
+    width: 30%;
+ 
+    padding: 0px 20px 0px 20px;;
+     
+}
+.Boxreq3{
+    align-items: center;
+    display: flex;
+   padding: 0px 20px 0px 20px !important;
+    width: 70%;
+    justify-content:space-between;
+  
+}
+
+.boxes
+{
+    background-color: #e8e4e4;
+    padding: 2px 6px 2px 6px;
+ 
+    
+}
+.centerthediv{
+    text-align: center;
+}
+
+.imagegap{
+    padding:10px;
+}
+.talentImage{
+    padding: 0px 10px 0px 0px;
+}
+.coloringtext{
+    color: white !important;
+>>>>>>> dev/b
 }

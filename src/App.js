@@ -63,6 +63,8 @@ import WhyIndia from './pages/WhyIndia';
 import HowitWorks from './pages/HowitWorks';
 import DedicatedResource from './pages/DedicatedResource';
 import ManageServiceProvider from './pages/ManageServiceProvider';
+import DedicatedResources from './pages/DedicatedResources';
+import ReactDeveloper from './pages/ReactDeveloper';
 
 
 const App = () => {
@@ -131,7 +133,9 @@ const App = () => {
 				
 
 				<Route path={process.env.PUBLIC_URL + "/managed-service-provider"} element={<ManageServiceProvider />}/>
-                
+                <Route path={process.env.PUBLIC_URL + "/dedicated-resources"} element={<DedicatedResources />}/>
+                <Route path={process.env.PUBLIC_URL + "/hire-reactjs-developers"} element={<ReactDeveloper/>}/>
+
 			</Routes>
 		</ScrollToTop>
     </Router>
