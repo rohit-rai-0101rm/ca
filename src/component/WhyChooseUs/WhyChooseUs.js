@@ -12,13 +12,13 @@ const WhyChooseUs = () => {
             <div className="row">
             <div className="col-lg-6">
                 <div className="why-choose-us">
-             <h4>There Are Plenty of Online Marketing Companies Why Choose Us? </h4>
+             <h4 className='subheadingDigitalMarketing'>There Are Plenty of Online Marketing Companies Why Choose Us? </h4>
              <p className="innovate-list-para">Wondering what sets our digital marketing services a cut above the rest? Take a look.</p>
                     <Accordion defaultActiveKey="1">
                         <Accordion.Item eventKey="1">
                             <Accordion.Header><FaCompress /> Ample Industry Experience</Accordion.Header>
                             <Accordion.Body>
-
+<p className='innovate-list-para'></p>
                             Over the course of our 10+ years of service, we have had the pleasure of working with a multitude of clients and industries, the experience of which we leverage while working with new customers.                            </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="2">
@@ -43,7 +43,7 @@ We prioritize your privacy and security and ensure that the integrity of any sen
             <div className="col-xl-5 col-lg-6 offset-xl-1">
                 <div className="why-choose-us mb--30">
                 <div className="why-choose-thumb">
-                    <img src={process.env.PUBLIC_URL + "/images/whyChooseUs.png"} alt="Office" />
+                    <img className='mt--80' src={process.env.PUBLIC_URL + "/images/whyChooseUs.png"} alt="Office" />
                 </div>
                 </div>
             </div>

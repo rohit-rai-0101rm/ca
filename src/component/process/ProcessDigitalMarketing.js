@@ -24,8 +24,7 @@ const ProcessDigitalMarketing = () => {
                             </div>
                         </Tilty>
                     <div className="content">
-                        <span className="subtitle">{data.subtitle}</span>
-                        <h3 className="title">{data.title}</h3>
+                        <h4 className="subheadingDigitalMarketing">{data.title}</h4>
                         <p className='innovate-list-para'>{data.paragraph}</p>
                     </div>
                 </div>

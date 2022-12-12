@@ -12,9 +12,9 @@ const FaqDm = () => {
             <div className="container">
                 <div className="row">
                     <center>
-                    <h3 className='title'>
+                    <h4 className='subHeadingDigitalMarketing'>
                       There Are Plenty of Online Marketing Companies Why Choose Us?
-                      </h3>
+                      </h4>
                     </center>
    
                     <div className="col-lg-5 col-xl-4">

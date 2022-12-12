@@ -18,43 +18,53 @@ const Sign = () => {
             <center></center>
             <div className="faq-accordion">
               <Accordion defaultActiveKey="1">
+              
                 {allData.map((data) => (
+                  
                   <Accordion.Item eventKey={data.id} key={data.id}>
-                    <Accordion.Header className="titleSigns">
-                      {data.title}
+                    <Accordion.Header>
+                   <h4 className="subheadingDigitalMarketing">
+                    <center>
+                    {data.title}
+
+                    </center>
+
+                      </h4>
+                  
+                   
                     </Accordion.Header>
                     <Accordion.Body>
-                      <p>{data.body}</p>
+                      <p className="innovate-list-para">{data.body}</p>
                       <br />
-                      <p>{data.body2}</p>
+                      <p className="innovate-list-para">{data.body2}</p>
                       <br />
-                      <p>{data.body3}</p>
+                      <p className="innovate-list-para">{data.body3}</p>
                       <br />
-                      <p className="titleSigns">{data.heading1}</p>
+                      <h5 className="titleSigns">{data.heading1}</h5>
                       <br />
-                      <p>{data.para1}</p>
+                      <p className="innovate-list-para">{data.para1}</p>
                       <br />
-                      <p className="titleSigns"> {data.heading2}</p>
+                      <h5 className="titleSigns"> {data.heading2}</h5>
 
                       <br />
-                      <p>{data.para2}</p>
+                      <p className="innovate-list-para">{data.para2}</p>
                       <br />
-                      <p className="titleSigns">{data.heading3}</p>
+                      <h5 className="titleSigns">{data.heading3}</h5>
                       <br />
-                      <p>{data.para3}</p>
+                      <p className="innovate-list-para">{data.para3}</p>
                       <br />
-                      <p className="titleSigns">{data.heading4}</p>
+                      <h5 className="titleSigns">{data.heading4}</h5>
                       <br />
-                      <p>{data.para4}</p>
+                      <p className="innovate-list-para">{data.para4}</p>
                       <br />
-                      <p className="titleSigns">
+                      <h5 className="titleSigns">
                       {data.heading5}
-                      </p>
+                      </h5>
                       
                       <br />
-                      <p>{data.para5}</p>
+                      <p className="innovate-list-para">{data.para5}</p>
                       <br />
-                      <p>{data.para6}</p>
+                      <p className="innovate-list-para">{data.para6}</p>
                     </Accordion.Body>
                   </Accordion.Item>
                 ))}

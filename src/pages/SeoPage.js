@@ -43,9 +43,9 @@ const SeoPage = () => {
         <SeoIntro />
 
         <SeoSpider />
-        <SeoServices/>
-        <SeoExperts/>
-<FaqSeo/>
+        <SeoServices />
+        <SeoExperts />
+        <FaqSeo />
         <CtaLayoutOne />
 
         <FooterOne parentClass="" />

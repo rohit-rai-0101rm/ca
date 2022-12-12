@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import DigitalMarketingForm from "../contact/DigitalMarketingForm";
 import FormTwo from "../contact/FormTwo";
 
@@ -9,15 +10,15 @@ const DigitalMarketingIntro = () => {
         <div className="row">
           <div className="col-xl-7 col-lg-6 ">
             <div className="color-light   mt_md--0 mt--60 ">
-              <h3 className="title">
+              <h1 className="titleDigitalMarketing">
                 Build A Formidable Brand Identity With Our Digital Marketing
                 Services
-              </h3>
-              <h4>
+              </h1>
+              <h4 className="subheadingDigitalMarketing">
                 Skyrocket your visibility, foster lasting customer
-                relationships, and soar ahead of your competitors.
+                relationships, and soar ahead of your <br/> competitors.
               </h4>
-              <p>
+              <p className="innovate-list-para">
                 Be it garnering new leads, consolidating your brand’s online
                 footprint, or maximizing your revenue, digital marketing helps
                 lend a competitive edge to your business. As a leading digital
@@ -26,17 +27,17 @@ const DigitalMarketingIntro = () => {
                 our digital marketing services are sure to elevate your brand’s
                 growth to the next level.
               </p>
-              <button  className="axil-btn btn-fill-primary btn-fluid btn-primary mt--130" name="submit-btn">Explore Digital Marketing Packages</button>
-
+              <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mt--20">
+                           <bold>EXPLORE DIGITAL MARKETING PACKAGES</bold>         </Link>
             </div>
          
           </div>
 
           <div className="col-xl-5 col-lg-6">
             <div className="contact-form-box shadow-box mb--30">
-              <h3 className="title">
+              <h2 className="formHeading">
                 Want to kickstart your first Digital Marketing Campaign?
-              </h3>
+              </h2>
               <DigitalMarketingForm />
             </div>
           </div>
