@@ -1,0 +1,24 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "ReactJS Custom Web App Development",
+        "description": "Hire ReactJS programmers who can provide custom web solutions and reliable support for ongoing projects."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "ReactJS Migration & Integration",
+        "description": "Our remote ReactJS developers provide expert assistance for integration of the existing web apps and systems with ReactJS."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Enterprise in ReactJS Web Apps",
+        "description": "Our offshore ReactJS developers build web applications for large-scale enterprises that are scalable & secure at the same time."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "ReactJS UI/UX Development",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    }
+    
+]
