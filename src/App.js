@@ -58,6 +58,7 @@ import HowitWorks from './pages/HowitWorks';
 import ManageServiceProvider from './pages/ManageServiceProvider';
 import DedicatedResources from './pages/DedicatedResources';
 import ReactDeveloper from './pages/ReactDeveloper';
+import AngularDevelopers from './pages/AngularDevelopers';
 
 
 const App = () => {
@@ -116,6 +117,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/managed-service-provider"} element={<ManageServiceProvider />}/>
                 <Route path={process.env.PUBLIC_URL + "/dedicated-resources"} element={<DedicatedResources />}/>
                 <Route path={process.env.PUBLIC_URL + "/hire-reactjs-developers"} element={<ReactDeveloper/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-angularjs-developers"} element={<AngularDevelopers/>}/>
 
 			</Routes>
 		</ScrollToTop>
