@@ -30,7 +30,6 @@ const FaqDesign = () => {
             <ul className="shape-group-6 list-unstyled">
                 <li className="shape shape-1"><img src={process.env.PUBLIC_URL + "/images/others/bubble-7.png"} alt="Bubble" /></li>
                 <li className="shape shape-2"><img src={process.env.PUBLIC_URL + "/images/others/line-4.png"} alt="line" /></li>
-                <li className="shape shape-4"><img src={process.env.PUBLIC_URL + "/images/others/poses-lady.png"} alt="Poses" /></li>
             </ul>
         </div>
     )

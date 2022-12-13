@@ -16,7 +16,7 @@ const Typography = () => {
           <div className="container">
             <div className="row">
               <div className="col-lg-12">
-                <div className="mb--80"></div>
+                <div className=""></div>
                 <h4>
                   Tips For Choosing The Right Graphic Design Agency for your
                   Project
@@ -181,8 +181,7 @@ const Typography = () => {
             </div>
           </div>
         </div>
-        <CtaLayoutOne />
-        <FooterOne parentClass="" />
+       
       </main>
     </>
   );

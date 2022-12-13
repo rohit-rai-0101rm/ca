@@ -1,0 +1,26 @@
+[
+  
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Display Banners",
+        "description": "We help you push your marketing efforts forward with the help of our conversion-focused display banner design services. Be it static or dynamic HTML display banners, we can help"
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Email Template",
+        "description": "With our email designs, you'll be able to create your brand's presence and communicate your message to the recipients quickly. We stand for visually-rich email designs."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Logo Design",
+        "description": "With years of experience and expertise in pro design tools, our team can help craft a unique logo for your business and create an outstanding brand identity.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-34.png",
+        "title": "Corporate Assets",
+        "description": "With the help of a brief or blueprint, we create crisp and visually appealing assets for your business. Each of our whitepaper/PPT designs is made purely engaging to serve as an effective content marketing tool.",
+        "cate": "Online Marketing"
+    }
+    
+]
