@@ -25,11 +25,13 @@ import BcrumbBannerHowWorks from "../elements/breadcrumb/BcrumbBannerHowWorks";
 import BcrumbBannerOne from "../elements/breadcrumb/BcrumbBannerOne";
 import BcrumbBannerWhyIndia from "../elements/breadcrumb/BcrumbBannerWhyIndia";
 import SectionTitle from "../elements/section-title/SectionTitle";
+import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 
 const WhyIndia = () => {
   return (
     <main className="main-wrapper">
       <HeaderOne />
+      <ColorSwitcher/>
 
       <BcrumbBannerWhyIndia
         title="One of the fastest growing agency"

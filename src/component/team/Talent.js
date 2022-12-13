@@ -7,7 +7,7 @@ const allData = TeamData;
 
 const Talent = () => {
   return (
-    <div className="section section-padding-team">
+    <div className="section section-padding mt--120 bg-dark">
       <div className="container">
         <div className="section-heading heading-light">
           <h4 className="title  mt-120">
@@ -69,26 +69,7 @@ const Talent = () => {
           ))}
         </div>
       </div>
-      <ul className="list-unstyled shape-group-10">
-        <li className="shape shape-1">
-          <img
-            src={process.env.PUBLIC_URL + "/images/others/circle-1.png"}
-            alt="Circle"
-          />
-        </li>
-        <li className="shape shape-2">
-          <img
-            src={process.env.PUBLIC_URL + "/images/others/line-3.png"}
-            alt="Circle"
-          />
-        </li>
-        <li className="shape shape-3">
-          <img
-            src={process.env.PUBLIC_URL + "/images/others/bubble-5.png"}
-            alt="Circle"
-          />
-        </li>
-      </ul>
+   
     </div>
   );
 };

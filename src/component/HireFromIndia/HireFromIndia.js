@@ -18,7 +18,7 @@ const HireFromIndia = () => {
                   </Accordion.Header>
                   <Accordion.Body>
                     <ul className="list-style">
-                      <li>
+                      <li className="">
                         There’s an acute shortage of talent in all the major
                         countries of the world, as the demand is rapidly
                         increasing.
