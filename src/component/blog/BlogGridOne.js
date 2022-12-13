@@ -85,11 +85,16 @@ const BlogGridOne = () => {
               </p>
               <div className="col-md-4 col-sm-6 mb--30">
                 <ol className="list-style">
-                  <li className="innovate-list-para">Logo &amp; Branding</li>
-                  <li className="innovate-list-para">Website Design</li>
-                  <li className="innovate-list-para">Mobile app design</li>
-                  <li className="innovate-list-para">Graphic/print design</li>
-                  <li className="innovate-list-para">Video production</li>
+                  <li className="innovate-list-para">Shopify</li>
+                  <li className="innovate-list-para">Wordpress</li>
+                  <li className="innovate-list-para">Javascript</li>
+                  <li className="innovate-list-para">Angular</li>
+                  <li className="innovate-list-para">React</li>
+                  <li className="innovate-list-para">Woocommerce</li>
+                  <li className="innovate-list-para">Laravel</li>
+                  <li className="innovate-list-para">Mongo DB</li>
+                  <li className="innovate-list-para">Adobe PhotoShop</li>
+                  <li className="innovate-list-para">Adobe After Effects</li>
                 </ol>
               </div>
 
