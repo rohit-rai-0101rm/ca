@@ -5,21 +5,21 @@ import TrackVisibility from "react-on-screen";
 
 const SeoSpider = () => {
   return (
-    <div className="section section-padding-spider case-study-featured-area">
+    <div className="section section-padding-spider">
       <div className="container">
         <div className="row">
-          <div className="col-xl-7 col-lg-6">
-            <div className="case-study-featured-thumb text-start">
+          <div className="col-xl-6 col-lg-6">
+            <div className="text-start">
               <img
                 src={process.env.PUBLIC_URL + "/images/justSpiders.png"}
                 alt="travel"
               />
             </div>
           </div>
-          <div className="col-xl-5 col-lg-6">
-            <div className="case-study-featured">
-              <div className="section-heading heading-left">
-                <h4 className="">
+          <div className="col-xl-6 col-lg-6">
+            <div className="">
+              <div className="">
+                <h4 className="title">
                   We help your business to be discovered by the people and not
                   just spiders
                 </h4>
@@ -29,15 +29,15 @@ const SeoSpider = () => {
               </div>
               <div className="col-md-12 col-sm-6 mb--30">
                 <ul className="list-style">
-                  <li className="innovate-list">
+                  <li className="innovate-list-para">
                     Deliver a tailor-made experience to your customers to
                     attract them.
                   </li>
-                  <li className="innovate-list">
+                  <li className="innovate-list-para">
                     We study user behavourial patterns to ensure highly
                     interactive & friendly designs.
                   </li>
-                  <li className="innovate-list">
+                  <li className="innovate-list-para">
                     Using the power of Psychology, we make sure to be
                     aesthetically pleasing for first time interactions.
                   </li>

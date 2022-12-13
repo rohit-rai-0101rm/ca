@@ -1,0 +1,36 @@
+[
+    {
+        "image": "/images/seoServices/fullSeo.png",
+        "title": "Full Suite Seo",
+        "description": "Our full suite professional Search Engine Optimization services are everything you might need. From targeted keyword research, setting up Google Analytics, metadata descriptions, SEO audits, link building and the list gets longer."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Local SEO Services",
+        "description": "When your business needs are confined to your local audience - Local SEO Services works best. From Google My Business creation, optimization, to conversion tracking and geo-tagging - we are the SEO marketing company you must partner with."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Google Analytics Configuration",
+        "description": "Get better insights into what factors are working for you and what is not. Keep an eye on complex tracking codes and employ tag managers - our Analytics solutions have got you covered."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Link Building",
+        "description": "Explore our range of SEO-centric link building and content outreach services to get all those good link juices flowing in and attract footfalls to your website.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "SEO Audits",
+        "description": "Don’t have a clue about your site’s degrading performance? Let Uplers- the SEO service provider audit your site’s important aspects including traffic sources, metadata, meta descriptions and keyword analysis.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Ecommerce SEO",
+        "description": "Modern days call for modern solutions. These days owning a great looking eCommerce store is not enough. You need people to find your store and shop. eCommerce SEO is the answer.",
+        "cate": "Ecommerce SEO"
+    }
+    
+]

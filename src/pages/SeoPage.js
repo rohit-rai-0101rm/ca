@@ -31,6 +31,9 @@ import HeaderOne from "../common/header/HeaderOne";
 import FooterOne from "../common/footer/FooterOne";
 import SeoExperts from "../component/SeoExperts/SeoExperts";
 import FaqSeo from "../component/faq/FaqSeo";
+import ServicePropSeo from "../component/service/ServicePropSeo";
+import ServiceData from "../data/service/ServiceSeo.json";
+const allData = ServiceData;
 
 const SeoPage = () => {
   return (
@@ -43,7 +46,20 @@ const SeoPage = () => {
         <SeoIntro />
 
         <SeoSpider />
-        <SeoServices />
+        <div className="section section-padding" id="section1">
+                    <div className="container">
+                      <center>
+                      <h4 className="unique">SEO Services We Deliver
+
+</h4>
+                      </center>
+  
+                        <div className="row">
+                            <ServicePropSeo colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={allData}/>
+                        </div>
+                    </div>
+                </div>
+
         <SeoExperts />
         <FaqSeo />
         <CtaLayoutOne />

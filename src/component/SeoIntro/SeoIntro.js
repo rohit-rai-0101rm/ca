@@ -9,18 +9,18 @@ const SeoIntro = () => {
         <div className="row">
           <div className="col-xl-7 col-lg-6 ">
             <div className="color-light  mb_md--30 mt_md--0 mt--60">
-              <h2 className="title">Professional SEO Services Company</h2>
-              <h4>Rank Better. Increase Traffic.<br/> Achieve Better ROIs</h4>
-              <p className="innovate-list-para">
+              <h3 className="titleDigitalMarketing">Professional SEO Services Company</h3>
+              <h5 className="subheadingDigitalMarketing mt--60">Rank Better. Increase Traffic. Achieve Better ROIs</h5>
+              <p className="innovate-list-para mt--60">
                 We are a leading SEO Company that believes in human-first <br/> SEO
                 strategies. Our SEO experts are known for curating legit <br/> and
                 professional SEO services aligned with your brand. Our<br/>
                 innovation-led approach has helped hundreds of our clients <br/>
-                acquire a solid foothold and visibility of their business among
+                acquire a solid foothold and visibility of their business among <br/>
                 Search Engines.
               </p>
             </div>
-            <Link  to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mt--140">
+            <Link  to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mt--seoPadding">
                            <bold>EXPLORE DIGITAL MARKETING PACKAGES</bold>         </Link>
             
           </div>

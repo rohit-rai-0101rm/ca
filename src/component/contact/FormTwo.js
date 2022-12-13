@@ -37,17 +37,17 @@ const FormTwo = () => {
     return (
         <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
         <div className="form-group">
-            <input placeholder="Name*" type="text" className="form-control" name="contact-name" required />
+            <input placeholder="Name*" type="text" className="form-control infoPlaceholder" name="contact-name" required />
         </div>
         <div className="form-group">
-            <input placeholder="Work Email*" type="email" className="form-control" name="contact-email" required />
+            <input placeholder="Work Email*" type="email" className="form-control infoPlaceholder" name="contact-email" required />
         </div>
        
       
         <div className="form-group">
-            <input  placeholder="Phone*" type="tel" className="form-control" name="contact-phone" required />
+            <input  placeholder="Phone*" type="tel" className="form-control infoPlaceholder" name="contact-phone" required />
         </div>
-        <div className="form-group">
+        <div className="form-group infoPlaceholder">
             <label>How soon do you want to start the project?*</label>
             <select className="form-control" name="contact-phone">
             <option value="volvo">Within 8 weeks</option>
@@ -56,8 +56,8 @@ const FormTwo = () => {
         </select>
         </div>
         <div className="form-group mb--40">
-            <label>How can we help you?</label>
-            <textarea placeholder='Describe your project to us*' className="form-control" name="contact-message" rows="4"></textarea>
+            <label className='infoPlaceholder'>How can we help you?</label>
+            <textarea placeholder='Describe your project to us*' className="form-control infoPlaceholder" name="contact-message" rows="4"></textarea>
             
         </div>
         <div className="form-group">
