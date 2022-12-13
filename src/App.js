@@ -61,6 +61,7 @@ import ReactDeveloper from './pages/ReactDeveloper';
 import AngularDevelopers from './pages/AngularDevelopers';
 import NodeDevelopers from './pages/NodeDevelopers';
 import WordPressDeveloper from './pages/WordPressDeveloper';
+import LaravelDevelopers from './pages/LaravelDevelopers';
 
 
 const App = () => {
@@ -122,7 +123,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-angularjs-developers"} element={<AngularDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-nodejs-developers"} element={<NodeDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-developers"} element={<WordPressDeveloper/>}/>
-
+				<Route path={process.env.PUBLIC_URL + "/hire-laravel-developers"} element={<LaravelDevelopers/>}/>
 			</Routes>
 		</ScrollToTop>
     </Router>
