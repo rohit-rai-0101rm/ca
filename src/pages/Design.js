@@ -57,8 +57,13 @@ const Design = () => {
         </div>
         <LifeCycle />
         <Typography />
+{
 
+  /*
         <FormGraphics />
+
+  */
+}
         <FaqDesign />
 
 
