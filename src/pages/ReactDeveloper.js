@@ -29,31 +29,8 @@ const ReactDeveloper = () => {
         <ReactSection/>
         <AdvantageSection/>
         <FrequentlyAsked/>
-        <AboutOne />
-        <ProjectOne />
-        <CounterUpOne />
-        <TestimonialOne />
-        <div className="section bg-color-light section-padding">
-            <div className="container">
-                <SectionTitle 
-                    subtitle="Pricing Plan"
-                    title="We’ve built solutions for..."
-                    description="Flexible pricing options for freelancers
-                    and design teams."
-                    textAlignment=""
-                    textColor=""
-                />
-                <PricingOne />
-            </div>
-            <ul className="list-unstyled shape-group-3">
-                <li className="shape shape-1"><img src={process.env.PUBLIC_URL + "/images/others/line-1.png"} alt="shape" /></li>
-                <li className="shape shape-2"><img src={process.env.PUBLIC_URL + "/images/others/bubble-4.png"} alt="shape" /></li>
-            </ul>
-        </div>
-        <BrandOne />
-        <BlogOne />
         <CtaLayoutOne /> 
-    <FooterOne parentClass="" />
+        <FooterOne parentClass="" />
     </main>
     </>
   )
