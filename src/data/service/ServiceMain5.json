@@ -1,0 +1,41 @@
+
+
+
+
+
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "NodeJS API Development & Integration",
+        "description": "Create customized APIs and easily integrate them with an existing application."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Mobile App Development",
+        "description": "Build large-scale web applications with our experienced Node.js programmers to turbocharge your project's reliability, scalability, and security."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Node.js Plugin Development",
+        "description": "We offer a skilled team of programmers who can develop and integrate custom NodeJS plugins."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Node.js Migration",
+        "description": "Utilize our top-of-the-line expertise to seamlessly migrate your existing .Net, PHP, Java, or other apps to NodeJS.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Node.js App Modernization",
+        "description": "Reduce operational costs, improve performance, and upgrade legacy software. Hire Node developers from India today.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Node.js Consulting",
+        "description": "We offer NodeJS consulting services such as architecture analysis, code reviews, and development processes assessments.",
+        "cate": "Design"
+    }
+    
+]

@@ -59,6 +59,8 @@ import ManageServiceProvider from './pages/ManageServiceProvider';
 import DedicatedResources from './pages/DedicatedResources';
 import ReactDeveloper from './pages/ReactDeveloper';
 import AngularDevelopers from './pages/AngularDevelopers';
+import NodeDevelopers from './pages/NodeDevelopers';
+import WordPressDeveloper from './pages/WordPressDeveloper';
 
 
 const App = () => {
@@ -118,6 +120,8 @@ const App = () => {
                 <Route path={process.env.PUBLIC_URL + "/dedicated-resources"} element={<DedicatedResources />}/>
                 <Route path={process.env.PUBLIC_URL + "/hire-reactjs-developers"} element={<ReactDeveloper/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-angularjs-developers"} element={<AngularDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-nodejs-developers"} element={<NodeDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-developers"} element={<WordPressDeveloper/>}/>
 
 			</Routes>
 		</ScrollToTop>
