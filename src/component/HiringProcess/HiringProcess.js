@@ -8,13 +8,11 @@ const getProcesstData = ProcesstData;
 const HiringProcess = () => {
   return (
     <div className="section section-padding bg-color-light pb--70">
-      <SectionTitle
-        title="Hiring Indian talent was never this easy."
-        description="A platform that takes care of everything beforehand.
-                Dignifyd source, vet, match and manage the talents for you."
-        textAlignment=""
-        textColor="mb--90"
-      />
+      <center>
+      <h2 className="title">Hiring Indian talent was never this easy.</h2>
+      <p className="innovate-list-para">A platform that takes care of everything beforehand.
+Uplers source, vet, match and manage the talents for you.</p>
+      </center>
       <div className="container">
         <div className={`process-work`}>
           <Tilty perspective={2000}>
@@ -23,14 +21,13 @@ const HiringProcess = () => {
             </div>
           </Tilty>
           <div className="content">
-            <span className="subtitle">Step One</span>
             <h3 className="title">Share the Job Description</h3>
-            <p>
+            <p className="innovate-list-para">
               Share complete roles, and responsibilities, must-have skills,
               necessary market experience, and budget.
             </p>
             <br />
-            <p>
+            <p className="innovate-list-para">
               The more information you share, the better matchmaking we would be
               able to do for you.
             </p>
@@ -40,21 +37,20 @@ const HiringProcess = () => {
       <div className="container">
         <div className={`process-work`}>
           <div className="content">
-            <span className="subtitle">Step Two</span>
             <h3 className="title">Review & Shortlist the Matches</h3>
-            <p>
+            <p className="innovate-list-para">
               We will match the best fit profile(s) in the next few days for
               your reviewal. You can shortlist and share the time slots for us
               to schedule interviews.
             </p>
             <br />
-            <p>
+            <p className="innovate-list-para">
               Certain roles & skills are not always readily available, in such
               cases, we will buy additional time and would super-source
               specifically for you.
             </p>
             <br />
-            <p>
+            <p className="innovate-list-para">
               For better clarity, when we receive the hiring request, there are
               3 cases that we come across in terms of matchmaking:
             </p>
@@ -91,7 +87,6 @@ const HiringProcess = () => {
             </div>
           </Tilty>
           <div className="content">
-            <span className="subtitle">Step Three </span>
             <h3 className="title">Interview & Hire</h3>
             <p>Assess them until you are confident, and provide feedback.</p>
             <br />
@@ -110,7 +105,6 @@ const HiringProcess = () => {
       <div className="container">
         <div className={`process-work`}>
           <div className="content">
-            <span className="subtitle">Step Four</span>
             <h3 className="title">Onboard & Manage</h3>
             <p>After you confirm the talent, we sort all the legalities and contract with the talent, ensure a smooth onboarding and help you manage the talent.</p>
             <br />

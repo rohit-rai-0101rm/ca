@@ -39,8 +39,8 @@ const WhyIndia = () => {
       />
       <HireFromIndia />
       <Talent />
-      <HireTalent />
       <FaqWhyIndia/>
+     
 
       <div className="section section-padding-2 bg-color-dark">
         <ul className="list-unstyled shape-group-10">
@@ -66,7 +66,6 @@ const WhyIndia = () => {
       </div>
       <TopChoice/>
 
-      <JobOpenings />
       <CtaLayoutOne />
 
       <FooterOne parentClass="" />

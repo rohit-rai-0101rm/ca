@@ -35,9 +35,10 @@ const GetstartedForm = () => {
 
 
     return (
-        <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
+        <center>
+     <form ref={form} onSubmit={sendEmail} className="axil-contact-form col-lg-6 mt--60 mb--30">
         <div className="form-group">
-            <input placeholder="Enter Talent Role*" type="text" className="form-control" name="contact-name" required />
+            <input placeholder="Enter Talent Role*" type="text" className="form-control infoPlaceholder" name="contact-name" required />
         </div>
         <div className="form-group">
             <select className="form-control" name="contact-phone">
@@ -49,20 +50,20 @@ const GetstartedForm = () => {
         </select>
         </div>
         <div className="form-group">
-            <input  placeholder="Attach the JD*" type="tel" className="form-control" name="contact-phone" required />
+            <input  placeholder="Attach the JD*" type="tel" className="form-control infoPlaceholder" name="contact-phone" required />
         </div>
         <div className="form-group">
-            <input placeholder="Share Your Work Email*" type="email" className="form-control" name="contact-email" required />
+            <input placeholder="Share Your Work Email*" type="email" className="form-control infoPlaceholder" name="contact-email" required />
         </div>
         <div className="form-group">
-            <input placeholder="Your Name*" type="email" className="form-control" name="contact-email" required />
+            <input placeholder="Your Name*" type="email" className="form-control infoPlaceholder" name="contact-email" required />
         </div>
         <div className="form-group">
-            <input placeholder="Phone*" type="email" className="form-control" name="contact-email" required />
+            <input placeholder="Phone*" type="email" className="form-control infoPlaceholder" name="contact-email" required />
         </div>
     
         <div className="form-group mb--40">
-            <input placeholder="Brief*"  className="form-control" name="contact-message" rows="4"></input>
+            <input placeholder="Brief*"  className="form-control infoPlaceholder" name="contact-message" rows="4"></input>
             
         </div>
         <div className="form-group">
@@ -73,6 +74,8 @@ const GetstartedForm = () => {
         </div>
 
     </form>
+        </center>
+   
     )
 }
 

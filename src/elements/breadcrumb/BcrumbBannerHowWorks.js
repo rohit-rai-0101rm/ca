@@ -8,11 +8,11 @@ const BcrumbBannerHowWorks = () => {
         <div className=" heading-left">
           <center>
             {" "}
-            <h1 className="title h2">
+            <h3 className="title h2">
               How it works?
               <br />
-            </h1>
-            <p>
+            </h3>
+            <p className="innovate-list-para">
               Right Matchmaking is at the core of everything that Dignifyd does,
               hence, we put in <br/> a great deal of time and effort to ensure that
               the first shortlisted talent matches <br/> your requirements.

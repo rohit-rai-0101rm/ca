@@ -13,10 +13,10 @@ const FaqWhyIndia = () => {
         <div className="row">
         
           <div className="col-lg-12 col-xl-12">
-            <center><h3>
+            <center><h4>
                 Frequently asked Questions
                 
-                </h3></center>
+                </h4></center>
             <div className="faq-accordion">
               <Accordion defaultActiveKey="1">
                 {allData.map((data) => (

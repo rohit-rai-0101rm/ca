@@ -10,7 +10,7 @@ const HireFromIndia = () => {
         <div className="row">
           <div className="col-lg-12">
             <div className="why-choose-us">
-              <h2>Why Companies hire from India</h2>
+              <h2 className="title">Why Companies hire from India</h2>
               <Accordion defaultActiveKey="1">
                 <Accordion.Item eventKey="1">
                   <Accordion.Header>

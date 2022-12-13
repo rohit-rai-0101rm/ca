@@ -64,8 +64,10 @@ const DigitalAgency = () => {
           <div className="container">
             <div className="row">
               <center>
-              <h4 className="titleServicesHeading"> Services that get you results</h4>
-
+                <h4 className="titleServicesHeading">
+                  {" "}
+                  Services that get you results
+                </h4>
               </center>
 
               <ServicePropHome

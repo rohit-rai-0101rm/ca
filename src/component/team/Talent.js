@@ -7,13 +7,13 @@ const allData = TeamData;
 
 const Talent = () => {
   return (
-    <div className="section section-padding-team bg-color-dark pb--70 pb_lg--20 pb_md--0">
+    <div className="section section-padding-team">
       <div className="container">
         <div className="section-heading heading-light">
-          <h2 className="title mb--50 mission15">
+          <h4 className="title  mt-120">
             India is full of talented individuals already shaping the world{" "}
-          </h2>
-          <p>
+          </h4>
+          <p className="innovate-list-para">
             Some of the world’s biggest companies are currently being run by
             Indians, here are a few examples.
           </p>

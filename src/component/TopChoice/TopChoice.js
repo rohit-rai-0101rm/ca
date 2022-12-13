@@ -29,15 +29,15 @@ const TopChoice = () => {
     <div className="section section-padding bg-color-dark pb--80 pb_lg--40 pb_md--20">
       <div className="container">
         <div className="row">
-          <h2 className="talentTitle">
+          <h4 className="talentTitle">
             What makes Indians the top choice for technology giants around the
             world?{" "}
-          </h2>
+          </h4>
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">1</h3>
               <h5 className="title">Dedicated</h5>
-              <p>
+              <p className="innovate-list-para">
               Indians are more engaged and committed to their work than their foreign counterparts.
               </p>
 
@@ -48,7 +48,7 @@ const TopChoice = () => {
             <div className="about-quality">
               <h3 className="sl-number">2</h3>
               <h5 className="title">Emotional</h5>
-              <p>
+              <p className="innovate-list-para">
               Indians are a driven and passionate lot. They get emotionally attached to the company, its people, and its place and are likely to stick around with a company longer than others.
               </p>
             </div>
@@ -57,7 +57,7 @@ const TopChoice = () => {
             <div className="about-quality">
               <h3 className="sl-number">3</h3>
               <h5 className="title">Add value</h5>
-              <p>
+              <p className="innovate-list-para">
               Indians give their 100% and believe in adding value to everything they do.
               </p>
             </div>
@@ -66,26 +66,26 @@ const TopChoice = () => {
             <div className="about-quality">
               <h3 className="sl-number">4</h3>
               <h5 className="title">Hard-working</h5>
-              <p>
+              <p className="innovate-list-para">
               From getting good grades in school to passing competitive examinations, Indians are taught the value of hard work and perseverance right from childhood.
               </p>
             </div>
           </div>
           <div className="col-lg-6">
             <div className="about-quality">
-              <h3 className="sl-number">4</h3>
+              <h3 className="sl-number">5</h3>
               <h5 className="title">Driven
 </h5>
-              <p>
+              <p className="innovate-list-para">
               Indians are driven by their determination to succeed and do well in life.
               </p>
             </div>
           </div>
           <div className="col-lg-6">
             <div className="about-quality">
-              <h3 className="sl-number">4</h3>
+              <h3 className="sl-number">6</h3>
               <h5 className="title">Helpful</h5>
-              <p>
+              <p className="innovate-list-para">
               Indians are helpful and help everyone around because it is something that is deeply ingrained in their beliefs and morals.
               </p>
             </div>

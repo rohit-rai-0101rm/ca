@@ -12,7 +12,7 @@ const BcrumbBannerWhyIndia = () => {
             Resourceful. Resilient. Adaptive.
               <br />
             </h1>
-            <p>
+            <p className="innovate-list-para">
             Indians are the first choice for tech giants around the world.
 
 
