@@ -8,12 +8,12 @@ const ProfessionalService = () => {
     <div className="section section-padding case-study-featured-area">
                 <div className="container">
                     <div className="row">
-                    <div className="col-xl-7 col-lg-6">
+                    <div className="col-xl-5 col-lg-6">
                         <div className="case-study-featured-thumb text-start">
                         <img src={process.env.PUBLIC_URL + "/images/webService.png"} alt="travel" />
                         </div>
                     </div>
-                    <div className="col-xl-5 col-lg-6">
+                    <div className="col-xl-7 col-lg-6">
                         <div className="case-study-featured">
                         <div className="section-heading heading-left">
                             <h4 className="title">Our Professional Web Development Services will make your new website project a success</h4>

@@ -10,13 +10,13 @@ const WebdevIntro = () => {
            
             <div className="col-xl-7 col-lg-6 ">
                 <div className="color-light  mb_md--30 mt_md--0 mt--100 ">
-                    <h1 className="titleDigitalMarketing">Professional Web Development Services Company</h1>
-                    <h4 className="subheadingDigitalMarketing"> Interactive, innovative, eye-catching websites to grow your business like never before.</h4>
-                    <p className="innovate-list-para">We are a trusted web development company with over 10 years of experience building responsive websites that reflect your brand. Our team of experienced developers specializes in developing custom themes and plugins tailored to your needs. We take pride in our ability to deliver quality results on time and ensure that your website is everything you hoped for.</p>
+                    <h3 className="titleDigitalMarketing">Professional Web Development Services Company</h3>
+                    <h5 className="subheadingDigitalMarketing mt--60"> Interactive, innovative, eye-catching websites to grow your business like never before.</h5>
+                    <p className="innovate-list-para mt--60">We are a trusted web development company with over 10 years <br/> of  experience building responsive websites that reflect your brand.<br/> Our team of experienced developers specializes in developing <br/>  custom themes and plugins tailored to your needs. We take pride in <br/> our ability to deliver quality results on time and ensure that your <br/> website is everything you hoped for.</p>
                     
                 </div>
                 <div className="form-group">
-                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mt--20">
+                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mt--webdevPadding">
                            <bold>Explore Web Development Pricing Packages</bold>         </Link>        </div>
                
             </div>
