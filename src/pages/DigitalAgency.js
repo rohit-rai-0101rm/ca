@@ -14,12 +14,14 @@ import CtaLayoutOne from "../component/cta/CtaLayoutOne";
 import Innovate from "../component/Innovate/Innovate";
 import PricingOne from "../component/pricing/PricingOne";
 import ProjectOne from "../component/project/ProjectOne";
+import ServicePropHome from "../component/service/ServicePropHome";
 import ServicePropOne from "../component/service/ServicePropOne";
 import TeamOne from "../component/team/TeamOne";
 import TestimonialOne from "../component/testimonial/TestimonialOne";
 import SectionTitle from "../elements/section-title/SectionTitle";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 import Testimonials from "./Testimonials";
+import ServiceData from "../data/service/ServiceMain.json";
 
 const DigitalAgency = () => {
   return (
@@ -60,18 +62,17 @@ const DigitalAgency = () => {
 
         <div className="section section-padding-2 bg-color-dark">
           <div className="container">
-            <SectionTitle
-              subtitle="What We Can Do For You"
-              title="services that get you results"
-              description="Transform how your business works. We brainstorm together, develop strategies & build brands that guarantee business."
-              textAlignment="heading-light-left"
-              textColor=""
-            />
             <div className="row">
-              <ServicePropOne
+              <center>
+              <h4 className="titleServicesHeading"> Services that get you results</h4>
+
+              </center>
+
+              <ServicePropHome
                 colSize="col-xl-4 col-md-6"
                 serviceStyle=""
                 itemShow="6"
+                serviceData={ServiceData}
               />
             </div>
           </div>
