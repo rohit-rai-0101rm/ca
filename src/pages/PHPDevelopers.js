@@ -14,13 +14,16 @@ import FrequentlyAsked2 from '../component/FrequentlyAsked/FrequentlyAsked2'
 import FrequentlyAsked3 from '../component/FrequentlyAsked/FrequentlyAsked3'
 import FrequentlyAsked4 from '../component/FrequentlyAsked/FrequentlyAsked4'
 import FrequentlyAsked5 from '../component/FrequentlyAsked/FrequentlyAsked5'
+import FrequentlyAsked6 from '../component/FrequentlyAsked/FrequentlyAsked6'
 import HireAngularDeveloperIntro from '../component/HireDevelopers/HireAngularDeveloperIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import HireLaravelDeveloperIntro from '../component/HireDevelopers/HireLaravelDeveloperIntro'
 import HireNodeDeveloperIntro from '../component/HireDevelopers/HireNodeDeveloperIntro'
+import HirePHPDeveloperIntro from '../component/HireDevelopers/HirePHPDeveloperIntro'
 import HireWordPressDeveloperIntro from '../component/HireDevelopers/HireWordPressDeveloperIntro'
 import LaravelSection from '../component/LaravelSection/LaravelSection'
 import NodeSection from '../component/NodeSection/NodeSection'
+import PHPSection from '../component/PHPSection/PHPSection'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
 import ReactSection from '../component/ReactSection/ReactSection'
@@ -30,17 +33,17 @@ import WordPressSection from '../component/WordPressSection/WordPressSection'
 import SectionTitle from '../elements/section-title/SectionTitle'
 import ColorSwitcher from '../elements/switcher/ColorSwitcher'
 
-const LaravelDevelopers = () => {
+const PHPDevelopers = () => {
   return (
     <>
     <SEO title="Digital Agency"/>
     <ColorSwitcher />
     <main className="main-wrapper">
         <HeaderOne />
-        <HireLaravelDeveloperIntro/>
-        <LaravelSection/>
+        <HirePHPDeveloperIntro/>
+        <PHPSection/>
         <AdvantageSection/>
-        <FrequentlyAsked5/>
+        <FrequentlyAsked6/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
     </main>
@@ -48,4 +51,4 @@ const LaravelDevelopers = () => {
   )
 }
 
-export default LaravelDevelopers
+export default PHPDevelopers

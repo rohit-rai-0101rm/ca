@@ -62,6 +62,11 @@ import AngularDevelopers from './pages/AngularDevelopers';
 import NodeDevelopers from './pages/NodeDevelopers';
 import WordPressDeveloper from './pages/WordPressDeveloper';
 import LaravelDevelopers from './pages/LaravelDevelopers';
+import HirePHPDeveloperIntro from './component/HireDevelopers/HirePHPDeveloperIntro';
+import PHPDevelopers from './pages/PHPDevelopers';
+import PluginDevelopers from './pages/PluginDevelopers';
+import WordPressDesigner from './pages/WordPressDesigner';
+
 
 
 const App = () => {
@@ -124,6 +129,9 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-nodejs-developers"} element={<NodeDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-developers"} element={<WordPressDeveloper/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-laravel-developers"} element={<LaravelDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-php-developers"} element={<PHPDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-plugin-developer"} element={<PluginDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-designer"} element={<WordPressDesigner/>}/>
 			</Routes>
 		</ScrollToTop>
     </Router>

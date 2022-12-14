@@ -9,17 +9,17 @@ import BlogOne from '../component/blog/BlogOne'
 import BrandOne from '../component/brand/BrandOne'
 import CounterUpOne from '../component/counterup/CounterUpOne'
 import CtaLayoutOne from '../component/cta/CtaLayoutOne'
+import DesignerSection from '../component/DesignerSection/DesignerSection'
 import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
 import FrequentlyAsked2 from '../component/FrequentlyAsked/FrequentlyAsked2'
 import FrequentlyAsked3 from '../component/FrequentlyAsked/FrequentlyAsked3'
 import FrequentlyAsked4 from '../component/FrequentlyAsked/FrequentlyAsked4'
-import FrequentlyAsked5 from '../component/FrequentlyAsked/FrequentlyAsked5'
+import FrequentlyAsked8 from '../component/FrequentlyAsked/FrequentlyAsked8'
 import HireAngularDeveloperIntro from '../component/HireDevelopers/HireAngularDeveloperIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
-import HireLaravelDeveloperIntro from '../component/HireDevelopers/HireLaravelDeveloperIntro'
 import HireNodeDeveloperIntro from '../component/HireDevelopers/HireNodeDeveloperIntro'
+import HireWordPressDesignerIntro from '../component/HireDevelopers/HireWordPressDesignerIntro'
 import HireWordPressDeveloperIntro from '../component/HireDevelopers/HireWordPressDeveloperIntro'
-import LaravelSection from '../component/LaravelSection/LaravelSection'
 import NodeSection from '../component/NodeSection/NodeSection'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
@@ -30,17 +30,17 @@ import WordPressSection from '../component/WordPressSection/WordPressSection'
 import SectionTitle from '../elements/section-title/SectionTitle'
 import ColorSwitcher from '../elements/switcher/ColorSwitcher'
 
-const LaravelDevelopers = () => {
+const WordPressDesigner = () => {
   return (
     <>
     <SEO title="Digital Agency"/>
     <ColorSwitcher />
     <main className="main-wrapper">
         <HeaderOne />
-        <HireLaravelDeveloperIntro/>
-        <LaravelSection/>
+        <HireWordPressDesignerIntro />
+        <DesignerSection/>
         <AdvantageSection/>
-        <FrequentlyAsked5/>
+        <FrequentlyAsked8/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
     </main>
@@ -48,4 +48,4 @@ const LaravelDevelopers = () => {
   )
 }
 
-export default LaravelDevelopers
+export default WordPressDesigner

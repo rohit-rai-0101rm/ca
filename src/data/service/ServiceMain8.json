@@ -1,0 +1,36 @@
+
+
+
+
+
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Custom PHP Web Application",
+        "description": "Hire a PHP Programmer to create intuitive and robust custom PHP Web Application acclaimed for high-end value."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "PHP Upgradations & Migrations",
+        "description": "Hire a dedicated PHP Developer to begin integrating and upgrading your existing Python, .NET, or Nodejs app to PHP."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Full-stack PHP Development",
+        "description": "Our PHP Programmers hold expertise in building high-performance web applications with their knowledge in system infrastructure and web architecture"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "CMS Development",
+        "description": "Our offshore PHP Developers provide brilliant Ecommerce solutions & CMS development services to global tech giants spread across industries and verticals.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Ongoing Maintenance & Management",
+        "description": "Whether it is migrating crucial data, resolving post-deployment queries or regular maintenance, our PHP coders provide you with go-to solutions. ",
+        "cate": "Design"
+    }
+ 
+    
+]
