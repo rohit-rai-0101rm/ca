@@ -10,21 +10,7 @@
         max-width: 128px;
         a {
             position: relative;
-            &:after {
-                content: "";
-                height: 100%;
-                width: 100%;
-                border: 8px dashed var(--color-rose);
-                border-radius: 50%;
-                position: absolute;
-                left: 0;
-                top: 0;
-                transform: rotate(90deg);
-                visibility: hidden;
-                opacity: 0;
-                transition: var(--transition);
-
-            }
+            
             img {
                 border-radius: 50%;
             }

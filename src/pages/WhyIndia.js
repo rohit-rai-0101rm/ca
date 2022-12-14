@@ -21,6 +21,7 @@ import Talent from "../component/team/Talent";
 import TeamDetails from "../component/team/TeamDetails";
 import TeamOne from "../component/team/TeamOne";
 import TopChoice from "../component/TopChoice/TopChoice";
+import TopSkills from "../component/TopSkills/TopSkills";
 import BcrumbBannerHowWorks from "../elements/breadcrumb/BcrumbBannerHowWorks";
 import BcrumbBannerOne from "../elements/breadcrumb/BcrumbBannerOne";
 import BcrumbBannerWhyIndia from "../elements/breadcrumb/BcrumbBannerWhyIndia";
@@ -67,6 +68,7 @@ const WhyIndia = () => {
         </ul>
       </div>
       <TopChoice/>
+      <TopSkills/>
 
       <CtaLayoutOne />
 
