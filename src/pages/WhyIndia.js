@@ -6,8 +6,10 @@ import AboutFour from "../component/about/AboutFour";
 import AboutThree from "../component/about/AboutThree";
 import BrandOne from "../component/brand/BrandOne";
 import BuiltDignifyd from "../component/BuiltDignifyd/BuiltDignifyd";
+import CaseStudyProp from "../component/casestudy/CaseStudyProp";
 import CounterUpOne from "../component/counterup/CounterUpOne";
 import CtaLayoutOne from "../component/cta/CtaLayoutOne";
+import Facts from "../component/Facts/Facts";
 import FaqWhyIndia from "../component/faq/FaqWhyIndia";
 import HireFromIndia from "../component/HireFromIndia/HireFromIndia";
 import HireTalent from "../component/HireTalent/HireTalent";
@@ -15,6 +17,7 @@ import HiringProcess from "../component/HiringProcess/HiringProcess";
 import JobOpenings from "../component/JobOpenings/JobOpenings";
 import Mission from "../component/Mission/Mission";
 import ProcessOne from "../component/process/ProcessOne";
+import RediculousEasy from "../component/RediculousEasy/RediculousEasy";
 import ServicePropOne from "../component/service/ServicePropOne";
 import Success from "../component/Success/Success";
 import Talent from "../component/team/Talent";
@@ -27,12 +30,14 @@ import BcrumbBannerOne from "../elements/breadcrumb/BcrumbBannerOne";
 import BcrumbBannerWhyIndia from "../elements/breadcrumb/BcrumbBannerWhyIndia";
 import SectionTitle from "../elements/section-title/SectionTitle";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
+import Tilty from "react-tilty";
+import GetstartedForm from "../component/GetstartedForm/GetstartedForm";
 
 const WhyIndia = () => {
   return (
     <main className="main-wrapper">
       <HeaderOne />
-      <ColorSwitcher/>
+      <ColorSwitcher />
 
       <BcrumbBannerWhyIndia
         title="One of the fastest growing agency"
@@ -40,12 +45,10 @@ const WhyIndia = () => {
         styleClass="thumbnail-4"
         mainThumb="/images/banner/banner-thumb-3.png"
       />
-      <HireFromIndia />
       <Talent />
-      <FaqWhyIndia/>
-     
+      <Facts />
 
-      <div className="section section-padding-2 bg-color-dark">
+      <div className="section section-padding bg-color-dark">
         <ul className="list-unstyled shape-group-10">
           <li className="shape shape-1">
             <img
@@ -67,8 +70,34 @@ const WhyIndia = () => {
           </li>
         </ul>
       </div>
-      <TopChoice/>
-      <TopSkills/>
+
+      <TopChoice />
+      <HireFromIndia />
+
+      <RediculousEasy />
+      <TopSkills />
+      <div className="section-padding case-study-brief bg-color-mercury">
+        <div className="container">
+          <div className="row align-items-xl-center">
+            <div className="col-lg-6">
+              <div className="case-study-featured-thumb">
+                <Tilty perspective={2000}>
+                  <center>
+                  <img src="/images/billGates.png" alt="Case Study" />
+
+
+                  </center>
+                </Tilty>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <GetstartedForm />
+
+      <FaqWhyIndia />
 
       <CtaLayoutOne />
 

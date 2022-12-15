@@ -13,6 +13,7 @@ import HiringProcess from "../component/HiringProcess/HiringProcess";
 import JobOpenings from "../component/JobOpenings/JobOpenings";
 import Mission from "../component/Mission/Mission";
 import ProcessOne from "../component/process/ProcessOne";
+import RediculousEasy from "../component/RediculousEasy/RediculousEasy";
 import ServicePropOne from "../component/service/ServicePropOne";
 import Success from "../component/Success/Success";
 import TeamDetails from "../component/team/TeamDetails";
@@ -26,7 +27,7 @@ const HowWorks = () => {
   return (
     <main className="main-wrapper">
       <HeaderOne />
-      <ColorSwitcher/>
+      <ColorSwitcher />
 
       <BcrumbBannerHowWorks
         title="One of the fastest growing agency"
@@ -35,8 +36,7 @@ const HowWorks = () => {
         mainThumb="/images/banner/banner-thumb-3.png"
       />
       <HiringProcess />
-      <GetstartedForm/>
-
+      <GetstartedForm />
       <CtaLayoutOne />
 
       <FooterOne parentClass="" />

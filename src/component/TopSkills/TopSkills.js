@@ -7,10 +7,10 @@ const allData = TeamData;
 
 const TopSkills = () => {
   return (
-    <div className="section section-padding bg-color-dark pb--70 pb_lg--20 pb_md--0">
+    <div className="section section-padding  pb--70 pb_lg--20 pb_md--0">
       <div className="container">
         <div className="section-heading heading-light">
-          <h3 className="title mb--50">Top Skills You Can Hire</h3>
+          <h3 className="title mb--50 skillsHeading">Top Skills You Can Hire</h3>
         </div>
         <div className="row">
           {allData.map((data) => (

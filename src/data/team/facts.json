@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "thumb": "/images/facts/microsoft-logo.png",
+        "title": "Sundar Pichai",
+        "designation": "CEO",
+        "description": "20% of Engineers in Microsoft are Indians",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {
+        "id": 2,
+        "thumb": "/images/facts/google-logo.png",
+        "title": "Sandeep Mathrani",
+        "designation": "CEO",
+        "description": "Around 30% of engineers in Google are Asians (most of which are Indians!)",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {
+        "id": 3,
+        "thumb": "/images/facts/facebook-logo.png",
+
+        "title": "Satya Nadella",
+        "designation": "CEO",
+        "description": "Facebook has 12000 Indians both who work in the U.S and remotely from India.",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {
+        "id": 4,
+        "thumb": "/images/facts/apple-logo.png",
+
+        "title": "Arvind Krishna",
+        "designation": "CEO",
+        "description": " out of every 3 Engineers is an Indian in Apple, another tech giant.",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    }
+]
