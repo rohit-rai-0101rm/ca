@@ -1,0 +1,31 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Zero recruitment fees"
+    },
+   
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "2 weeks no-risk trial"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "No obligation interview",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-28.png",
+        "title": "30-days replacement ",
+        
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Easy cancellation"
+    },
+    {
+        "image": "/images/icon/icon-5.png",
+        "title": "2x Retention Rate"
+       
+    }
+]

@@ -22,7 +22,10 @@ import NodeSection from '../component/NodeSection/NodeSection'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
 import ReactSection from '../component/ReactSection/ReactSection'
+import RemoteEngineer from '../component/RemoteEngineer/RemoteEngineer'
 import ServicePropOne from '../component/service/ServicePropOne'
+import ServiceDesign10 from '../component/ServiceDesign10/ServiceDesign10'
+import StepsToHire from '../component/StepsToHire/StepsToHire'
 import TestimonialOne from '../component/testimonial/TestimonialOne'
 import WordPressSection from '../component/WordPressSection/WordPressSection'
 import SectionTitle from '../elements/section-title/SectionTitle'
@@ -36,6 +39,9 @@ const ShopifyDevelopers = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireShopifyDeveloperIntro />
+        <StepsToHire/>
+        <ServiceDesign10/>
+        <RemoteEngineer/>
         <FrequentlyAsked4/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
