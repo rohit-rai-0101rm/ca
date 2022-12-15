@@ -1,0 +1,43 @@
+
+
+
+
+
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Custom Plugin Development",
+        "description": "Hire a plugin developer for WordPress to extend the functionality of your website by either building a new plugin or customizing the existing one."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Plugin Customization",
+        "description": "Get WordPress Plugin Customized with our plugin developers, who ensure the desired functionality without bloating your website."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Plugin Integration",
+        "description": "Get your third-party add-ons, payment gateways, extensions, or applications integrated. Hire a WordPress plugin developer to eliminate all kinds of integration, performance, and optimization issues."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Advance Plugin Development",
+        "description": "Whether you are a start-up, small business owner, or a large company- Our professional WordPress plugin developer accommodates a single roof for multiple WordPress Plugin development needs and requirements.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Old Plugin Upgrade",
+        "description": "Hire a pre- vetted WordPress plugin developer who follows the best practices to upgrade an existing plugin with the latest WordPress plugin updates based on your requirements.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "WordPress Plugin Tweaking",
+        "description": "Hire a top-notch Plugin developer for tailoring WordPress plugins to navigate compatibility issues. We have got covered everything from WordPress tweaks to optimization.",
+        "cate": "Design"
+    }
+ 
+ 
+    
+]

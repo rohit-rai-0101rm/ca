@@ -1,0 +1,24 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Custom Development",
+        "description": "Our developers use their core expertise of development and programming to build web applications for startups and enterprises"
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "E-Learning Platforms",
+        "description": "Hire AngularJS developers to develop safe and scalable e-learning platforms. We match your expectations of a powerful online presence with our expertise."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "API Integration",
+        "description": "Our top AngularJS developers offer API integration to give your existing projects an upgrade you never thought you needed."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "UI/UX Development",
+        "description": "Our AngularJS developers follow the best practices to curate interactive and user-friendly UI/UX designs for your applications.",
+        "cate": "Design"
+    }
+    
+]

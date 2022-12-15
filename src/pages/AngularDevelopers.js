@@ -4,11 +4,14 @@ import HeaderOne from '../common/header/HeaderOne'
 import SEO from '../common/SEO'
 import AboutOne from '../component/about/AboutOne'
 import AdvantageSection from '../component/AdvantageSection/AdvantageSection'
+import AngularSection from '../component/AngularSection/AngularSection'
 import BlogOne from '../component/blog/BlogOne'
 import BrandOne from '../component/brand/BrandOne'
 import CounterUpOne from '../component/counterup/CounterUpOne'
 import CtaLayoutOne from '../component/cta/CtaLayoutOne'
 import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
+import FrequentlyAsked2 from '../component/FrequentlyAsked/FrequentlyAsked2'
+import HireAngularDeveloperIntro from '../component/HireDevelopers/HireAngularDeveloperIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
@@ -18,17 +21,17 @@ import TestimonialOne from '../component/testimonial/TestimonialOne'
 import SectionTitle from '../elements/section-title/SectionTitle'
 import ColorSwitcher from '../elements/switcher/ColorSwitcher'
 
-const ReactDeveloper = () => {
+const AngularDevelopers = () => {
   return (
     <>
     <SEO title="Digital Agency"/>
     <ColorSwitcher />
     <main className="main-wrapper">
         <HeaderOne />
-        <HireDevelopersIntro />
-        <ReactSection/>
+        <HireAngularDeveloperIntro />
+        <AngularSection/>
         <AdvantageSection/>
-        <FrequentlyAsked/>
+        <FrequentlyAsked2/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
     </main>
@@ -36,4 +39,4 @@ const ReactDeveloper = () => {
   )
 }
 
-export default ReactDeveloper
+export default AngularDevelopers
