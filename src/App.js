@@ -66,6 +66,7 @@ import HirePHPDeveloperIntro from './component/HireDevelopers/HirePHPDeveloperIn
 import PHPDevelopers from './pages/PHPDevelopers';
 import PluginDevelopers from './pages/PluginDevelopers';
 import WordPressDesigner from './pages/WordPressDesigner';
+import ShopifyDevelopers from './pages/ShopifyDevelopers';
 
 
 
@@ -132,6 +133,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-php-developers"} element={<PHPDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-plugin-developer"} element={<PluginDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-designer"} element={<WordPressDesigner/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-shopify-developers"} element={<ShopifyDevelopers/>}/>
+
 			</Routes>
 		</ScrollToTop>
     </Router>
