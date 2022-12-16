@@ -8,7 +8,7 @@ const ReactSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Hire ReactJS Developers from Dignifyd</h2>
+        <h3 className='coloringtext'>Hire ReactJS Developers from Dignifyd</h3>
 
         </center>
         <div className='row'>

@@ -12,6 +12,9 @@ import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
+import ReactBestChoice from '../component/ReactBestChoice/ReactBestChoice'
+import ReactImportantSkills from '../component/ReactImportantSkills/ReactImportantSkills'
+import ReactProcess from '../component/ReactProcess/ReactProcess'
 import ReactSection from '../component/ReactSection/ReactSection'
 import ServicePropOne from '../component/service/ServicePropOne'
 import TestimonialOne from '../component/testimonial/TestimonialOne'
@@ -27,7 +30,11 @@ const ReactDeveloper = () => {
         <HeaderOne />
         <HireDevelopersIntro />
         <ReactSection/>
+     
+        <ReactProcess/>
         <AdvantageSection/>
+        <ReactBestChoice/>
+        <ReactImportantSkills/>
         <FrequentlyAsked/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
