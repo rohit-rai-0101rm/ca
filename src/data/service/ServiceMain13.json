@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "UI and UX Design and Development ",
+        "description": "We have talented UI and UX designers who can translate client requirements into masterpieces of high value and quality."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Mockups Designing",
+        "description": "Hire UI UX designers who develop mockups for your websites or mobile apps according to your specifications, keeping every tiny detail from color matching to brand identity in mind."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Wireframe and Prototyping",
+        "description": "Hire UX designers that offer a full range of wireframe design services using the latest tools and techniques to create beautifully branded web and mobile apps."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "IT Architecture Development",
+        "description": "With expertise in information architecture, our designers can build robust IT infrastructures for maximum scalability and performance across various industries and domains.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "UI UX Consulting Services",
+        "description": "Hire UX designers and user interface designers who are experts in their field and will not only assist you in setting the tone of your brand but also create the designs strategically",
+        "cate": "Design"
+    }
+]

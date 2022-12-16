@@ -1,0 +1,30 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/process-1.png",
+        "subtitle": "Step One",
+        "title": "Share your requirements."
+
+    
+    
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/process-2.png",
+        "subtitle": "Step Two",
+        "title": "We shortlist the most suitable talent."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/process-3.png",
+        "subtitle": "Step Three",
+        "title": "Select the right fit for your business."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/process-3.png",
+        "subtitle": "Step Four",
+        "title": "Remote Onboarding & Support."
+    }
+]
