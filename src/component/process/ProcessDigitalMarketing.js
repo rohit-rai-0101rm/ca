@@ -19,7 +19,7 @@ const ProcessDigitalMarketing = () => {
                 {getProcesstData.map((data) => (
                     <div key={data.id} className={`process-work ${(data.id % 2  === 0) ? "content-reverse" : ""}`}>
                         <Tilty perspective={2000}>
-                            <div className="thumbnail">
+                            <div className="">
                                 <img src={process.env.PUBLIC_URL + data.thumb} alt="Thumbnail" />
                             </div>
                         </Tilty>

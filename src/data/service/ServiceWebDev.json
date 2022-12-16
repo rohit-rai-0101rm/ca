@@ -1,16 +1,16 @@
 [
     {
-        "image": "/images/seoServices/fullSeo.png",
+        "image": "/images/web-dev/EcommerceWebservice.png",
         "title": "Ecommerce Web Development Services",
         "description": "Dignifyd' team of Ecommerce experts can help you build and develop your online store and all things related. We offer consultation, design, execution, quality checks, and integrations to ensure your store is functioning at its best."
     },
     {
-        "image": "/images/icon/icon-2.png",
+        "image": "/images/web-dev/Landingpagesservice.png",
         "title": "Landing Pages Development Services",
         "description": "Create a custom page that perfectly matches your branding and goals with help from our Web Development Experts. You can expect an increase in your website's conversion rate and overall performance."
     },
     {
-        "image": "/images/icon/icon-3.png",
+        "image": "/images/web-dev/backendwebdeveloper.png",
         "title": "Backend Web Development Services",
         "description": "With a detailed understanding of databases, back-end logic, APIs, architecture, and servers, we ensure that your website performs correctly. We are committed to providing our clients with the best possible services, including a well-functioning back-end."
     }

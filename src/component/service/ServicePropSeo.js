@@ -11,7 +11,9 @@ const ServicePropSeo = ({colSize, serviceStyle, serviceData}) => {
 			{serviceData.map((data, index) => (
 				<div className={colSize} key={index} >
 					<div className={`services-grid ${serviceStyle}`}>
-						
+					<div className="thumbnail2">
+							<img src={process.env.PUBLIC_URL + data.image} alt="icon" />
+						</div>
 						<div className="content">
 							<h5 className="title"> 
 								<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.title)}`}>{data.title}</Link>
