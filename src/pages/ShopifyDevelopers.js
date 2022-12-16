@@ -27,6 +27,7 @@ import RemoteEngineer from '../component/RemoteEngineer/RemoteEngineer'
 import ServicePropOne from '../component/service/ServicePropOne'
 import ServiceDesign10 from '../component/ServiceDesign10/ServiceDesign10'
 import StepsToHire from '../component/StepsToHire/StepsToHire'
+import TeamONE from '../component/TeamONE/TeamONE'
 import TestimonialOne from '../component/testimonial/TestimonialOne'
 import WordPressSection from '../component/WordPressSection/WordPressSection'
 import SectionTitle from '../elements/section-title/SectionTitle'
@@ -41,7 +42,7 @@ const ShopifyDevelopers = () => {
         <HeaderOne />
         <HireShopifyDeveloperIntro />
         <StepsToHire/>
-        <ServiceDesign10/>
+        <TeamONE/>
         <RemoteEngineer/>
         <FrequentlyAsked9/>
         <CtaLayoutOne /> 

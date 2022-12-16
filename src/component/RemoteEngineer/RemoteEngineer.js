@@ -39,6 +39,12 @@ const RemoteEngineer = () => {
           ))}
         </div>
       </div>
+     <center> <Link
+              to={process.env.PUBLIC_URL + "/contact"}
+              className="axil-btn btn-large btn-fill-white"
+            >
+              Get in Touch
+            </Link></center> 
     
     </div>
   );
