@@ -13,8 +13,13 @@ const HireAngularDeveloperIntro = () => {
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
                             <center>
                                 <h1 className="title">Hire AngularJS Developers for Cutting-Edge Web Solutions</h1>
-                                <span className="subtitle">Are you looking for dedicated AngularJS developers to build modern-age applications? We, at Uplers, provide the best AngularJS developers in India who are equipped with the latest technologies and use innovative approaches.</span>
-                                <span className="subtitle">Scale your development output by hiring AngularJS developers from India</span>
+                                <p className="innovate-list-para">Are you looking for dedicated AngularJS developers to build modern-age applications? We, at Dignifyd, provide the best AngularJS developers in India who are equipped with the latest technologies and use innovative approaches.
+                                
+                                <br/>
+                                Scale your development output by hiring AngularJS developers from India
+
+                                
+                                </p>
                                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Share your Requirements</Link>
                             </center>
                             </AnimationOnScroll>

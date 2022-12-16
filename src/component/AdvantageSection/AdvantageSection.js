@@ -8,7 +8,7 @@ const AdvantageSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h3 className='coloringtext'>The Dignifyd Advantage</h3>
+        <h4 className='coloringtext'>The Dignifyd Advantage</h4>
 
         </center>
         <div className='row'>

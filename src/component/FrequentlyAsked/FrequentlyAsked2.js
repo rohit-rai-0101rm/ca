@@ -9,7 +9,7 @@ const FrequentlyAsked2 = () => {
     <div className="section section-padding-equal bg-color-light faq-area">
     <div className="container">
         <div className="row">
-        <center> <h2>Frequently asked questions</h2> </center> 
+        <center> <h4>Frequently asked questions</h4> </center> 
             
             <div className="col-lg-12 col-xl-12">
                 <div className="faq-accordion">

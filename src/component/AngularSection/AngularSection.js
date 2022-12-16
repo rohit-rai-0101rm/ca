@@ -8,7 +8,7 @@ const AngularSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Hire our AngularJS Developers for the following services</h2>
+        <h4 className='coloringtext'>Hire our AngularJS Developers for the following services</h4>
 
         </center>
         <div className='row'>
