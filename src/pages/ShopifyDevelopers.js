@@ -13,6 +13,7 @@ import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
 import FrequentlyAsked2 from '../component/FrequentlyAsked/FrequentlyAsked2'
 import FrequentlyAsked3 from '../component/FrequentlyAsked/FrequentlyAsked3'
 import FrequentlyAsked4 from '../component/FrequentlyAsked/FrequentlyAsked4'
+import FrequentlyAsked9 from '../component/FrequentlyAsked/FrequentlyAsked9'
 import HireAngularDeveloperIntro from '../component/HireDevelopers/HireAngularDeveloperIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import HireNodeDeveloperIntro from '../component/HireDevelopers/HireNodeDeveloperIntro'
@@ -42,7 +43,7 @@ const ShopifyDevelopers = () => {
         <StepsToHire/>
         <ServiceDesign10/>
         <RemoteEngineer/>
-        <FrequentlyAsked4/>
+        <FrequentlyAsked9/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
     </main>
