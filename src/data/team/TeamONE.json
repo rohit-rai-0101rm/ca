@@ -1,0 +1,93 @@
+[
+    {   "id": 1,
+        "thumb": "/images/technologies/shopify.png",
+        "title": "Zero recruitment fees",
+        "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 2,
+    "thumb": "/images/technologies/wordpress.png",
+    "title": "2 weeks no-risk trial",
+        "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 3,
+    "thumb": "/images/technologies/js.png",
+    "title": "No obligation interview",
+        "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 4,
+    "thumb": "/images/technologies/pr.png",
+    "title": "30-days replacement",
+
+        "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 5,
+    "thumb": "/images/technologies/figma.png",
+    "title": "Easy cancellation",
+      
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 6,
+    "thumb": "/images/technologies/ae.png",
+    "title": "2x Retention Rate",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    }
+    
+]

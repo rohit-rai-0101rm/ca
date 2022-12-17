@@ -1,19 +1,19 @@
- import React from 'react'
-import ServicePropTen from '../service/ServicePropTen'
+import React from 'react'
+import ServiceProp12 from '../service/ServiceProp12'
  
- const DesignerSection = () => {
+ const UIUXSection = () => {
    return (
     <div>  
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Benefits of Hiring a WordPress Designer</h2>
+        <h2 className='coloringtext'>Hire UI UX Designer from Dignifyd </h2>
+        <p>Hire UI UX Designer from Uplers</p>
         <br/>
-        <h3>Smart individuals with expert skills</h3>
 
         </center>
         <div className='row'>
-            <ServicePropTen colSize="col-xl-6 col-md-6" serviceStyle="" itemShow="6" />
+            <ServiceProp12 colSize="col-xl-6 col-md-6" serviceStyle="" itemShow="6" />
         </div>
     </div>
     <ul className="list-unstyled shape-group-10">
@@ -26,4 +26,4 @@ import ServicePropTen from '../service/ServicePropTen'
    )
  }
  
- export default DesignerSection
+ export default UIUXSection

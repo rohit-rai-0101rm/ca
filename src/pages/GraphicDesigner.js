@@ -9,13 +9,17 @@ import BlogOne from '../component/blog/BlogOne'
 import BrandOne from '../component/brand/BrandOne'
 import CounterUpOne from '../component/counterup/CounterUpOne'
 import CtaLayoutOne from '../component/cta/CtaLayoutOne'
+import DesignerSection from '../component/DesignerSection/DesignerSection'
 import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
+import FrequentlyAsked10 from '../component/FrequentlyAsked/FrequentlyAsked10'
 import FrequentlyAsked2 from '../component/FrequentlyAsked/FrequentlyAsked2'
 import FrequentlyAsked3 from '../component/FrequentlyAsked/FrequentlyAsked3'
 import FrequentlyAsked4 from '../component/FrequentlyAsked/FrequentlyAsked4'
 import FrequentlyAsked9 from '../component/FrequentlyAsked/FrequentlyAsked9'
+import Graphics2Section from '../component/Graphics2Section/Graphics2Section'
 import HireAngularDeveloperIntro from '../component/HireDevelopers/HireAngularDeveloperIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
+import HireGraphicDesigner from '../component/HireDevelopers/HireGraphicDesigner'
 import HireNodeDeveloperIntro from '../component/HireDevelopers/HireNodeDeveloperIntro'
 import HireShopifyDeveloperIntro from '../component/HireDevelopers/HireShopifyDeveloperIntro'
 import HireWordPressDeveloperIntro from '../component/HireDevelopers/HireWordPressDeveloperIntro'
@@ -34,18 +38,18 @@ import WordPressSection from '../component/WordPressSection/WordPressSection'
 import SectionTitle from '../elements/section-title/SectionTitle'
 import ColorSwitcher from '../elements/switcher/ColorSwitcher'
 
-const ShopifyDevelopers = () => {
+const GraphicDesigner = () => {
   return (
     <>
     <SEO title="Digital Agency"/>
     <ColorSwitcher />
     <main className="main-wrapper">
         <HeaderOne />
-        <HireShopifyDeveloperIntro />
-        <StepsToHire/>
-        <TeamONE/>
+        <HireGraphicDesigner/>
+        <StepsToHire1/>
+        <Graphics2Section/>
         <RemoteEngineer/>
-        <FrequentlyAsked9/>
+        <FrequentlyAsked10/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
     </main>
@@ -53,4 +57,4 @@ const ShopifyDevelopers = () => {
   )
 }
 
-export default ShopifyDevelopers
+export default GraphicDesigner

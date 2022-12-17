@@ -74,6 +74,8 @@ import PHPDevelopers from './pages/PHPDevelopers';
 import PluginDevelopers from './pages/PluginDevelopers';
 import WordPressDesigner from './pages/WordPressDesigner';
 import ShopifyDevelopers from './pages/ShopifyDevelopers';
+import GraphicDesigner from './pages/GraphicDesigner';
+import UiuxDesigner from './pages/UiuxDesigner';
 
 
 
@@ -153,6 +155,11 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-plugin-developer"} element={<PluginDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-wordpress-designer"} element={<WordPressDesigner/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-shopify-developers"} element={<ShopifyDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-graphic-designers"} element={<GraphicDesigner/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-ui-ux-designers"} element={<UiuxDesigner/>}/>
+
+
+
 
 			</Routes>
 		</ScrollToTop>

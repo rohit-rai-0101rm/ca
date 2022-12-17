@@ -1,19 +1,18 @@
- import React from 'react'
-import ServicePropTen from '../service/ServicePropTen'
+import React from 'react'
+import ServiceProp11 from '../service/ServiceProp11'
  
- const DesignerSection = () => {
+ const Graphics2Section = () => {
    return (
     <div>  
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Benefits of Hiring a WordPress Designer</h2>
+        <h2 className='coloringtext'>Hire Graphic Designers from Dignifyd </h2>
         <br/>
-        <h3>Smart individuals with expert skills</h3>
 
         </center>
         <div className='row'>
-            <ServicePropTen colSize="col-xl-6 col-md-6" serviceStyle="" itemShow="6" />
+            <ServiceProp11 colSize="col-xl-6 col-md-6" serviceStyle="" itemShow="6" />
         </div>
     </div>
     <ul className="list-unstyled shape-group-10">
@@ -26,4 +25,4 @@ import ServicePropTen from '../service/ServicePropTen'
    )
  }
  
- export default DesignerSection
+ export default Graphics2Section
