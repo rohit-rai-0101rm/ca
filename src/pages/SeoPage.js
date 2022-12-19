@@ -47,18 +47,20 @@ const SeoPage = () => {
 
         <SeoSpider />
         <div className="section section-padding" id="section1">
-                    <div className="container">
-                      <center>
-                      <h4 className="unique">SEO Services We Deliver
+          <div className="container">
+            <center>
+              <h4 className="unique">SEO Services We Deliver</h4>
+            </center>
 
-</h4>
-                      </center>
-  
-                        <div className="row">
-                            <ServicePropSeo colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={allData}/>
-                        </div>
-                    </div>
-                </div>
+            <div className="row">
+              <ServicePropSeo
+                colSize="col-lg-4 col-md-6"
+                serviceStyle="service-style-2"
+                serviceData={allData}
+              />
+            </div>
+          </div>
+        </div>
 
         <SeoExperts />
         <FaqSeo />

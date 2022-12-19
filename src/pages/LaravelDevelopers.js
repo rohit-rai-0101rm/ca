@@ -19,10 +19,14 @@ import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro
 import HireLaravelDeveloperIntro from '../component/HireDevelopers/HireLaravelDeveloperIntro'
 import HireNodeDeveloperIntro from '../component/HireDevelopers/HireNodeDeveloperIntro'
 import HireWordPressDeveloperIntro from '../component/HireDevelopers/HireWordPressDeveloperIntro'
+import LaravelBestChoice from '../component/LaravelBestChoice/LaravelBestChoice'
+import LaravelInterview from '../component/LaravelInterview/LaravelInterview'
 import LaravelSection from '../component/LaravelSection/LaravelSection'
+import NodeBestChoice from '../component/NodeBestChoice/NodeBestChoice'
 import NodeSection from '../component/NodeSection/NodeSection'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
+import ReactProcess from '../component/ReactProcess/ReactProcess'
 import ReactSection from '../component/ReactSection/ReactSection'
 import ServicePropOne from '../component/service/ServicePropOne'
 import TestimonialOne from '../component/testimonial/TestimonialOne'
@@ -38,8 +42,14 @@ const LaravelDevelopers = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireLaravelDeveloperIntro/>
+
         <LaravelSection/>
+        <ReactProcess/>
+
         <AdvantageSection/>
+        <LaravelBestChoice/>
+        <LaravelInterview/>
+
         <FrequentlyAsked5/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />

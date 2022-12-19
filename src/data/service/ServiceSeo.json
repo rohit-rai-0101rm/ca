@@ -1,35 +1,35 @@
 [
     {
         "image": "/images/seoIcons/fullsuitseo.png",
-        "title": "Full Suite Seo",
-        "description": "Our full suite professional Search Engine Optimization services are everything you might need. From targeted keyword research, setting up Google Analytics, metadata descriptions, SEO audits, link building and the list gets longer."
+        "title": "Ad Management",
+        "description": "Hire an AdWords consultant who will help you unleash your business’s potential by choosing the right Ad management channel to get you high conversion rates."
     },
     {
         "image": "/images/seoIcons/localseoservices.png",
-        "title": "Local SEO Services",
-        "description": "When your business needs are confined to your local audience - Local SEO Services works best. From Google My Business creation, optimization, to conversion tracking and geo-tagging - we are the SEO marketing company you must partner with."
+        "title": "Ad Remarketing",
+        "description": "What better than serving the ads to the people who already trust your brand and services! Hire Google AdWords Experts who’d ensure to have a personalized touch while retargeting."
     },
     {
         "image": "/images/seoIcons/GoogleAnalytics.png",
-        "title": "Google Analytics Configuration",
-        "description": "Get better insights into what factors are working for you and what is not. Keep an eye on complex tracking codes and employ tag managers - our Analytics solutions have got you covered."
+        "title": "Native Advertising",
+        "description": "Native ads form an ideal choice among the people and are our personal favorite when it comes to effective marketing."
     },
     {
         "image": "/images/seoIcons/link-building.png",
-        "title": "Link Building",
-        "description": "Explore our range of SEO-centric link building and content outreach services to get all those good link juices flowing in and attract footfalls to your website.",
+        "title": "Video Ad Management",
+        "description": "Be it small- or large-scale businesses – enhance it by getting global recognition and sales through YouTube’s Video Ads.",
         "cate": "Design"
     },
     {
         "image": "/images/seoIcons/seoaudits.png",
-        "title": "SEO Audits",
-        "description": "Don’t have a clue about your site’s degrading performance? Let Dignifyd- the SEO service provider audit your site’s important aspects including traffic sources, metadata, meta descriptions and keyword analysis.",
+        "title": "PPC Audits",
+        "description": "Did you just lose your rank because of Google Penalty or looking for ideas to improve the performance of your ads? Hire the top AdWords PPC consultants at your disposal.",
         "cate": "Design"
     },
     {
         "image": "/images/seoIcons/ecommerceSEO.png",
-        "title": "Ecommerce SEO",
-        "description": "Modern days call for modern solutions. These days owning a great looking eCommerce store is not enough. You need people to find your store and shop. eCommerce SEO is the answer.",
+        "title": "Social Media Advertising",
+        "description": "We believe that every business is unique and so is choosing appropriate social media channels. Youtube, Facebook, LinkedIn, Twitter or Instagram - we’ve got you covered.",
         "cate": "Ecommerce SEO"
     }
     

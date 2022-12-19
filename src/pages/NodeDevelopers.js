@@ -15,9 +15,11 @@ import FrequentlyAsked3 from '../component/FrequentlyAsked/FrequentlyAsked3'
 import HireAngularDeveloperIntro from '../component/HireDevelopers/HireAngularDeveloperIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import HireNodeDeveloperIntro from '../component/HireDevelopers/HireNodeDeveloperIntro'
+import NodeBestChoice from '../component/NodeBestChoice/NodeBestChoice'
 import NodeSection from '../component/NodeSection/NodeSection'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
+import ReactProcess from '../component/ReactProcess/ReactProcess'
 import ReactSection from '../component/ReactSection/ReactSection'
 import ServicePropOne from '../component/service/ServicePropOne'
 import TestimonialOne from '../component/testimonial/TestimonialOne'
@@ -32,8 +34,11 @@ const AngularDevelopers = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireNodeDeveloperIntro />
-        <NodeSection/>
         <AdvantageSection/>
+
+        <ReactProcess/>
+        <NodeSection/>
+        <NodeBestChoice/>
         <FrequentlyAsked3/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />

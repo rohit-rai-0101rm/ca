@@ -45,8 +45,10 @@ const ServicePropThree= ({colSize, serviceStyle, itemShow, marginTop}) => {
 								</Link>
 						</div>
 					</div>
+					
 			 	</div>
 			))}
+		
 		</>
     )
 }

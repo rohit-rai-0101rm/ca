@@ -8,9 +8,9 @@ const NodeSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Hire full-stack NodeJS Developer from Uplers</h2>
+        <h4 className='coloringtext'>Hire full-stack NodeJS Developer from Dignifyd</h4>
         <br/>
-        <h3>Smart individuals with expert skills</h3>
+        <h5 className='coloringtext'>Smart individuals with expert skills</h5>
 
         </center>
         <div className='row'>

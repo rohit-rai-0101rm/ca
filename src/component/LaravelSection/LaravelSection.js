@@ -8,7 +8,7 @@ const LaravelSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Hire our Laravel Developers for the following services</h2>
+        <h4 className='coloringtext'>Hire our Laravel Developers for the following services</h4>
         <br/>
        
         </center>

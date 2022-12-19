@@ -9,7 +9,7 @@ const FrequentlyAsked3 = () => {
     <div className="section section-padding-equal bg-color-light faq-area">
     <div className="container">
         <div className="row">
-        <center> <h2>Frequently asked questions</h2> </center> 
+        <center> <h4>Frequently asked questions</h4> </center> 
             
             <div className="col-lg-12 col-xl-12">
                 <div className="faq-accordion">
@@ -17,7 +17,7 @@ const FrequentlyAsked3 = () => {
                             <Accordion.Item>
                                 <Accordion.Header><span>How much will it cost to hire a NodeJS developer from Dignifyd?</span></Accordion.Header>
                                 <Accordion.Body>
-                                <p>The full-time hiring of a NodeJS developer from us will cost you approximately $3000 a month which is subjective to the skillset and experience of the candidate.
+                                <p className='innovate-list-para'>The full-time hiring of a NodeJS developer from us will cost you approximately $3000 a month which is subjective to the skillset and experience of the candidate.
                                 </p>
                                 <br/>
                                  </Accordion.Body>
@@ -29,12 +29,12 @@ const FrequentlyAsked3 = () => {
                                 <Accordion.Header><span>How do I hire NodeJS Developers through Dignifyd?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
-                                <p>You can hire NodeJS programmers on-demand who work as an extension to your in-house web development team.</p>
+                                <p className='innovate-list-para'>You can hire NodeJS programmers on-demand who work as an extension to your in-house web development team.</p>
                                 <br/>
-                                <p><strong>Step 1: </strong> Share your requirement of hiring talent</p>
-                                <p><strong>Step 2: </strong> We shortlist the right fit from a pool of talented profiles</p>
-                                <p><strong>Step 3: </strong> You select the suitable candidate and take the interview</p>
-                                <p><strong>Step 4: </strong> Onboard talent and start your work.</p>
+                                <p className='innovate-list-para'><strong>Step 1: </strong> Share your requirement of hiring talent</p>
+                                <p className='innovate-list-para'><strong>Step 2: </strong> We shortlist the right fit from a pool of talented profiles</p>
+                                <p className='innovate-list-para'><strong>Step 3: </strong> You select the suitable candidate and take the interview</p>
+                                <p className='innovate-list-para'><strong>Step 4: </strong> Onboard talent and start your work.</p>
                                 
                                 <br/>
                                 </Accordion.Body>
@@ -46,7 +46,7 @@ const FrequentlyAsked3 = () => {
                                 <Accordion.Header><span>What is the average work experience of a NodeJS developer hired through Dignifyd?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
-                                <p>The average work experience of NodeJS developers hired through us is of senior level, which is 5+ years.
+                                <p className='innovate-list-para'>The average work experience of NodeJS developers hired through us is of senior level, which is 5+ years.
                                 
                                 </p>
                                 
@@ -61,7 +61,7 @@ const FrequentlyAsked3 = () => {
                                 <Accordion.Header><span>What applications can be developed through Node.js framework?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
-                                <p>Many applications can be developed using NodeJS. Below are the most popular apps like real-time chat-bots, collaboration tools, streaming apps, and Single Page Applications (SPAs).
+                                <p className='innovate-list-para'>Many applications can be developed using NodeJS. Below are the most popular apps like real-time chat-bots, collaboration tools, streaming apps, and Single Page Applications (SPAs).
                                 
                                 </p>
                                 
@@ -77,7 +77,7 @@ const FrequentlyAsked3 = () => {
                                 <Accordion.Header><span>How long will it take to hire Node JS programmers from Dignifyd?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
-                                <p>Depending upon your requirement, you can hire a dedicated Node.js programmer in India from us in 2-4 weeks.
+                                <p className='innovate-list-para'>Depending upon your requirement, you can hire a dedicated Node.js programmer in India from us in 2-4 weeks.
                                 
                                 </p>
                                 
@@ -91,7 +91,7 @@ const FrequentlyAsked3 = () => {
                                 <Accordion.Header><span>Why should I hire a dedicated NodeJS developer from India?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
-                                <p>Hiring a dedicated NodeJS developer in your team is key if you’re looking to-
+                                <p className='innovate-list-para'>Hiring a dedicated NodeJS developer in your team is key if you’re looking to-
                                 
                                 </p>
                                 
