@@ -1,0 +1,35 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": ".NET Web Application Development",
+        "description": "Benefit from the expertise of our .NET Developers proficient with ASP.NET frameworks and get highly scalable web-based solutions."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": ".NET Mobile Application Development",
+        "description": "In conjunction with other business requirements, our remote .NET developers would build custom solutions and transform existing .NET applications!"
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Custom .NET Development",
+        "description": "Our offshore ReactJS developers build web applications for large-scale enterprises that are scalable & secure at the same time."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Enterprise .NET Development",
+        "description": ".NET solutions designed to meet the specific needs of your enterprises and assist you in making your business successful.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": ".NET Migration Services",
+        "description": "Utilize our top-of-the-line expertise to ensure smooth migration, upgradation, and modern-age optimization of the apps without losing the technical edge."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": ".NET Maintenance and Support",
+        "description": "Hire Indian .NET Programmers for run-time maintenance and keeping your application up to date with the latest trends.",
+        "cate": "Design"
+    }
+    
+]

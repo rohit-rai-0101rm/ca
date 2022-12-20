@@ -78,6 +78,7 @@ import GraphicDesigner from './pages/GraphicDesigner';
 import UiuxDesigner from './pages/UiuxDesigner';
 import SeoExperts from './pages/SeoExperts';
 import PpcExperts from './pages/PpcExperts';
+import DotNetDevelopers from './pages/DotNetDevelopers';
 
 
 
@@ -164,6 +165,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-graphic-designers"} element={<GraphicDesigner/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-ui-ux-designers"} element={<UiuxDesigner/>}/>
 
+				<Route path={process.env.PUBLIC_URL + "/hire-dot-net-developers"} element={<DotNetDevelopers/>}/>
 
 
 
