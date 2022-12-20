@@ -1,0 +1,36 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Zero recruitment fees",
+        "description": "Eradicate the long and tedious process of sourcing candidates to find the right fit."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "2 weeks no-risk trial",
+        "description": "From helping you build a great team to managing them (HR and Payrolls) - we will take care of everything."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "No obligation interview",
+        "description": "Uplers saves you up to 50% on salary over local talent without compromising on quality."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "30-days replacement",
+        "description": "Access a pool of experienced candidates and hire the best ReactJS Developers.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Easy cancellation",
+        "description": "Keep your data safe and secure with Uplers' global data protection and compliance standards",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "2x Retention Rate",
+        "description": "Interviewing a candidate does not obligate you to hire them. We recommend other profiles if you're not satisfied. No questions asked.",
+        "cate": "Design"
+    }
+    
+]
