@@ -79,6 +79,7 @@ import GraphicDesigner from './pages/GraphicDesigner';
 import UiuxDesigner from './pages/UiuxDesigner';
 import SalesDeveloper from './pages/SalesDeveloper';
 import SalesAdministrator from './pages/SalesAdministrator';
+import SalesConsultant from './pages/SalesConsultant';
 
 
 
@@ -162,7 +163,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-ui-ux-designers"} element={<UiuxDesigner/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-developer"} element={<SalesDeveloper/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-administrator"} element={<SalesAdministrator/>}/>
-
+				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-consultant"} element={<SalesConsultant/>}/>
+				
 
 
 
