@@ -81,8 +81,7 @@ const FrequentlyAsked13= () => {
                                 
                                 <p>The best part of hiring talent from Uplers is that you not only have complete control over the resources you hire, but you’d be free from any pre and post-hiring responsibilities.
                                 
-                                </p>
-                                
+                                </p> 
                                 <br/>
                                 </Accordion.Body>
                             </Accordion.Item>
