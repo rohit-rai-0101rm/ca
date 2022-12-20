@@ -77,6 +77,7 @@ import WordPressDesigner from './pages/WordPressDesigner';
 import ShopifyDevelopers from './pages/ShopifyDevelopers';
 import GraphicDesigner from './pages/GraphicDesigner';
 import UiuxDesigner from './pages/UiuxDesigner';
+import SalesDeveloper from './pages/SalesDeveloper';
 
 
 
@@ -158,6 +159,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-shopify-developers"} element={<ShopifyDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-graphic-designers"} element={<GraphicDesigner/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-ui-ux-designers"} element={<UiuxDesigner/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-developer"} element={<SalesDeveloper/>}/>
+
 
 
 
