@@ -1,0 +1,23 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Optimal performance",
+        "description": "In addition to maintaining optimal performance, our certified Salesforce administrators upgrade and configure Salesforce systems to ensure optimal integration."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Documentation, creating & maintaining reports",
+        "description": "Our adept talents help with documenting processes (error reports and changes to field history tables). They create and maintain reports, extracting insights from data."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Salesforce configuration changes",
+        "description": "Our experts specialize in customizing objects, record types, validation rules, workflows, process builders, fields, page layouts, email alerts, approval processes, and list views."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "User and license management",
+        "description": "Our administrators diligently handle user and license management (new user adoption, setup/deactivation, profiles, permissions) while identifying stakeholders' requirements.",
+        "cate": "Design"
+    }
+]
