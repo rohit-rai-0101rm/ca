@@ -30,11 +30,14 @@ import TestimonialOne from "../../component/testimonial/TestimonialOne";
 import SectionTitle from "../../elements/section-title/SectionTitle";
 import ColorSwitcher from "../../elements/switcher/ColorSwitcher";
 import EnpoweringBuisness from "../EnpoweringBuisness";
+import FaqPython from "../FrequentlyAsked/FaqPython";
 import PythonDevelopersIntro from "../HireDevelopers/PythonDevelopersIntro";
 import PythonAdvantage from "../PythonAdvantage/PythonAdvantage";
 import PythonBestChoice from "../PythonBestChoice/PythonBestChoice";
 import PythonProcess from "../PythonProcess/PythonProcess";
 import SeoSpider from "../SeoSpider/SeoSpider";
+import AccessTalentPython from "../team/AccessTalent";
+import TeamDetails from "../team/TeamDetails";
 
 const PythonDevelopoers = () => {
   return (
@@ -50,7 +53,9 @@ const PythonDevelopoers = () => {
 
         
         <PythonBestChoice />
-        <FaqDotNet />
+        <AccessTalentPython />
+
+        <FaqPython />
         <CtaLayoutOne />
         <FooterOne parentClass="" />
       </main>

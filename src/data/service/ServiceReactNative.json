@@ -1,0 +1,35 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "React Native App consultation",
+        "description": "Hire dedicated React Native developers from Dignifyd who possess extensive React Native App Development knowledge. Leverage their expertise and get an end-to-end consultation service."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "React Native App Development",
+        "description": "Hire React Native developers from India who have a successful track record of delivering React Native services for iOS development and building apps for the android play store."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "React Native QA and Testing",
+        "description": "Hire React Native App developers from India who’ll help you test your application for responsiveness, bugs, and possible threats post-development to ensure maximum efficiency and performance."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "React Native Support & Maintenance",
+        "description": "Let us take care of keeping your application up to date with the latest trends. Hire our proficient developers for run-time maintenance and smooth functioning of the apps.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "React Native UI/UX Development",
+        "description": "To craft innovative experiences for your clients, our React Native UI/UX developers collaborate with a team of visual designers, information architects, and content strategists."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "React Native Migration & Upgradation",
+        "description": "We can seamlessly migrate your existing apps to React Native and update your apps with the latest features using our top-of-the-line expertise.",
+        "cate": "Design"
+    }
+    
+]
