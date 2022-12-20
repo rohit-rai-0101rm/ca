@@ -171,6 +171,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-dot-net-developers"} element={<DotNetDevelopers/>}/>
 
 				<Route path={process.env.PUBLIC_URL + "/hire-react-native-developers"} element={<ReactNativeDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/programmatic-advertising"} element={<ProgrammaticExpert/>}/>
 
 
 			</Routes>
