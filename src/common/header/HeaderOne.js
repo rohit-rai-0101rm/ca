@@ -40,7 +40,7 @@ const HeaderOne = () => {
                     <div className="container">
                         <div className="header-navbar">
                             <div className="header-logo">
-                                <Logo limage="/images/dignifydLogo.png" className="original"
+                                <Logo limage="/images/dignifydLogo.png" 
                                 dimage="/images/dignifydLogo.png"
                                 simage="/images/dignifydLogo.png"
                                 />

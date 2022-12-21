@@ -22,7 +22,7 @@ const BannerDesign = () => {
                         </div>
                     </div>
                     <div className="col-lg-6">
-                    <img src={process.env.PUBLIC_URL + "/images/designService.png"} alt="Bubble" />
+                    <img src={process.env.PUBLIC_URL + "/images/designAgencyHeader.png"} alt="Bubble" />
 
                     </div>
                 </div>

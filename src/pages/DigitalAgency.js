@@ -102,8 +102,18 @@ const DigitalAgency = () => {
         <AboutFour />
         <Innovate />
         <TestimonialOne />
+        {
+          /*
         <CounterUpOne />
-        <TeamOne />
+
+          */
+        }
+        {
+          /*
+                  <TeamOne />
+
+          */
+        }
         <CtaLayoutOne />
 
         <FooterOne parentClass="" />

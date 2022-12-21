@@ -31,7 +31,12 @@ const WhyAbout = () => {
         mainThumb="/images/banner/banner-thumb-3.png"
       />
       <BuiltDignifyd />
-      <CounterUpOne />
+      {
+        /*
+              <CounterUpOne />
+
+        */
+      }
 
       <div className="section section-padding-2 bg-color-dark">
           <div className="container">

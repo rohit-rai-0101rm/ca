@@ -37,6 +37,11 @@ const Data = [
         url:"https://www.volkswagen.co.in/en.html"
 
     },
+    {
+        image: "/images/clients/trident.svg",
+        url:"https://www.volkswagen.co.in/en.html"
+
+    },
    
 ]
 
@@ -45,7 +50,7 @@ const BrandItem = () => {
     return (
         <>
             {Data.map((data, index) => (
-                <div className="col-lg-3 col-6" key={index}>
+                <div className="col-lg-3 col-6" >
                     <div className="brand-grid clientLogo">
                       <a className="brand-grid clientLogo" target="_blank" href={data.url}>
                       <img src={process.env.PUBLIC_URL + data.image} alt="Brand" />

@@ -48,7 +48,7 @@ const Design = () => {
             </center>
             <div className="row">
               <ServicePropDesign
-                colSize="col-lg-4 col-md-6"
+                colSize="col-lg-6 col-md-6"
                 serviceStyle="service-style-2"
                 serviceData={allData}
               />

@@ -4,7 +4,7 @@ import FormTwo from "../contact/FormTwo";
 
 const SeoIntro = () => {
   return (
-    <div className="section section-padding-proffessional mt--120 ">
+    <div className="section section-padding-proffessional mt--120  ">
       <div className="container ">
         <div className="row">
           <div className="col-xl-7 col-lg-6 ">

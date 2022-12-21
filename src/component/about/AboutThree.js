@@ -55,7 +55,7 @@ const AboutThree = () => {
                     {Datas.map((data) => (
                         <div className="col-lg-6" key={data.id}>
                             <div className="about-quality">
-                                <h3 className="sl-number">.</h3>
+                                <h3 className="sl-number">{data.id}</h3>
                                 <h4 className="title">{data.title}</h4>
                                 <p className='innovate-list-para'>{data.para}</p>
                             </div>

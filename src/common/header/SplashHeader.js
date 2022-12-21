@@ -13,9 +13,9 @@ const SplashHeader = () => {
                 <div className="container">
                 <div className="header-navbar">
                     <div className="header-logo">
-                        <Logo limage="/images/logo.svg"
-                            dimage="/images/logo-3.svg"
-                            simage="/images/logo-2.svg"
+                        <Logo limage="/images/dignifydLogo.png"
+                            dimage="/images/dignifydLogo.png"
+                            simage="/images/dignifydLogo.png"
                         />
                     </div>
                     <div className="header-main-nav">

@@ -33,7 +33,7 @@ const PricingOne = () => {
         <div className="col-lg-4 ">
           <div className="pricing-table pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/stunning.png" />
+              <img src="/images/unique/stunningDesigns.png" />
               <h5 className="title">
                 Stunning <br /> Designs
               </h5>
@@ -51,7 +51,7 @@ const PricingOne = () => {
         <div className="col-lg-4 ">
           <div className="pricing-table pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/revol.png" />
+              <img src="/images/unique/revolutionaryTechnology.png" />
               <h3 className="title">Revolutionary Technology</h3>
             </div>
             <div className="pricing-body">
@@ -69,7 +69,7 @@ const PricingOne = () => {
         <div className="col-lg-4 ">
           <div className="pricing-table pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/fp.png" />
+              <img src="/images/unique/flexiblePlatforms.png" />
               <h3 className="title">
                 Flexible <br />
                 Platfroms

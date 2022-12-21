@@ -29,41 +29,21 @@ const FooterOne = ({ parentClass }) => {
                   <FaFacebookF />
                 </a>
               </li>
-              <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
-                  <FaTwitter />
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
-                  <FaPinterestP />
-                </a>
-              </li>
+           
+             
               <li>
                 <a target="_blank" href="https://in.linkedin.com/company/dignifyd">
                   <FaLinkedin />
                 </a>
               </li>
               <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
+                <a target="_blank" href="https://www.instagram.com/dignifyd/?hl=en">
                   <FaInstagram />
                 </a>
               </li>
-              <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
-                  <FaVimeoV />
-                </a>
-              </li>
-              <li>
-                <Link target="_blank" href="https://www.facebook.com/dignifydsolutions/">
-                  <FaDribbble />
-                </Link>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
-                  <FaBehance />
-                </a>
-              </li>
+             
+          
+            
             </ul>
           </div>
         </div>
