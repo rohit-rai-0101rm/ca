@@ -5,28 +5,28 @@
 
 [
     {
-        "image": "/images/icon/icon-1.png",
+        "image": "/images/laravel/customizedLaravel.png",
         "title": "Customized Laravel Web Applications",
         "description": "To create an online presence, it is important that the right web solutions are being provided. Hire dedicated Laravel developers who are experienced in building custom web solutions for our global clients in diverse industries."
     },
     {
-        "image": "/images/icon/icon-2.png",
+        "image": "/images/laravel/migration.png",
         "title": "Laravel Integration& Maintenance",
         "description": "Hire dedicated full-time Laravel developers to keep your web applications managed & maintained following the best practices. Our Developers also integrate and upgrade your existing app with Laravel from other platforms."
     },
     {
-        "image": "/images/icon/icon-3.png",
+        "image": "/images/laravel/laravelMigration.png",
         "title": "Laravel Migration Services",
         "description": "Transforming your business application helps you sustain in the market and lets your users stay engaged. Onboard expert Laravel programmers who quickly and reliably provide migration services from other technologies/frameworks to Laravel."
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/laravel/laravelCms.png",
         "title": "Laravel CMS Development",
         "description": "Hire Laravel developers to design and develop Ecommerce and CMS websites with the best features and aesthetic appeal. Our remote Laravel developers provide excellent services and Ecommerce solutions to our global clients.",
         "cate": "Design"
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/laravel/laravelApi.png",
         "title": "API & Module Development",
         "description": "In addition to providing reliable module development solutions, our Laravel consultants maintain data on Laravel cloud storage. They’re equipped to build online portals & are adept at custom APIs development for small to large businesses.",
         "cate": "Design"

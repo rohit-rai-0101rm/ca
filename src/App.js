@@ -81,6 +81,7 @@ import PpcExperts from './pages/PpcExperts';
 import DotNetDevelopers from './pages/DotNetDevelopers';
 import PythonDevelopoers from './component/PythonDevelopers/PythonDevelopoers';
 import ReactNativeDevelopers from './pages/ReactNativeDevelopers';
+import ProgrammaticSpecialist from './pages/ProgrammaticSpecialist';
 
 
 
@@ -171,8 +172,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-dot-net-developers"} element={<DotNetDevelopers/>}/>
 
 				<Route path={process.env.PUBLIC_URL + "/hire-react-native-developers"} element={<ReactNativeDevelopers/>}/>
-				<Route path={process.env.PUBLIC_URL + "/programmatic-advertising"} element={<ProgrammaticExpert/>}/>
 
+				<Route path={process.env.PUBLIC_URL + "/programmatic-advertising"} element={<ProgrammaticSpecialist/>}/>
 
 			</Routes>
 		</ScrollToTop>
