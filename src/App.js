@@ -80,6 +80,8 @@ import UiuxDesigner from './pages/UiuxDesigner';
 import SalesDeveloper from './pages/SalesDeveloper';
 import SalesAdministrator from './pages/SalesAdministrator';
 import SalesConsultant from './pages/SalesConsultant';
+import JavaDevelopers from './pages/JavaDevelopers';
+import IosDeveloper from './pages/IosDeveloper';
 
 
 
@@ -164,6 +166,9 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-developer"} element={<SalesDeveloper/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-administrator"} element={<SalesAdministrator/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-consultant"} element={<SalesConsultant/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-java-developers"} element={<JavaDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-ios-developers"} element={<IosDeveloper/>}/>
+
 				
 
 

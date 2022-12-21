@@ -1,0 +1,24 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Custom iOS App Development",
+        "description": "Hire iOS Developers from India who have the expertise to create feature-rich mobile apps for your Apple devices. Our talented individuals will work closely to deliver robust solutions tailored to any business need, no matter how unique!"
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "iOS App Upgradation & Migration",
+        "description": "We know you work hard to build your business, and we also strive to make it the best it can be. That's why our team of consultants can assist with all aspects from developing apps, design, or even tech planning!"
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "iOS App Consultation Services",
+        "description": "We know you work hard to build your business, and we also strive to make it the best it can be. That's why our team of consultants can assist with all aspects from developing apps, design, or even tech planning!"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "iOS App Testing",
+        "description": "Hire iOS App Developers from India who are highly competent in making the best use of automation and testing tools. They will help you test your application for responsiveness, bugs, and possible threats to ensure maximum efficiency",
+        "cate": "Design"
+    }
+    
+]
