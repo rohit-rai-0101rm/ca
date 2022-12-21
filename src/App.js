@@ -82,6 +82,7 @@ import SalesAdministrator from './pages/SalesAdministrator';
 import SalesConsultant from './pages/SalesConsultant';
 import JavaDevelopers from './pages/JavaDevelopers';
 import IosDeveloper from './pages/IosDeveloper';
+import AndroidDevelopers from './pages/AndroidDevelopers';
 
 
 
@@ -168,6 +169,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-consultant"} element={<SalesConsultant/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-java-developers"} element={<JavaDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-ios-developers"} element={<IosDeveloper/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-android-developers"} element={<AndroidDevelopers/>}/>
+
 
 				
 

@@ -147,7 +147,7 @@ const IosSkills = () => {
 
                   <li>
                     <strong className="innovate-list-para">
-                      <h5 className="">Explain to me the architecture of iOS. </h5>
+                     <h5 className=""> <strong> Explain to me the architecture of iOS.  </strong> </h5> 
                       <p className="innovate-list-para">
                       The answer to the question helps you understand whether the candidate knows that iOS operates in a layered structure. Furthermore, a good iOS developer would know the iOS architecture is comprised of 4 layers. Each of these layers offers a programming framework.
                       </p>
