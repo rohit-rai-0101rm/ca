@@ -32,50 +32,49 @@ const HeaderOne = () => {
         }
     }
 
-
     return (
         <>
-            <header className="header axil-header header-style-1">
-                <div className={`axil-mainmenu ${sticky ? "axil-sticky" : ""}`}>
-                    <div className="container">
-                        <div className="header-navbar">
-                            <div className="header-logo">
-                                <Logo limage="/images/dignifydLogo.png" 
-                                dimage="/images/dignifydLogo.png"
-                                simage="/images/dignifydLogo.png"
-                                />
-                            </div>
-                            <div className="header-main-nav">
-                                <Nav />
-                            </div>
-                            <div className="header-action">
-                                <ul className="list-unstyled">
-                                    <li className="sidemenu-btn d-lg-block d-none">
-                                        <button className="btn-wrap" onClick={OffcanvasHandleShow}>
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                        </button>
-                                    </li>
-                                    <li className="mobile-menu-btn sidemenu-btn d-lg-none d-block">
-                                        <button className="btn-wrap" onClick={MobileMenuHandler}>
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                        </button>
-                                    </li>
-                                    <li className="my_switcher d-block d-lg-none">
-                                        <SwitcherHeader />
-                                    </li>
-                                </ul>
-                            </div>
+        <header className="header axil-header header-style-1">
+            <div className={`axil-mainmenu ${sticky ? "axil-sticky" : ""}`}>
+                <div className="container">
+                    <div className="header-navbar">
+                        <div className="header-logo">
+                            <Logo limage="/images/dignifydLogo.png"
+                            dimage="/images/dignifydLogo.png"
+                            simage="/images/dignifydLogo.png"
+                            />
+                        </div>
+                        <div className="header-main-nav">
+                            <Nav />
+                        </div>
+                        <div className="header-action">
+                            <ul className="list-unstyled">
+                                <li className="sidemenu-btn d-lg-block d-none">
+                                    <button className="btn-wrap" onClick={OffcanvasHandleShow}>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </button>
+                                </li>
+                                <li className="mobile-menu-btn sidemenu-btn d-lg-none d-block">
+                                    <button className="btn-wrap" onClick={MobileMenuHandler}>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </button>
+                                </li>
+                                <li className="my_switcher d-block d-lg-none">
+                                    <SwitcherHeader />
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
-            </header>
-            <OffcanvasMenu offcanvasShow={showOffcanvas} offcanvasHide={OffcanvasHandleClose} />
-            <MobileMenu MobileHandler={MobileMenuHandler}/>
-        </>
+            </div>
+        </header>
+        <OffcanvasMenu offcanvasShow={showOffcanvas} offcanvasHide={OffcanvasHandleClose} />
+        <MobileMenu MobileHandler={MobileMenuHandler}/>
+    </>
     )
 }
 

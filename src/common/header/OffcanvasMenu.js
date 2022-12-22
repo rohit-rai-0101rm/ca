@@ -9,6 +9,8 @@ import {
   FaPhone,
   FaFax,
   FaAngleDown,
+  FaLinkedin,
+  FaInstagram,
 } from "react-icons/fa";
 
 const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
@@ -74,59 +76,32 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
             </li>
           </ul>
         </nav>
-        <nav className="mainmenu-nav">
-          <ul className="mainmenu">
-            <li className="menu-item-has-children">
-              <Link to="/">Home </Link>
-            </li>
-            <li className="menu-item-has-children">
-              <Link to="#">
-                Why Dignifyd <FaAngleDown />
-              </Link>
-              <ul className="axil-submenu">
-                <li>
-                  <Link to={process.env.PUBLIC_URL + "/about"}>About</Link>
-                </li>
-                <li>
-                  <Link to="/how-it-works">How it works</Link>
-                </li>
-                <li>
-                  <Link to="/why-india">Why India</Link>
-                </li>
-                <li>
-                  <Link>Pricing</Link>
-                </li>
-              </ul>
-            </li>
-
-            <li className="menu-item-has-children">
-              <Link to="#">
-                Services
-                <FaAngleDown />
-              </Link>
-              <ul className="axil-submenu">
-                <li>
-                  <Link to="/services/digital-marketing">
-                    Digital Marketing
-                  </Link>
-                </li>
-                <li>
-                  <Link to="/services/seo">SEO</Link>
-                </li>
-                <li>
-                  <Link to="/services/web-development">Web Development</Link>
-                </li>
-                <li>
-                  <Link to="/services/design">Design</Link>
-                </li>
-              </ul>
-            </li>
-
-            <li>
-              <Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link>
-            </li>
-          </ul>
-        </nav>
+        <div className="footer-top mt--100">
+          <div className="footer-social-link">
+            <ul className="list-unstyled">
+              <li>
+                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
+                  <FaFacebookF />
+                </a>
+              </li>
+           
+             
+              <li>
+                <a target="_blank" href="https://in.linkedin.com/company/dignifyd">
+                  <FaLinkedin />
+                </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.instagram.com/dignifyd/?hl=en">
+                  <FaInstagram />
+                </a>
+              </li>
+             
+          
+            
+            </ul>
+          </div>
+        </div>
       </Offcanvas.Body>
     </Offcanvas>
   );
