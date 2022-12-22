@@ -3,27 +3,23 @@
     {
         "thumb": "/images/cities/citi1.svg",
         "title": "Dubai",
-        "address": "Level 3, Convention Tower, World Trade Center",
+        "address": "Level 3, Convention Tower, World Trade Center, UAE",
         "phone":""
     },
     {
         "thumb": "/images/cities/citi2.svg",
         "title": "London",
-        "address": "548 Market St.San Francisco, CA 94104-5401",
-        "phone":"94104-5401"
-
+        "address": "2 Minister Court London EC3R 7BB , UK"
     },
     {
         "thumb": "/images/cities/citi4.svg",
         "title": "Toronto",
-        "address": "176 Yonge St 6th Floor",
-        "phone":"1-647-990-0713"
-
+        "address": "176 Yonge St 6th Floor, Canada"
     },
     {
         "thumb": "/images/cities/citi3.svg",
         "title": "New  Delhi",
-        "address": "546 Hanuman Mandir Road, Chirag Delhi",
+        "address": "546 Hanuman Mandir Road, Chirag Delhi, India",
         "phone":""
 
     }

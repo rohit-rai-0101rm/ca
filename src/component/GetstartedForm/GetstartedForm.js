@@ -35,8 +35,8 @@ const GetstartedForm = () => {
 
 
     return (
-        <center>
-     <form ref={form} onSubmit={sendEmail} className="axil-contact-form col-lg-6 mt--60 mb--30">
+        <center className='get-started-form'>
+     <form ref={form} onSubmit={sendEmail} className="contact-form-box  col-lg-6 mt--60">
         <div className="form-group">
             <input placeholder="Enter Talent Role*" type="text" className="form-control infoPlaceholder" name="contact-name" required />
         </div>

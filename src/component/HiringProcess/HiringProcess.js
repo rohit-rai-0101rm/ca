@@ -9,9 +9,11 @@ const HiringProcess = () => {
   return (
     <div className="section section-padding bg-color-light pb--70">
       <center>
-      <h2 className="title">Hiring Indian talent was never this easy.</h2>
-      <p className="innovate-list-para">A platform that takes care of everything beforehand.
-Uplers source, vet, match and manage the talents for you.</p>
+        <h2 className="title">Hiring Indian talent was never this easy.</h2>
+        <p className="innovate-list-para">
+          A platform that takes care of everything beforehand. Uplers source,
+          vet, match and manage the talents for you.
+        </p>
       </center>
       <div className="container">
         <div className={`process-work`}>
@@ -54,23 +56,35 @@ Uplers source, vet, match and manage the talents for you.</p>
               For better clarity, when we receive the hiring request, there are
               3 cases that we come across in terms of matchmaking:
             </p>
-            <br/>
+            <br />
             <ul className="list-style">
-              <li>
+              <li className="innovate-list-para">
                 Deliver a tailor-made experience to your customers to attract
                 them.
               </li>
-              <li>
+              <li className="innovate-list-para">
                 We study user behavourial patterns to ensure highly interactive
                 & friendly designs.
               </li>
-              <li>
+              <li className="innovate-list-para">
                 Using the power of Psychology, we make sure to be aesthetically
                 pleasing for first time interactions.
               </li>
             </ul>
-            <br/>
-            <div className="coloring2"> <strong><i>#Pre-interview Assessments -</i></strong>if you want any talents to take any additional assessment to better judge their technical capabilities, you can share your tests and the candidate would be more than willing to complete them.</div>
+            <br />
+            <div className=" coloring2 assessmentTip">
+              {" "}
+              <strong>
+                #Pre-interview Assessments -
+              </strong>
+              <p>
+                
+              </p>
+              if you want any talents to take any additional assessment to
+              better judge their technical capabilities, you can share your
+              tests and the candidate would be more than willing to complete
+              them.
+            </div>
           </div>
           <Tilty perspective={2000}>
             <div className="thumbnail">
@@ -88,32 +102,80 @@ Uplers source, vet, match and manage the talents for you.</p>
           </Tilty>
           <div className="content">
             <h3 className="title">Interview & Hire</h3>
-            <p>Assess them until you are confident, and provide feedback.</p>
+            <p className="innovate-list-para">Assess them until you are confident, and provide feedback.</p>
             <br />
-            <p>Because every talent is pre-vetted against their communication skills, technical capabilities, and more, we reduce the guesswork and the probability of a wrong hire drastically.</p>
+            <p className="innovate-list-para">
+              Because every talent is pre-vetted against their communication
+              skills, technical capabilities, and more, we reduce the guesswork
+              and the probability of a wrong hire drastically.
+            </p>
             <br />
-            <p>This helps even non-technical managers/interviewers to assess the talents mainly on the VIBE check.</p>
-            <br/>
-            <div className="coloring2"> <strong> <i>#No-Obligation Interview -</i> </strong>You are not obligated to hire unless you are 100% confident and happy with the talent.</div>
-            <br/>
-            <div className="coloring2"> <strong><i>#No Risk Trial -</i> </strong>We have the option where the talent can work for up to 2 weeks (based on availability), which allows many clients to gain more trust and confidence to decide on hiring, in the case where the clients are in two minds after the interview.</div>
-            
-            
+            <p className="innovate-list-para">
+              This helps even non-technical managers/interviewers to assess the
+              talents mainly on the VIBE check.
+            </p>
+            <br />
+            <div className="coloring2 assessmentTip">
+              {" "}
+              <strong>
+                {" "}
+                <i>#No-Obligation Interview -</i>{" "}
+              </strong>
+              You are not obligated to hire unless you are 100% confident and
+              happy with the talent.
+            </div>
+            <br />
+            <div className="coloring2 assessmentTip">
+              {" "}
+              <strong>
+                <i>#No Risk Trial -</i>{" "}
+              </strong>
+              We have the option where the talent can work for up to 2 weeks
+              (based on availability), which allows many clients to gain more
+              trust and confidence to decide on hiring, in the case where the
+              clients are in two minds after the interview.
+            </div>
           </div>
         </div>
       </div>
       <div className="container">
         <div className={`process-work`}>
+       
           <div className="content">
-            <h3 className="title">Onboard & Manage</h3>
-            <p>After you confirm the talent, we sort all the legalities and contract with the talent, ensure a smooth onboarding and help you manage the talent.</p>
+            <h3 className="title mt--200">Interview & Hire</h3>
+            <p className="innovate-list-para">Assess them until you are confident, and provide feedback.</p>
             <br />
-            <p>A talent success coach from Dignifyd remains to ensure the engagement between the client and talent is top-notch.</p>
-            <br/>
-            <div className="coloring2"> <strong><i>#30-days Replacement -</i></strong>You will always have the option of replacement if you ever face challenges with the talent, which Dignifyd will fulfill without a problem.</div>
-            <br/>
-            <div className="coloring2"> <strong><i>#Easy Cancellation -</i>  </strong>In an unfortunate event if you don’t need the talent anymore or if there are constant performance challenges, you can opt for cancellation of engagement by giving a 30 days notice period at any given time. </div>
-            
+            <p className="innovate-list-para">
+              Because every talent is pre-vetted against their communication
+              skills, technical capabilities, and more, we reduce the guesswork
+              and the probability of a wrong hire drastically.
+            </p>
+            <br />
+            <p className="innovate-list-para">
+              This helps even non-technical managers/interviewers to assess the
+              talents mainly on the VIBE check.
+            </p>
+            <br />
+            <div className="coloring2 assessmentTip mt--200">
+              {" "}
+              <strong>
+                {" "}
+                <i>#No-Obligation Interview -</i>{" "}
+              </strong>
+              You are not obligated to hire unless you are 100% confident and
+              happy with the talent.
+            </div>
+            <br />
+            <div className="coloring2 assessmentTip">
+              {" "}
+              <strong>
+                <i>#No Risk Trial -</i>{" "}
+              </strong>
+              We have the option where the talent can work for up to 2 weeks
+              (based on availability), which allows many clients to gain more
+              trust and confidence to decide on hiring, in the case where the
+              clients are in two minds after the interview.
+            </div>
           </div>
           <Tilty perspective={2000}>
             <div className="thumbnail">
@@ -121,6 +183,7 @@ Uplers source, vet, match and manage the talents for you.</p>
             </div>
           </Tilty>
         </div>
+       
       </div>
 
       <ul className="shape-group-17 list-unstyled">

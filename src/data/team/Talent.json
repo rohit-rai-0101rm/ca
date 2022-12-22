@@ -57,7 +57,7 @@
     {
         "id": 4,
         "thumb": "/images/experts/arvind-krishna.png",
-        "company":"/images/companies/google.svg",
+        "company":"/images/companies/wi-ibm-logo.svg",
 
         "title": "Arvind Krishna",
         "designation": "CEO",
@@ -77,7 +77,7 @@
         "id": 5,
         "thumb": "/images/experts/yamini-rangan.png",
         "title": "Yamini Rangan",
-        "company":"/images/companies/google.svg",
+        "company":"/images/companies/wi-hubspot-logo.svg",
 
         "designation": "CEO",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",

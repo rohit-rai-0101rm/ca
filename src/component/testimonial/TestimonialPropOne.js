@@ -9,21 +9,23 @@ const TestimonialItem = ({ colSize, itemShow }) => {
       {allData.slice(0, itemShow).map((data, index) => (
         <div className={`${colSize}`} key={index}>
           <div className="testimonial-grid">
-            
+            <span className="social-media">
+              <img src={process.env.PUBLIC_URL + data.from} alt="Yelp" />
+            </span>
             <div className="testimonialDescription">
               <p>{data.description}</p>
             </div>
             <div className="author-info">
-              <div className="thumb">
-                <img
-                  src={process.env.PUBLIC_URL + data.authorimg}
-                  alt="Google Review"
-                />
-              </div>
+            
               <div className="content">
-                <span className="name">{data.authorname}</span>
-                <span className="designation">{data.authordesig}</span>
-                
+                <h6 className="name">{data.authorname}</h6>
+                <p className="innovate-list-para">
+                  <strong>
+                  {data.authordesig}
+                  </strong>
+                 
+                  
+                  </p>
               </div>
             </div>
           </div>

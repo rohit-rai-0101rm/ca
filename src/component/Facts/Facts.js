@@ -7,7 +7,7 @@ const allData = TeamData;
 
 const Facts = () => {
   return (
-    <div className="section section-padding mt--120 bg-dark">
+    <div className="section section-padding bg-gray">
       <div className="container">
         <div className="section-heading heading-light">
           <h4 className="title  mt-120">

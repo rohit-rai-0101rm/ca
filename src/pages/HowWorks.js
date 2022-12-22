@@ -6,6 +6,7 @@ import AboutFour from "../component/about/AboutFour";
 import AboutThree from "../component/about/AboutThree";
 import BrandOne from "../component/brand/BrandOne";
 import BuiltDignifyd from "../component/BuiltDignifyd/BuiltDignifyd";
+import DigitalMarketingForm from "../component/contact/DigitalMarketingForm";
 import CounterUpOne from "../component/counterup/CounterUpOne";
 import CtaLayoutOne from "../component/cta/CtaLayoutOne";
 import GetstartedForm from "../component/GetstartedForm/GetstartedForm";
@@ -36,6 +37,7 @@ const HowWorks = () => {
         mainThumb="/images/banner/banner-thumb-3.png"
       />
       <HiringProcess />
+ 
       <GetstartedForm />
       <CtaLayoutOne />
 

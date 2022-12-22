@@ -13,6 +13,9 @@ import FsLightbox from "fslightbox-react";
 import Slider from "react-slick";
 import ReactPaginate from "react-paginate";
 import ResultDriven2 from "../Resultdriven2/ResultDriven2";
+import TeamOne from "../team/TeamOne";
+import TopSkills from "../TopSkills/TopSkills";
+import TopSkills2 from "../TopSkills/TopSkills2";
 
 const allBlogData = BlogData;
 
@@ -80,30 +83,20 @@ const BlogGridOne = () => {
                 while our customer-centric <br /> approach ensures better
                 conversion rates!
               </p>
-              <p className="innovate-list-para">
-                Technologies we use to create Web Applications:
-              </p>
-              <div className="col-md-4 col-sm-6 mb--30">
-                <ol className="list-style">
-                  <li className="innovate-list-para">Shopify</li>
-                  <li className="innovate-list-para">Wordpress</li>
-                  <li className="innovate-list-para">Javascript</li>
-                  <li className="innovate-list-para">Angular</li>
-                  <li className="innovate-list-para">React</li>
-                  <li className="innovate-list-para">Woocommerce</li>
-                  <li className="innovate-list-para">Laravel</li>
-                  <li className="innovate-list-para">Mongo DB</li>
-                  <li className="innovate-list-para">Adobe PhotoShop</li>
-                  <li className="innovate-list-para">Adobe After Effects</li>
-                </ol>
+
+              <div className="col-md-12 col-sm-6">
+              <TopSkills2/>
               </div>
 
-              <p className="mt--80 innovate-list-para ">
+              <p className="innovate-list-para ">
                 Do You Need A Custom Web Application For Business?
               </p>
+              <Link to="/contact">
               <button type="submit" className="axil-btn touch ">
                 Get in Touch
               </button>
+              </Link>
+              
             </div>
           </div>
         </div>

@@ -7,7 +7,7 @@ const allData = TeamData;
 
 const TeamOne = () => {
     return (
-        <div className="section section-padding-technologies bg-color-dark pb--70 pb_lg--20 pb_md--0">
+        <div className="section section-padding  pb--70 pb_lg--20 pb_md--0">
         <div className="container">
             <div className="section-heading heading-light">
             <h2 className="title mb--50">Integrating Cutting-edge Web <br/>

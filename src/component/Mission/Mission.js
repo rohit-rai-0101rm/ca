@@ -12,10 +12,10 @@ const Mission = () => {
           <div className="col-xl-12 col-lg-6 mission">
             <div className="section-heading heading-right">
               <h3 className="titleUnique">
-                providing the<strong className="uniqueBold">
+                providing the <strong className="uniqueBold">
                 simplest
-                  </strong>  solutions <br /> for the most               
-                  <strong className="uniqueBold">
+                  </strong>  solutions <br /> for the most                
+                    {" "}<strong className="uniqueBold">
                   complex 
                   </strong>
                    

@@ -76,24 +76,7 @@ const WhyIndia = () => {
 
       <RediculousEasy />
       <TopSkills />
-      <div className="section-padding case-study-brief bg-color-mercury">
-        <div className="container">
-          <div className="row align-items-xl-center">
-            <div className="col-lg-6">
-              <div className="case-study-featured-thumb">
-                <Tilty perspective={2000}>
-                  <center>
-                  <img src="/images/billGates.png" alt="Case Study" />
-
-
-                  </center>
-                </Tilty>
-               
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+     
 
       <GetstartedForm />
 
