@@ -46,9 +46,8 @@ const WhyIndia = () => {
         mainThumb="/images/banner/banner-thumb-3.png"
       />
       <Talent />
-      <Facts />
 
-      <div className="section section-padding bg-color-dark">
+      <div className="section bg-color-dark">
         <ul className="list-unstyled shape-group-10">
           <li className="shape shape-1">
             <img
@@ -70,8 +69,11 @@ const WhyIndia = () => {
           </li>
         </ul>
       </div>
+      
+
 
       <TopChoice />
+      <Facts />
       <HireFromIndia />
 
       <RediculousEasy />

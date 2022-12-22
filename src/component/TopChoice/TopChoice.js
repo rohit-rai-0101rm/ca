@@ -26,14 +26,14 @@ const Datas = [
 
 const TopChoice = () => {
   return (
-    <div className="section section-padding bg-color-dark pb--80 pb_lg--40 pb_md--20">
+    <div className="section section-padding-topChoice bg-color-dark  pb_md--20">
       <div className="container">
         <div className="row">
-          <h4 className="talentTitle">
+          <h4 className="talentTitle mt--100">
             What makes Indians the top choice for technology giants around the
             world?{" "}
           </h4>
-          <div className="col-lg-6">
+          <div className="col-lg-6 mt--100">
             <div className="about-quality">
               <h3 className="sl-number">1</h3>
               <h5 className="title">Dedicated</h5>
@@ -44,7 +44,7 @@ const TopChoice = () => {
           
             </div>
           </div>
-          <div className="col-lg-6">
+          <div className="col-lg-6 mt--100">
             <div className="about-quality">
               <h3 className="sl-number">2</h3>
               <h5 className="title">Emotional</h5>
