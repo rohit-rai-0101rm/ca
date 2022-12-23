@@ -1,0 +1,23 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Creating design artifacts",
+        "description": "Our technical consultant will create and maintain best-practice design artifacts such as Business Process Flows and Entity Relationship Diagrams."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Building SQL queries",
+        "description": "Our consultants will seamlessly build SQL queries, use the data loader, and utilize analytics tools. Additionally, they’re familiar with software like GitHub."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "System configuration",
+        "description": "The technical consultants have extensive experience with system configuration, approval processes, custom objects, validation rules, flows, and data loaders."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Defining strategyn",
+        "description": "The consultants define systems strategy and business processes, design and prototype, test, and implement practical business solutions.",
+        "cate": "Design"
+    }
+]

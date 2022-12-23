@@ -1,0 +1,36 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Customized Application Development",
+        "description": "Hire expert Android Developers to build high-end customized Android apps for your business. Leverage the latest and cost-effective Android app development services to create dynamic mobile applications for the Android Play store."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Enterprise Application Development",
+        "description": "We take the hassle out of developing for Android. Our team of top-notch developers is proficient with creating enterprise apps that work on various devices, including smartphones and tablets."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Native App Development",
+        "description": "Our team of talented Android developers specializes in developing native mobile applications. They will help build an app that fits your needs, no matter how complex or simple they may be!"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Hybrid App Development",
+        "description": "Hybrid apps are now the new way to develop engaging mobile applications. Utilize our top-of-the-line expertise, which allows you to build apps for multiple platforms with shared codebases- all while saving money!",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "IoT Development",
+        "description": "Unlock the potential of your app with our team's expertise. We offer assistance with connecting your Android mobile apps with different IoT devices to transform your business processes at a large scale!",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Android Support & Maintenance",
+        "description": "Let us take care of keeping your Android-based apps up to date with the latest trends. Hire our Android developers for run-time maintenance and smooth functioning of the mobile apps.",
+        "cate": "Design"
+    }
+    
+]

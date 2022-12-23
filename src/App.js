@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 // Home Pages Import
+
 import DigitalAgency from './pages/DigitalAgency';
 import CreativeAgency from './pages/CreativeAgency';
 import PersonalPortfolio from './pages/PersonalPortfolio';
@@ -82,6 +83,12 @@ import DotNetDevelopers from './pages/DotNetDevelopers';
 import PythonDevelopoers from './component/PythonDevelopers/PythonDevelopoers';
 import ReactNativeDevelopers from './pages/ReactNativeDevelopers';
 import ProgrammaticSpecialist from './pages/ProgrammaticSpecialist';
+import SalesDeveloper from './pages/SalesDeveloper';
+import SalesAdministrator from './pages/SalesAdministrator';
+import SalesConsultant from './pages/SalesConsultant';
+import JavaDevelopers from './pages/JavaDevelopers';
+import IosDeveloper from './pages/IosDeveloper';
+import AndroidDevelopers from './pages/AndroidDevelopers';
 
 
 
@@ -168,6 +175,15 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-graphic-designers"} element={<GraphicDesigner/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-ui-ux-designers"} element={<UiuxDesigner/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-python-developers"} element={<PythonDevelopoers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-developer"} element={<SalesDeveloper/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-administrator"} element={<SalesAdministrator/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-salesforce-consultant"} element={<SalesConsultant/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-java-developers"} element={<JavaDevelopers/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-ios-developers"} element={<IosDeveloper/>}/>
+				<Route path={process.env.PUBLIC_URL + "/hire-android-developers"} element={<AndroidDevelopers/>}/>
+
+
+				
 
 				<Route path={process.env.PUBLIC_URL + "/hire-dot-net-developers"} element={<DotNetDevelopers/>}/>
 

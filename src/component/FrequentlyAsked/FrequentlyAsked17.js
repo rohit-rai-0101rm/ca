@@ -1,17 +1,20 @@
-import React from 'react'
-import SectionTitle from '../../elements/section-title/SectionTitle'
+import React from 'react';
 import Accordion from 'react-bootstrap/Accordion';
-import FaqOne from '../../data/faq/FaqFour.json';
-const allData = FaqOne;
+import SectionTitle from '../../elements/section-title/SectionTitle';
+import FaqIosData from '../../data/faq/FaqAndroidData.json';
 
-const FrequentlyAsked11= () => {
+const allData = FaqIosData;
+
+
+const FrequentlyAsked17 = () => {
     return (
         <div className="section section-padding-equal bg-color-light faq-area">
         <div className="container">
           <div className="row">
             <center>
               <h4 className="subHeadingDigitalMarketing">
-frequently asked questions              </h4>
+                There Are Plenty of Online Marketing Companies Why Choose Us?
+              </h4>
             </center>
     
             <div className="col-lg-5 col-xl-5">
@@ -67,4 +70,4 @@ frequently asked questions              </h4>
       );
 }
 
-export default FrequentlyAsked11
+export default FrequentlyAsked17;

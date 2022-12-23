@@ -1,0 +1,23 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Functional implementation",
+        "description": "Our adept consultants take care of solution design, the configuration of Salesforce, and systems' overall functional implementation and usability."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "On top of cognitive technologies",
+        "description": "Our functional consultants are adept at cognitive technologies like Robotics Process Automation, Artificial Intelligence, Data Analytics, etc."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Maximizing investment",
+        "description": "You can expect our pre-vetted talents to proficiently solve the most complex business challenges and make the most of the Salesforce platform."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Effective communication and presentation",
+        "description": "Our functional consultants possess the ability to effectively present ideas, issues, and solutions to stakeholders of all levels.",
+        "cate": "Design"
+    }
+]

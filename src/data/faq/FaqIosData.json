@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "How does Dignifyd vet iOS engineers?",
+        "body": "From evaluating their logical reason capabilities, communication proficiency, and ability to write well-documented and clean codes - we leave no stone unturned to vet iOS engineers."
+    },
+    {
+        "id": 2,
+        "title": "How much does it cost to hire an iOS developer through Dignifyd ?",
+        "body": "We charge a fee for managing and facilitating the association between the client and the iOS developer i.e. approximately $25/hour subject to your business needs."
+    },
+    {
+        "id": 3,
+        "title": "Will the hired developer work in my business hours?",
+        "body": "Yes, the hired iOS developer will work in your business hours. However, a 5% extra charge exists for the Australia and US region (4 hours overlap with IST timezone) and a 10% additional charge for the Australia and US region (8 hours overlap with IST timezone)."
+    },
+    {
+        "id": 4,
+        "title": "Do you provide a trial period for hiring an iOS programmer?",
+        "body": "Yes, we offer a 40 hours no-risk trial, wherein you can test the resource before actually deciding to hire them."
+    },
+    {
+        "id": 5,
+        "title": "What are the key skills that an iOS developer should have?",
+        "body": "The key skills an iOS developer must possess includes proficiency in Swift 3.0 programming language, Apple's Xcode IDE, Spatial Reasoning, UI and UX design experience and Human Interface Guidelines."
+    }
+
+
+]

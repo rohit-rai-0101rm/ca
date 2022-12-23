@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Design and prototype solutions ",
+        "description": "Our certified Salesforce developers design and prototype solutions on the Salesforce platform using Apex programming language, and Salesforce Unit Testing."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Application development",
+        "description": "Our Salesforce Developers help you deploy Salesforce applications by developing Visualforce pages and Lightning Web Components, as well as helping with release cycles."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Comprehensive knowledge of programming languages",
+        "description": "Our certified resources have proficiency in Visualforce, Native, SOQL, and MySQL and deep knowledge of IDEs such as VS Code, Sublime, as well as APEX Data loader, and Force.com IDE."
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "QA and testing",
+        "description": "Our developers have a strong understanding of performing/coordinating QA and testing in Salesforce and other applications.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "UI UX Consulting Services",
+        "description": "Hire UX designers and user interface designers who are experts in their field and will not only assist you in setting the tone of your brand but also create the designs strategically",
+        "cate": "Design"
+    }
+]

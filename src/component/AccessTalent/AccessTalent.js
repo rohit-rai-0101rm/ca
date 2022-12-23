@@ -21,8 +21,8 @@ const AccessTalent = () => {
         <div className="row">
           {allData.map((data) => (
             <div className="col-xl-3 col-sm-6" key={data.id}>
-              <div className="team-grid">
-                <div className="thumbnail">
+              <div className="">
+                <div className="">
                   <Link
                     to={
                       process.env.PUBLIC_URL +

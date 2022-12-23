@@ -1,36 +1,35 @@
 [
     {
-        "image": "/images/icon/icon-1.png",
+        "image": "/images/advantage/skipSourcing.png",
         "title": "Skip sourcing",
         "description": "Eradicate the long and tedious process of sourcing candidates to find the right fit."
     },
     {
-        "image": "/images/icon/icon-2.png",
+        "image": "/images/advantage/prehost.png",
         "title": "No pre or post-hiring responsibilities",
         "description": "From helping you build a great team to managing them (HR and Payrolls) - we will take care of everything."
     },
     {
-        "image": "/images/icon/icon-3.png",
+        "image": "/images/advantage/saveSalary.png",
         "title": "Save on Salary",
         "description": "Uplers saves you up to 50% on salary over local talent without compromising on quality."
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/advantage/beat.png",
         "title": "Beat Talent Crunch",
         "description": "Access a pool of experienced candidates and hire the best ReactJS Developers.",
         "cate": "Design"
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/advantage/security.png",
         "title": "Security and Compliance",
         "description": "Keep your data safe and secure with Uplers' global data protection and compliance standards",
         "cate": "Design"
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/advantage/noobligationInterview.png",
         "title": "No Obligation Interview",
         "description": "Interviewing a candidate does not obligate you to hire them. We recommend other profiles if you're not satisfied. No questions asked.",
         "cate": "Design"
     }
-    
 ]
