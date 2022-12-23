@@ -44,6 +44,10 @@ const HeaderOne = () => {
                             simage="/images/dignifydLogo.png"
                             />
                         </div>
+                        <span className='logo-text'>
+                        Dignifyd
+
+                        </span>
                         <div className="header-main-nav">
                             <Nav />
                         </div>

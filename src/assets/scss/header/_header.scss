@@ -24,10 +24,21 @@
             }
             img {
                 @media #{$md-layout} {
-                    width: 150px;
-                    }
+                    width: 50px;
                     height: 10px;
-            width: 200px;
+                    }
+                   
+            width: 50px;
+            display: flex;
+            align-items: center;
+            height: 90px;
+            }
+            img {
+                @media #{$sm-layout} {
+                    width: 80px;
+                    }
+                   
+            width: 100px;
             display: flex;
             align-items: center;
             height: 90px;
@@ -915,4 +926,9 @@
         margin-top: 0;
         opacity: 1;
     }
+}
+.logo-text{
+    font-weight: 600;
+    font-size: larger;
+    color: black;
 }

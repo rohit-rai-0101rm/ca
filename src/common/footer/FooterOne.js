@@ -53,9 +53,14 @@ const FooterOne = ({ parentClass }) => {
               <div className="footer-widget border-end">
               
                 <img className="footerLogo" src="/images/dignifydLogo.png"/>
-              
+                <span className='logo-text'>
+                        Dignifyd
+
+                        </span>
               </div>
+              
             </div>
+            
             <div className="col-xl-6 col-lg-7">
               <div className="row">
                 <div className="col-sm-6">
