@@ -19,17 +19,15 @@ const TechnicalConsultant = () => {
 
       <div className="container">
 
-        <center>
-
           <h4 className="coloringtext">
 
-            Hire our Laravel Developers for the following services
+         
 
           </h4>
 
           <br />
 
-        </center>
+     
 
         <div className="row">
 

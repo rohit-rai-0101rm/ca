@@ -26,11 +26,18 @@ const ServiceProp15 = ({colSize, serviceStyle, itemShow, marginTop}) => {
 		<>
 			
 				<div className={`${colSize}` } >
+				
+				<h4 className="coloringtext" >Hire Salesforce Functional Consultants</h4>
+				  
+					<p className='innovate-list-paraABC '>Talents with extensive knowledge of the Salesforce platform & its architecture</p>
 					<div className={`services-grid ${serviceStyle}`}>
+					
 						<div className="thumbnail">
 							<img src="/images/icon/icon-1.png" alt="icon" />
 						</div>
+						
 						<div className="content">
+							
 						<h5 className="title"> 
 								<Link>Functional implementation</Link>
 							</h5>
@@ -65,6 +72,7 @@ const ServiceProp15 = ({colSize, serviceStyle, itemShow, marginTop}) => {
 						</div>
 					</div>
 					<div className={`services-grid ${serviceStyle}`}>
+					
 						<div className="thumbnail">
 							<img src="/images/icon/icon-1.png" alt="icon" />
 						</div>
@@ -78,6 +86,9 @@ const ServiceProp15 = ({colSize, serviceStyle, itemShow, marginTop}) => {
 					</div>
 			 	</div>
 				 <div className={`${colSize}` } >
+				
+					<h4 className='coloringtext'>Hire Salesforce Technical Consultants</h4>
+				<p className='innovate-list-paraABC '>Talents with extensive experience in systems integration</p>
 					<div className={`services-grid ${serviceStyle}`}>
 						<div className="thumbnail">
 							<img src="/images/icon/icon-1.png" alt="icon" />
