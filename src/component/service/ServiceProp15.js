@@ -88,7 +88,9 @@ const ServiceProp15 = ({colSize, serviceStyle, itemShow, marginTop}) => {
 				 <div className={`${colSize}` } >
 				
 					<h4 className='coloringtext'>Hire Salesforce Technical Consultants</h4>
-				<p className='innovate-list-paraABC '>Talents with extensive experience in systems integration</p>
+				<p className='innovate-list-paraABC '>Talents with extensive experience in systems 
+				<br/>
+				integration</p>
 					<div className={`services-grid ${serviceStyle}`}>
 						<div className="thumbnail">
 							<img src="/images/icon/icon-1.png" alt="icon" />
