@@ -36,7 +36,7 @@ import TestimonialOne from "../component/testimonial/TestimonialOne";
 import WordPressSection from "../component/WordPressSection/WordPressSection";
 import SectionTitle from "../elements/section-title/SectionTitle";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
-import ServiceData from "../data/service/ServiceSeo.json";
+import ServiceData from "../data/service/ServicepropPpc.json";
 import ServicePropSeo from "../component/service/ServicePropSeo";
 import SeoAdvantage from "../component/SeoAdvantage/SeoAdvantage";
 import SeoExpertsBestChoice from "../component/SeoExpertsBestChoice/SeoExpertsBestChoice";

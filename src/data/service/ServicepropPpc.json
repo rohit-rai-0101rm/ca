@@ -1,28 +1,34 @@
 [
     {
         "image": "/images/seoIcons/fullsuitseo.png",
-        "title": "Full Suite SEO",
+        "title": "Ad Management",
         "description": "Hire an AdWords consultant who will help you unleash your business’s potential by choosing the right Ad management channel to get you high conversion rates."
     },
     {
         "image": "/images/seoIcons/localseoservices.png",
-        "title": "Local SEO Services",
+        "title": "Ad Remarketing",
         "description": "What better than serving the ads to the people who already trust your brand and services! Hire Google AdWords Experts who’d ensure to have a personalized touch while retargeting."
     },
     {
         "image": "/images/seoIcons/GoogleAnalytics.png",
-        "title": "Google Analytics Configuration",
+        "title": "Native Advertising",
         "description": "Native ads form an ideal choice among the people and are our personal favorite when it comes to effective marketing."
     },
     {
         "image": "/images/seoIcons/link-building.png",
-        "title": "Link Building",
+        "title": "PPC Audits",
         "description": "Be it small- or large-scale businesses – enhance it by getting global recognition and sales through YouTube’s Video Ads.",
         "cate": "Design"
     },
     {
         "image": "/images/seoIcons/seoaudits.png",
-        "title": "Content Marketing",
+        "title": "Social Media Advertising",
+        "description": "Did you just lose your rank because of Google Penalty or looking for ideas to improve the performance of your ads? Hire the top AdWords PPC consultants at your disposal.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/seoaudits.png",
+        "title": "Video Ad Management",
         "description": "Did you just lose your rank because of Google Penalty or looking for ideas to improve the performance of your ads? Hire the top AdWords PPC consultants at your disposal.",
         "cate": "Design"
     }

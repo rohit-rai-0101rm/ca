@@ -18,12 +18,12 @@ const ProgrammaticSpecialistIntro = () => {
                   <h1 className="title">
                     Target the right audience at the right time
                   </h1>
-                  <p className="innovate-list-para">
-                    Partner with Uplers - a leading Programmatic Advertising
+                  <h5 className="themeText">
+                    Partner with Dignifyd - a leading Programmatic Advertising
                     Agency
-                  </p>
+                  </h5>
                   <p className="innovate-list-para">
-                    Uplers isn’t just another Programmatic Advertising Agency;
+                    Dignifyd isn’t just another Programmatic Advertising Agency;
                     we help you hire skilled talent - who are both culturally
                     and technically fit.
                   </p>

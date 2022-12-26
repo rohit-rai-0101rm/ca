@@ -39,9 +39,10 @@ const ProgrammaticSpecialist = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <ProgrammaticSpecialistIntro />
+        <ReactProcess/>
+
         <TechnicalSkillsProgramaticAd/>
      
-        <ReactProcess/>
         <AdvantageSection/>
         <DedicatedProgrammatic/>
         <ProgrammaticAdvertising />
