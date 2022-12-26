@@ -9,10 +9,10 @@ const ProcessPpc = () => {
   return (
     <div className="section section-padding bg-color-light pb--70">
         <center>
-        <h5>
+        <h4>
         Would you like to hire a dedicated PPC Expert who is both brilliant and
         culturally fit?
-      </h5>
+      </h4>
       <p className="innovate-list-para">
 
 50,000+ talents have been screened for their technical skills, language proficiency, and behavioral aspects - so you get the best one for your company.
@@ -38,7 +38,7 @@ const ProcessPpc = () => {
             <div className="content">
               <span className="subtitle">{data.subtitle}</span>
               <h3 className="title">{data.title}</h3>
-              <p>{data.paragraph}</p>
+              <p className="innovate-list-para">{data.paragraph}</p>
             </div>
           </div>
         ))}

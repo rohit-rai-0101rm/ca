@@ -10,7 +10,7 @@ const GoogleAdProcess = () => {
     <div className="section section-padding bg-color-light pb--70">
       <center>
         <h4>
-        How to hire Google Ads Experts through Uplers?
+        How to hire Google Ads Experts through Dignifyd?
 
         </h4>
         <p className="innovate-list-para">
@@ -39,7 +39,7 @@ const GoogleAdProcess = () => {
             <div className="content">
               <span className="subtitle">{data.subtitle}</span>
               <h3 className="title">{data.title}</h3>
-              <p>{data.paragraph}</p>
+              <p className="innovate-list-para">{data.paragraph}</p>
             </div>
           </div>
         ))}

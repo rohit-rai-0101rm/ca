@@ -22,7 +22,7 @@ const AccessTalent = () => {
           {allData.map((data) => (
             <div className="col-xl-3 col-sm-6" key={data.id}>
               <div className="">
-                <div className="">
+                <div className="thumbnail">
                   <Link
                     to={
                       process.env.PUBLIC_URL +

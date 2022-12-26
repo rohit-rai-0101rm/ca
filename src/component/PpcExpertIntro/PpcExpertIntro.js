@@ -16,10 +16,15 @@ const PpcExpertIntro = () => {
               >
                 <center>
                   <h1 className="title">
-                    Hire Dedicated Paid Marketers from <br /> India's Top Talent
+                    Hire Dedicated Paid Marketers from <br /> 
+                    
+                    <span className="themeText">
+                    India's Top Talent
                     Network
+                    </span>
+                  
                   </h1>
-                  <h2>
+                  <h2 >
                   Inquire, Interview and Hire within the next 7 days.
 
                   </h2>

@@ -60,7 +60,6 @@ const PpcExperts = () => {
         <PpcExpertIntro />
         <ProcessPpc />
         <GoogleAdProcess />
-        <ReactProcess />
         <div className="section section-padding" id="section1">
           <div className="container">
             <center>
@@ -80,7 +79,6 @@ const PpcExperts = () => {
         </div>
         <PpcBestChoice />
         <AccessTalent />
-        <SeoAdvantage />
         <SeoExpertsBestChoice />
 
         <FrequentlyAskedPpc />
