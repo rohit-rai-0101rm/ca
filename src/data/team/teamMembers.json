@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "/images/team/paavan.jpeg",
+        "thumb": "/images/team/paavan.png",
         "title": "Paavan Ahuja",
         "designation": "Founder & CEO",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -103,7 +103,7 @@
     },
     {
         "id": 7,
-        "thumb": "/images/team/adila.jpeg",
+        "thumb": "/images/team/adila.png",
         "title": "Adila Khan",
         "designation": "Art Director",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -120,7 +120,7 @@
     },
     {
         "id": 8,
-        "thumb": "/images/team/tanu.jpeg",
+        "thumb": "/images/team/tanu.png",
         "title": "Tanu Shakya",
         "designation": "Technical Consultant",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",

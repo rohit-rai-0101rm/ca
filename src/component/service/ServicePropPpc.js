@@ -11,7 +11,7 @@ const ServicePropPpc = ({colSize, serviceStyle, serviceData}) => {
 			{serviceData.map((data, index) => (
 				<div className={colSize} key={index} >
 					<div className={`services-grid ${serviceStyle}`}>
-					<div className="thumbnail2">
+					<div className="thumbnail">
 							<img src={process.env.PUBLIC_URL + data.image} alt="icon" />
 						</div>
 						<div className="content">

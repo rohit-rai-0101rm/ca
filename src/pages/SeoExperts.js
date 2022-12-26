@@ -46,6 +46,7 @@ import StepsToHire3 from "../component/StepsToHire/StepsToHire3";
 import HireSeoExpert from "../component/StepsToHire/HireSeoExpert";
 import SeoSection from "../component/Sales2Section/SeoSection";
 import GoogleAdProcess from "../component/GoogleAdProcess/GoogleAdProcess";
+import AccessTalent from "../component/AccessTalent/AccessTalent";
 const allData = ServiceData;
 const SeoExperts = () => {
   return (
@@ -74,6 +75,7 @@ const SeoExperts = () => {
         </div>
 
         <SeoExpertsBestChoice />
+        <AccessTalent/>
 
         <FrequentlyAskedQuestionSeoExperts />
         <CtaLayoutOne />

@@ -3,7 +3,7 @@
         "id": 1,
         "thumb": "/images/remoteTalent/react.svg",
         "title": "React Jsdd",
-        "designation": "Founder & CEO",
+        "designation": "React",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -18,7 +18,7 @@
     },
     {
         "id": 2,
-        "thumb": "/images/team/sudeep.jpeg",
+        "thumb": "/images/remoteTalent/angular-icon.svg",
         "title": "AngularJS",
         "designation": "CTO",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -35,7 +35,7 @@
     },
     {
         "id": 3,
-        "thumb": "/images/team/pradeep.jpeg",
+        "thumb": "/images/remoteTalent/node-icon.svg",
         "title": "NodeJs",
         "designation": "Chairman",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -52,7 +52,7 @@
     },
     {
         "id": 4,
-        "thumb": "/images/team/rishi.jpeg",
+        "thumb": "/images/remoteTalent/laravel-icon.svg",
         "title": "Laravel",
         "designation": "Creative Head",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -69,7 +69,7 @@
     },
     {
         "id": 5,
-        "thumb": "/images/team/vivek.jpeg",
+        "thumb": "/images/remoteTalent/shopify-icon.svg",
         "title": "Shopify",
         "designation": "Sr. Project Architect",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -86,7 +86,7 @@
     },
     {
         "id": 6,
-        "thumb": "/images/team/anil.jpeg",
+        "thumb": "/images/remoteTalent/php-icon.svg",
         "title": "Php",
         "designation": "Head of Operations",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -103,7 +103,7 @@
     },
     {
         "id": 7,
-        "thumb": "/images/team/adila.jpeg",
+        "thumb": "/images/remoteTalent/wordpress-icon.svg",
         "title": "Wordpress",
         "designation": "Art Director",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -120,7 +120,7 @@
     },
     {
         "id": 8,
-        "thumb": "/images/team/tanu.jpg",
+        "thumb": "/images/remoteTalent/ux-ui-icon.svg",
         "title": "UI/UX",
         "designation": "Technical Consultant",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -137,7 +137,7 @@
     },
     {
         "id": 9,
-        "thumb": "/images/team/paavan.jpeg",
+        "thumb": "/images/remoteTalent/graphic-icon.svg",
         "title": "Graphics",
         "designation": "Founder & CEO",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -154,7 +154,7 @@
     },
     {
         "id": 10,
-        "thumb": "/images/team/sudeep.jpeg",
+        "thumb": "/images/remoteTalent/java-icon.svg",
         "title": "Java",
         "designation": "CTO",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -171,7 +171,7 @@
     },
     {
         "id": 11,
-        "thumb": "/images/team/pradeep.jpeg",
+        "thumb": "/images/remoteTalent/python-icon.svg",
         "title": "Python",
         "designation": "Chairman",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -188,7 +188,7 @@
     },
     {
         "id": 12,
-        "thumb": "/images/team/rishi.jpeg",
+        "thumb": "/images/remoteTalent/net-icon.svg",
         "title": ".NET",
         "designation": "Creative Head",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -205,7 +205,7 @@
     },
     {
         "id": 13,
-        "thumb": "/images/team/vivek.jpeg",
+        "thumb": "/images/remoteTalent/ios-icon.svg",
         "title": "ios",
         "designation": "Sr. Project Architect",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -222,7 +222,7 @@
     },
     {
         "id": 14,
-        "thumb": "/images/team/anil.jpeg",
+        "thumb": "/images/remoteTalent/android-icon.svg",
         "title": "Android",
         "designation": "Head of Operations",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -239,7 +239,7 @@
     },
     {
         "id": 15,
-        "thumb": "/images/team/adila.jpeg",
+        "thumb": "/images/remoteTalent/native-icon.svg",
         "title": "React Native",
         "designation": "Art Director",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -256,7 +256,7 @@
     },
     {
         "id": 16,
-        "thumb": "/images/team/tanu.jpg",
+        "thumb": "/images/remoteTalent/seo-icon.svg",
         "title": "SEO",
         "designation": "Technical Consultant",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -273,7 +273,7 @@
     },
     {
         "id": 13,
-        "thumb": "/images/accessTalent/react-icon.svg",
+        "thumb": "/images/remoteTalent/programatic-icon.svg",
         "title": "Programmatic Ads",
         "designation": "Sr. Project Architect",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -290,7 +290,7 @@
     },
     {
         "id": 14,
-        "thumb": "/images/team/anil.jpeg",
+        "thumb": "/images/remoteTalent/sem-icon.svg",
         "title": "SEM",
         "designation": "Head of Operations",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -307,7 +307,7 @@
     },
     {
         "id": 15,
-        "thumb": "/images/team/adila.jpeg",
+        "thumb": "/images/remoteTalent/ppc-icon.svg",
         "title": "PPC",
         "designation": "Art Director",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
@@ -324,7 +324,7 @@
     },
     {
         "id": 16,
-        "thumb": "/images/team/tanu.jpg",
+        "thumb": "/images/remoteTalent/salesforce-icon.svg",
         "title": "Salesforce",
         "designation": "Technical Consultant",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",

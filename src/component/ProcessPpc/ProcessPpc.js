@@ -28,7 +28,7 @@ const ProcessPpc = () => {
             }`}
           >
             <Tilty perspective={2000}>
-              <div className="thumbnail">
+              <div className="">
                 <img
                   src={process.env.PUBLIC_URL + data.thumb}
                   alt="Thumbnail"

@@ -7,49 +7,29 @@ const allData = TeamData;
 
 const AccessTalent = () => {
   return (
-    <div className="section section-padding-team bg-color-dark pb--70 pb_lg--20 pb_md--0">
+    <div className="section section-padding bg-color-dark pb--70 pb_lg--20 pb_md--0">
       <div className="container">
         <div className="section-heading heading-light">
-          <h3 className="title mt--120">
-          Land India’s top remote talent with Uplers
-
+          <h3 className="title mt--80">
+            Land India’s top remote talent with Uplers
           </h3>
-          <p className="innovate-list-para">Access the talent network of 50,000+ skilled experts with 100+ skill sets
-
-</p>
+          <p className="innovate-list-para">
+            Access the talent network of 50,000+ skilled experts with 100+ skill
+            sets
+          </p>
         </div>
         <div className="row">
           {allData.map((data) => (
-            <div className="col-xl-3 col-sm-6" key={data.id}>
+            <div className="col-xl-2 col-md-2 col-sm-6" key={data.id}>
               <div className="">
-                <div className="thumbnail">
-                  <Link
-                    to={
-                      process.env.PUBLIC_URL +
-                      `/team-details/${slugify(data.title)}`
-                    }
-                  >
-                    <img
-                      src={process.env.PUBLIC_URL + data.thumb}
-                      alt={data.title}
-                    />
-                  </Link>
+                <div className="thumbnail3">
+                  <img
+                    src={process.env.PUBLIC_URL + data.thumb}
+                    alt={data.title}
+                  />
                 </div>
-                <div className="content">
-                  <h4 className="title">
-                    <Link
-                      to={
-                        process.env.PUBLIC_URL +
-                        `/team-details/${slugify(data.title)}`
-                      }
-                    >
-                      {data.title}
-                    </Link>
-                  </h4>
-                  <span
-                    className="designation"
-                    dangerouslySetInnerHTML={{ __html: data.designation }}
-                  ></span>
+                <div className="">
+                    <p className="innovate-list-para2"> {data.title}</p>
                 </div>
               </div>
             </div>

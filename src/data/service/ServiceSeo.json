@@ -22,7 +22,13 @@
     },
     {
         "image": "/images/seoIcons/seoaudits.png",
-        "title": "Content Marketing",
+        "title": "Seo Audits",
+        "description": "Did you just lose your rank because of Google Penalty or looking for ideas to improve the performance of your ads? Hire the top AdWords PPC consultants at your disposal.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/seoaudits.png",
+        "title": "Ecommerce SEO",
         "description": "Did you just lose your rank because of Google Penalty or looking for ideas to improve the performance of your ads? Hire the top AdWords PPC consultants at your disposal.",
         "cate": "Design"
     }
