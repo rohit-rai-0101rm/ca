@@ -12,6 +12,7 @@ const RemoteEngineer = () => {
         <div className="section-heading heading-light">
           <h3 className="title mb--50 skillsHeading">Land India’s top remote engineers with Dignifyd</h3>
           <p className="innovate-list-para">Access the talent pool of 50,000+ skilled professionals with knowledge of more than 20 tech stacks</p>
+          <p className="innovate-list-paraABC">Access the talent pool of 50,000+ skilled professionals with knowledge of more than 20 tech stacks</p>
         </div>
         <div className="row">
           {allData.map((data) => (
