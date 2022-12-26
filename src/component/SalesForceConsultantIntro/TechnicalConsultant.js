@@ -33,7 +33,7 @@ const TechnicalConsultant = () => {
 
         <div className="row">
 
-        <ServiceProp15 colSize="col-xl-12 col-md-12" serviceStyle="" itemShow="6" />
+        <ServiceProp15 colSize="col-xl-6 col-md-6" serviceStyle="" itemShow="6" />
 
 
 
