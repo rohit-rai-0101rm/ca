@@ -2,12 +2,28 @@
     {
         "id": 1,
         "title": "How do I hire React developers through Dignifyd?",
-        "step1":"Share your requirement of hiring talent",
-        "step1":"Share your requirement of hiring talent",
-        "step1":"Share your requirement of hiring talent",
-        "step1":"Share your requirement of hiring talent",
-        "step1":"Share your requirement of hiring talent",
-
+        "StepArray": [
+            {
+                "st": "gggggg"
+            },
+            {
+                "st": "gggggg"
+            },
+            {
+                "st": "gggggg"
+            },
+            {
+                "st": "gggggg"
+            },
+            {
+                "st": "gggggg"
+            }
+        ],
+        "step1": "Share your requirement of hiring talent",
+        "step1": "Share your requirement of hiring talent",
+        "step1": "Share your requirement of hiring talent",
+        "step1": "Share your requirement of hiring talent",
+        "step1": "Share your requirement of hiring talent",
         "body": "You can hire React developers from India on-demand who work as an extension to your in-house web development team."
     },
     {
@@ -35,6 +51,4 @@
         "title": "How does ReactJS differ from React Native?",
         "body": "In ReactJS, virtual DOM is used to render browser code while in React Native, native APIs are used to render components in mobile. The apps developed with ReactJS render HTML in UI while React Native uses JSX for rendering UI."
     }
-
-
 ]
