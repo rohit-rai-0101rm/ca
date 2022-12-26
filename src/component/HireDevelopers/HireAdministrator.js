@@ -12,9 +12,9 @@ const HireAdministrator = () => {
                         <div className="banner-content">
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
                             <center>
-                                <h1 className="title">Hire the best Salesforce Administrators from India's Top Talent Network</h1>
+                                <h1 className="title">Hire the best Salesforce Administrators from  <span className='purple_head'>India's Top Talent Network </span> </h1>
                                 <h3>We handpick the perfect-match to help you crack the tough nut like Salesforce</h3>
-                                <span className="subtitle">Our crackerjack Salesforce Admins who possess in-depth knowledge of Salesforce products, their functionalities, administration and maintenance of Salesforce systems, and extensive experience in performing upgrades. With us, you access India’s largest talent pool of 50,000+ professionals for your well-defined needs.</span>
+                                <p className='innovate-list-paraABC'>Our crackerjack Salesforce Admins who possess in-depth knowledge of Salesforce products, their functionalities, administration and maintenance of Salesforce systems, and extensive experience in performing upgrades. With us, you access India’s largest talent pool of 50,000+ professionals for your well-defined needs.</p>
                                
                                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Hire a Salesforce Administrator</Link>
                             </center>

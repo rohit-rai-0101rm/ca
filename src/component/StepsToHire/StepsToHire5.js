@@ -16,7 +16,7 @@ const StepsToHire5 = () => {
 Salesforce Consultant
 who is both brilliant and
 culturally fit?</h3>
-<p>50,000+ talents have been screened for their technical skills, language proficiency, and behavioral aspects - so you get the best one for your company.</p>
+<p className='innovate-list-paraABC'>50,000+ talents have been screened for their technical skills, language proficiency, and behavioral aspects - so you get the best one for your company.</p>
 
            </center>
             <center> <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Hire your Dream Team</Link></center>
@@ -33,7 +33,7 @@ culturally fit?</h3>
                     <div className="content">
                         <span className="subtitle">{data.subtitle}</span>
                         <h3 className="title">{data.title}</h3>
-                        <p>{data.paragraph}</p>
+                        <p className='innovate-list-paraABC'>{data.paragraph}</p>
                     </div>
                 </div>
                 ))}
