@@ -2,7 +2,7 @@
 
     {
         "id": 1,
-        "thumb": "/images/others/process-1.png",
+        "thumb": "/images/hireExpert/soundTechnicalFoundation.png",
         "subtitle": "Step One",
         "title": "Sound Technical Foundation",
         "paragraph": "Detailed technical assessments tailored according to the job role's international standards.",
@@ -13,14 +13,14 @@
     },
     {
         "id": 2,
-        "thumb": "/images/others/process-2.png",
+        "thumb": "/images/hireExpert/exceptionalComunicationSkill.png",
         "subtitle": "Step Two",
         "title": "Exceptional Communication Skills",
         "paragraph": "Testing nuances of speech through a world-leading AI-powered English communication platform."
     },
     {
         "id": 3,
-        "thumb": "/images/others/process-3.png",
+        "thumb": "/images/hireExpert/culturallyComponent.png",
         "subtitle": "Step Three",
         "title": "Culturally Competent",
         "paragraph": "Assessed for their ability to adapt and understanding of what it takes to work in a global environment successfully."

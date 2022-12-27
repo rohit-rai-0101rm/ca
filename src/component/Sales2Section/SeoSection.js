@@ -10,7 +10,7 @@ const SeoSection = () => {
     <div className="section section-padding bg-color-light pb--70">
       <center>
         <h4>
-        How to hire a SEO Expert through Uplers?
+        How to hire a SEO Expert through Dignifyd?
 
         </h4>
         <p className="innovate-list-para">
@@ -29,7 +29,7 @@ const SeoSection = () => {
             }`}
           >
             <Tilty perspective={2000}>
-              <div className="thumbnail">
+              <div className="">
                 <img
                   src={process.env.PUBLIC_URL + data.thumb}
                   alt="Thumbnail"

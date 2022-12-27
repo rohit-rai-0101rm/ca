@@ -2,7 +2,7 @@
 
     {
         "id": 1,
-        "thumb": "/images/others/process-1.png",
+        "thumb": "/images/googleAdProcess/shareJd-min.png",
         "subtitle": "Step One",
         "title": "Share the Job Description",
         "paragraph": "Describe the roles, responsibilities, must-have skills, required work experience, and budget.s"
@@ -11,22 +11,22 @@
     },
     {
         "id": 2,
-        "thumb": "/images/others/process-2.png",
+        "thumb": "/images/googleAdProcess/matchmake.png",
         "subtitle": "Step Two",
         "title": "Matchmake and review",
         "paragraph": "Based on the job description shared, we'll match the best-fit profile/s and share within 48 business hours."
     },
     {
         "id": 3,
-        "thumb": "/images/others/process-3.png",
+        "thumb": "/images/googleAdProcess/shortlistTalent.png",
         "subtitle": "Step Three",
         "title": "Shortlist & Interview",
         "paragraph": "You select suitable candidates, and we schedule interviews based on your availability."
     },
     {
         "id": 4,
-        "thumb": "/images/others/process-3.png",
-        "subtitle": "Step Three",
+        "thumb": "/images/googleAdProcess/onboard.png",
+        "subtitle": "Step four",
         "title": "Onboard & Manage",
         "paragraph": "We'll sort all the legalities and assist you with smooth onboarding as well as managing the talent."
     }
