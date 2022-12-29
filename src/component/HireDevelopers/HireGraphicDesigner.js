@@ -16,7 +16,7 @@ const HireGraphicDesigner = () => {
                                 <h3>Inquire, Interview and Hire within the next 7 days.</h3>
                                 <span className="subtitle">We source, vet, match, and manage the top graphic designers who will bring your envisioned design to life while adhering to the brand guidelines. We are focused on delivering quality designs which are an outcome of innovative thinking and unique perspectives of creative heads who love coffee.</span>
                                
-                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Hire a Graphic Designer</Link>
+                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large mb--30">Hire a Graphic Designer</Link>
                             </center>
                             </AnimationOnScroll>
                         </div>

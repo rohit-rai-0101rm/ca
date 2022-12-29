@@ -7,8 +7,9 @@ import ServiceProp12 from '../service/ServiceProp12'
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Hire UI UX Designer from Dignifyd </h2>
-        <p>Hire UI UX Designer from Uplers</p>
+        <h4 className='coloringtext'>Hire UI UX Designer from Dignifyd </h4>
+        <p className='innovate-list-para coloringtext'>Smart individuals with expert knowledge
+</p>
         <br/>
 
         </center>

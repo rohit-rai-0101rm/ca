@@ -14,9 +14,9 @@ const HireUiUxDesigner = () => {
                             <center>
                                 <h1 className="title">Hire proficient UI/UX Designers to build intuitive design for apps, softwares, & websites.</h1>
                                 <h4>Finding a perfect team of designers is time-consuming and expensive. Not anymore! We provide UI/UX Designers who believe that it’s not just about what you see, but also how it makes your users feel when they interact with your product</h4>
-                                <span className="subtitle">Hire our skilled UI & UX Designers who are both culturally and technically fit.</span>
+                                <p className="innovate-list-para">Hire our skilled UI & UX Designers who are both culturally and technically fit.</p>
                                
-                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Share your Requirements</Link>
+                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn mb--30 btn-fill-primary btn-large">Share your Requirements</Link>
                             </center>
                             </AnimationOnScroll>
                         </div>

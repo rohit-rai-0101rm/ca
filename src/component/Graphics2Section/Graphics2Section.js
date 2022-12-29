@@ -7,7 +7,8 @@ import ServiceProp11 from '../service/ServiceProp11'
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Hire Graphic Designers from Dignifyd </h2>
+        <h4 className='coloringtext'>Hire Graphic Designers from Dignifyd </h4>
+
         <br/>
 
         </center>

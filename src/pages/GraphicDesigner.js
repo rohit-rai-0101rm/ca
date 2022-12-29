@@ -16,6 +16,7 @@ import FrequentlyAsked2 from '../component/FrequentlyAsked/FrequentlyAsked2'
 import FrequentlyAsked3 from '../component/FrequentlyAsked/FrequentlyAsked3'
 import FrequentlyAsked4 from '../component/FrequentlyAsked/FrequentlyAsked4'
 import FrequentlyAsked9 from '../component/FrequentlyAsked/FrequentlyAsked9'
+import GraphicDesignerInterview from '../component/GraaphicDesignerInterview/GraphicDesignerInterview'
 import Graphics2Section from '../component/Graphics2Section/Graphics2Section'
 import HireAngularDeveloperIntro from '../component/HireDevelopers/HireAngularDeveloperIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
@@ -28,6 +29,8 @@ import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
 import ReactSection from '../component/ReactSection/ReactSection'
 import RemoteEngineer from '../component/RemoteEngineer/RemoteEngineer'
+import GraphicDesignerSection from '../component/Sales2Section/GraphicDesignerSection'
+import SeoSection from '../component/Sales2Section/SeoSection'
 import ServicePropOne from '../component/service/ServicePropOne'
 import ServiceDesign10 from '../component/ServiceDesign10/ServiceDesign10'
 import StepsToHire from '../component/StepsToHire/StepsToHire'
@@ -47,7 +50,10 @@ const GraphicDesigner = () => {
         <HeaderOne />
         <HireGraphicDesigner/>
         <StepsToHire1/>
+        <GraphicDesignerSection />
+
         <Graphics2Section/>
+        <GraphicDesignerInterview/>
         <RemoteEngineer/>
         <FrequentlyAsked10/>
         <CtaLayoutOne /> 
