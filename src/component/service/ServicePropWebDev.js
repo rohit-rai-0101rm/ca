@@ -4,28 +4,28 @@ import { slugify } from '../../utils';
 
 
 
-const ServicePropWebDev = ({colSize, serviceStyle, serviceData}) => {
+const ServicePropWebDev = ({ colSize, serviceStyle, serviceData }) => {
 
-    return (
+	return (
 		<>
 			{serviceData.map((data, index) => (
 				<div className={colSize} key={index} >
 					<div className={`services-grid ${serviceStyle}`}>
-					<div className="thumbnail">
+						<div className="thumbnail">
 							<img src={process.env.PUBLIC_URL + data.image} alt="icon" />
 						</div>
 						<div className="content">
-							<h5 className="title"> 
-								<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.title)}`}>{data.title}</Link>
+							<h5 className="title">
+								{data.title}
 							</h5>
 							<p>{data.description}</p>
-							<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.title)}`} className="more-btn">Find out more</Link>
+							<Link to={process.env.PUBLIC_URL + `/contact`} className="more-btn">Find out more</Link>
 						</div>
 					</div>
-			 	</div>
+				</div>
 			))}
 		</>
-    )
+	)
 }
 
 export default ServicePropWebDev;

@@ -1,109 +1,117 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import Offcanvas from "react-bootstrap/Offcanvas";
-import {
-  FaFacebookF,
-  FaTwitter,
-  FaLinkedinIn,
-  FaBehance,
-  FaPhone,
-  FaFax,
-  FaAngleDown,
-  FaLinkedin,
-  FaInstagram,
-} from "react-icons/fa";
+import SEO from "../../common/SEO";
+import ColorSwitcher from "../../elements/switcher/ColorSwitcher";
+import FooterOne from "../../common/footer/FooterOne";
+import HeaderOne from "../../common/header/HeaderOne";
+import BreadCrumbOne from "../../elements/breadcrumb/BreadCrumbOne";
+import FormTwo from "../../component/contact/FormTwo";
+import SectionTitle from "../../elements/section-title/SectionTitle";
+import ContactLocation from "../../component/contact/ContactLocation";
+import CtaLayoutOne from "../../component/cta/CtaLayoutOne";
+import PricingOne from "../../component/pricing/PricingOne";
+import Talk from "../../component/talk/Talk";
+import FormFour from "../../component/contact/FormFour";
+import AboutThree from "../../component/about/AboutThree";
+import AboutFour from "../../component/about/AboutFour";
+import AboutFive from "../../component/about/AboutFive";
+import BcrumbBannerOne from "../../elements/breadcrumb/BcrumbBannerOne";
+import ProcessOne from "../../component/process/ProcessOne";
+import BcrumbBannerContact from "../../elements/breadcrumb/BcrumbBannerContact";
+import BcrumbBannerTouch from "../../elements/breadcrumb/BcrumbBannerTouch";
+import FormTouch from "../../component/contact/FormTouch";
 
-const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
+const OffcanvasMenu = () => {
   return (
-    <Offcanvas
-      show={offcanvasShow}
-      onHide={offcanvasHide}
-      placement="end"
-      className="header-offcanvasmenu"
-    >
-      <Offcanvas.Header closeButton></Offcanvas.Header>
-      <Offcanvas.Body>
-        <nav className="mainmenu-nav">
-          <ul className="mainmenu">
-            <li className="menu-item-has-children">
-              <Link to="/">Home </Link>
-            </li>
-            <li className="menu-item-has-children">
-              <Link to="#">
-                Why Dignifyd <FaAngleDown />
-              </Link>
-              <ul className="axil-submenu">
-                <li>
-                  <Link to={process.env.PUBLIC_URL + "/about"}>About</Link>
-                </li>
-                <li>
-                  <Link to="/how-it-works">How it works</Link>
-                </li>
-                <li>
-                  <Link to="/why-india">Why India</Link>
-                </li>
-                <li>
-                  <Link>Pricing</Link>
-                </li>
-              </ul>
-            </li>
+    <>
+      <SEO title="Blog Grid" />
+      <ColorSwitcher />
+      <main className="main-wrapper">
+        <HeaderOne />
+        <BreadCrumbOne title="Contact" page="Contact" />
 
-            <li className="menu-item-has-children">
-              <Link to="#">
-                Services
-                <FaAngleDown />
-              </Link>
-              <ul className="axil-submenu">
-                <li>
-                  <Link to="/services/digital-marketing">
-                    Digital Marketing
-                  </Link>
-                </li>
-                <li>
-                  <Link to="/services/seo">SEO</Link>
-                </li>
-                <li>
-                  <Link to="/services/web-development">Web Development</Link>
-                </li>
-                <li>
-                  <Link to="/services/design">Design</Link>
-                </li>
-              </ul>
+        <div className="section section-padding">
+          <div className="container">
+            <div className="row">
+              <div className="col-xl-5 col-lg-6">
+                <div className="contact-form-box shadow-box mb--30">
+                  <h3 className="title">need a human? <br/> Let’s talk.</h3>
+                  <FormTouch />
+                </div>
+              </div>
+              <div className="col-xl-5 col-lg-6 offset-xl-1">
+                <div className="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
+                  <h4 className="title">Phone</h4>
+                  <p>
+                    Our customer care is open from Mon-Fri, 10:00 am to 6:00 pm
+                  </p>
+                  <h4 className="phone-number">
+                    <a href="tel:+971-501-599-266">+971-501-599-266</a>
+                  </h4>
+                </div>
+                <div className="contact-info mb--30">
+                  <h4 className="title">Email</h4>
+                  <p>
+                    Our support team will get back to in 48-h during standard
+                    business hours.
+                  </p>
+                  <h4 className="phone-number">
+                    <a href="mailto:hello@dignifyd.ae">hello@dignifyd.ae</a>
+                  </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ul className="list-unstyled shape-group-12">
+            <li className="shape shape-1">
+              <img
+                src={process.env.PUBLIC_URL + "/images/others/bubble-2.png"}
+                alt="Bubble"
+              />
             </li>
-
-            <li>
-              <Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link>
+            <li className="shape shape-2">
+              <img
+                src={process.env.PUBLIC_URL + "/images/others/bubble-1.png"}
+                alt="Bubble"
+              />
+            </li>
+            <li className="shape shape-3">
+              <img
+                src={process.env.PUBLIC_URL + "/images/others/circle-3.png"}
+                alt="Circle"
+              />
             </li>
           </ul>
-        </nav>
-        <div className="footer-top mt--100">
-          <div className="footer-social-link">
-            <ul className="list-unstyled">
-              <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
-                  <FaFacebookF />
-                </a>
-              </li>
-           
-             
-              <li>
-                <a target="_blank" href="https://in.linkedin.com/company/dignifyd">
-                  <FaLinkedin />
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.instagram.com/dignifyd/?hl=en">
-                  <FaInstagram />
-                </a>
-              </li>
-             
-          
-            
-            </ul>
-          </div>
         </div>
-      </Offcanvas.Body>
-    </Offcanvas>
+
+        <div className="section section-padding bg-color-dark overflow-hidden">
+          <div className="container">
+            <center>
+              <h2 className="amazing">we serve <strong>amazing </strong>  coffee... Let's Meet?</h2>
+            </center>
+            <div className="row">
+              <ContactLocation />
+            </div>
+          </div>
+          <ul className="shape-group-11 list-unstyled">
+            <li className="shape shape-1">
+              <img
+                src={process.env.PUBLIC_URL + "/images/others/line-6.png"}
+                alt="line"
+              />
+            </li>
+            <li className="shape shape-2">
+              <img
+                src={process.env.PUBLIC_URL + "/images/others/circle-3.png"}
+                alt="line"
+              />
+            </li>
+          </ul>
+        </div>
+        <CtaLayoutOne/>
+
+        <FooterOne parentClass="pt--150 pt_lg--100 pt_md--80 pt_sm--60" />
+      </main>
+    </>
   );
 };
 

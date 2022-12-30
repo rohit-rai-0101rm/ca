@@ -26,7 +26,7 @@ const ServicePropHome = ({ colSize, serviceStyle, serviceData }) => {
               <Link
                 to={
                   process.env.PUBLIC_URL +
-                  `/service-details/${slugify(data.title)}`
+                  `/contact`
                 }
                 className="more-btn"
               >
