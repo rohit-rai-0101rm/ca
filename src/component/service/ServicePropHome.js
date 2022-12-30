@@ -23,15 +23,7 @@ const ServicePropHome = ({ colSize, serviceStyle, serviceData }) => {
                 </Link>
               </h5>
               <p>{data.description}</p>
-              <Link
-                to={
-                  process.env.PUBLIC_URL +
-                  `/contact`
-                }
-                className="more-btn"
-              >
-                Find out more
-              </Link>
+            
             </div>
           </div>
         </div>
