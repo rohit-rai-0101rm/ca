@@ -7,9 +7,9 @@ import ServicePropTen from '../service/ServicePropTen'
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Benefits of Hiring a WordPress Designer</h2>
+        <h4 className='coloringtext'>Benefits of Hiring a WordPress Designer</h4>
         <br/>
-        <h3>Smart individuals with expert skills</h3>
+        <h4>Smart individuals with expert skills</h4>
 
         </center>
         <div className='row'>

@@ -16,26 +16,18 @@ const OffcanvasMenu = ({offcanvasShow, offcanvasHide}) => {
                     </div>
                 </form>
                 <div className="row ">
-                    <div className="col-lg-5 col-xl-6">
-                        <ul className="main-navigation list-unstyled">
-                            <li><Link to={process.env.PUBLIC_URL + "/digital-agency"}>Digital Agency</Link></li>
-                            <li><Link to={process.env.PUBLIC_URL + "/creative-agency"}>Creative Agency</Link></li>
-                            <li><Link to={process.env.PUBLIC_URL + "/personal-portfolio"}>Personal Portfolio</Link></li>
-                            <li><Link to={process.env.PUBLIC_URL + "/home-startup"}>Home Startup</Link></li>
-                            <li><Link to={process.env.PUBLIC_URL + "/corporate-agency"}>Corporate Agency</Link></li>
-                        </ul>
-                    </div>
-                    <div className="col-lg-7 col-xl-6">
+                
+                    <div className="col-lg-7 col-xl-12">
                         <div className="contact-info-wrap">
                             <div className="contact-inner">
-                                <address className="address">
-                                    <h4 className="title">Contact Information</h4>
-                                    <p className=''>Level 3, Convention Tower<br /> World Trade Center, UAE </p>
+                                <address className="">
+                                    <h2 className="title">Contact Information</h2>
+                                    <p className='innovate-list-para'>Level 3, Convention Tower<br /> World Trade Center, <br/>UAE </p>
                                 </address>
                                 <address className="address">
-                                    <span className='innovate-list-para'>We're Available 24/7. Call Now.</span>
-                                    <a href="tel:8884562790" className="tel"><FaPhone /> +971-501-599-266</a>
-                                    <a href="mailto:hello@dignifyd.ae" className="tel"><FaEnvelope /> hello@dignifyd.ae</a>
+                                    <h5 className=''>We're Available 24/7. Call Now.</h5>
+                                    <a href="tel:8884562790" className="tel innovate-list-para"><FaPhone /> +971-501-599-266</a>
+                                    <a href="mailto:hello@dignifyd.ae" className="tel innovate-list-para"><FaEnvelope /> hello@dignifyd.ae</a>
                                 </address>
                             </div>
                             <div className="contact-inner">

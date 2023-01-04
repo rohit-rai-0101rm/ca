@@ -8,7 +8,7 @@ const PluginSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Benefits of Hiring WordPress Plugin Developer</h2>
+        <h4 className='coloringtext'>Benefits of Hiring WordPress Plugin Developer</h4>
         <br/>
        
         </center>

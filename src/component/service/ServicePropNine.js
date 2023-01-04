@@ -34,7 +34,7 @@ const ServicePropNine= ({colSize, serviceStyle, itemShow, marginTop}) => {
 							<h5 className="title"> 
 								<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.title)}`}>{data.title}</Link>
 							</h5>
-							<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.description)}`}>{data.description}</Link>
+							<p className='innovate-list-para'>{data.description}</p>
 						</div>
 					</div>
 			 	</div>

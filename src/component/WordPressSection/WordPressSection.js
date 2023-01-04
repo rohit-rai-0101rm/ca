@@ -8,9 +8,9 @@ const WordPressSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Our Dedicated WordPress Developers can help you with</h2>
+        <h3 className='coloringtext'>Our Dedicated WordPress Developers can help you with</h3>
         <br/>
-        <h3>Smart individuals with expert skills</h3>
+        <h4 className='coloringtext'>Smart individuals with expert skills</h4>
 
         </center>
         <div className='row'>

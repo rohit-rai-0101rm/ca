@@ -51,7 +51,7 @@ const PricingOne = () => {
         <div className="col-lg-4 ">
           <div className="pricing-table pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/revolutionaryTechnology.png" />
+              <img src="/images/unique/revol.png" />
               <h3 className="title">Revolutionary Technology</h3>
             </div>
             <div className="pricing-body">
