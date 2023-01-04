@@ -50,9 +50,10 @@ const UiuxDesigner = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireUiUxDesigner/>
+        <AdvantageSection/>
+
         <StepsToHire2/>
         <UIUXSection/>
-        <AdvantageSection/>
         <FrequentlyAsked11/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />

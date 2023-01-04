@@ -1,117 +1,67 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import Offcanvas from "react-bootstrap/Offcanvas";
-import {
-  FaFacebookF,
-  FaTwitter,
-  FaLinkedinIn,
-  FaBehance,
-  FaPhone,
-  FaFax,
-  FaAngleDown,
-  FaLinkedin,
-  FaInstagram,
-} from "react-icons/fa";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import Offcanvas from 'react-bootstrap/Offcanvas'
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaBehance, FaPhone, FaFax, FaInstagram, FaEnvelope } from "react-icons/fa";
 
-const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
-  return (
-    <Offcanvas
-      show={offcanvasShow}
-      onHide={offcanvasHide}
-      placement="end"
-      className="header-offcanvasmenu"
-    >
-      <Offcanvas.Header closeButton></Offcanvas.Header>
-      <Offcanvas.Body>
-        <nav className="mainmenu-nav">
-        <h4 className="title">Phone</h4>
-                  <p>
-                    Our customer care is open from Mon-Fri, 10:00 am to 6:00 pm
-                  </p>
-                  <h4 className="phone-number">
-                    <a href="tel:+971-501-599-266">+971-501-599-266</a>
-                  </h4>
-          <ul className="mainmenu">
-            <li className="menu-item-has-children">
-              <Link to="/">Home </Link>
-            </li>
-            <li className="menu-item-has-children">
-              <Link to="#">
-                Why Dignifyd <FaAngleDown />
-              </Link>
-              <ul className="axil-submenu">
-                <li>
-                  <Link to={process.env.PUBLIC_URL + "/about"}>About</Link>
-                </li>
-                <li>
-                  <Link to="/how-it-works">How it works</Link>
-                </li>
-                <li>
-                  <Link to="/why-india">Why India</Link>
-                </li>
-                <li>
-                  <Link>Pricing</Link>
-                </li>
-              </ul>
-            </li>
 
-            <li className="menu-item-has-children">
-              <Link to="#">
-                Services
-                <FaAngleDown />
-              </Link>
-              <ul className="axil-submenu">
-                <li>
-                  <Link to="/services/digital-marketing">
-                    Digital Marketing
-                  </Link>
-                </li>
-                <li>
-                  <Link to="/services/seo">SEO</Link>
-                </li>
-                <li>
-                  <Link to="/services/web-development">Web Development</Link>
-                </li>
-                <li>
-                  <Link to="/services/design">Design</Link>
-                </li>
-              </ul>
-            </li>
+const OffcanvasMenu = ({offcanvasShow, offcanvasHide}) => {
+    return (
+        <Offcanvas show={offcanvasShow} onHide={offcanvasHide} placement="end" className="header-offcanvasmenu">
+            <Offcanvas.Header closeButton></Offcanvas.Header>
+            <Offcanvas.Body>
+                <form action="#" className="side-nav-search-form">
+                    <div className="form-group">
+                        <input type="text" className="search-field" name="search-field" placeholder="Search..." />
+                        <button className="side-nav-search-btn"><i className="fas fa-search"></i></button>
+                    </div>
+                </form>
+                <div className="row ">
+                    <div className="col-lg-5 col-xl-6">
+                        <ul className="main-navigation list-unstyled">
+                            <li><Link to={process.env.PUBLIC_URL + "/digital-agency"}>Digital Agency</Link></li>
+                            <li><Link to={process.env.PUBLIC_URL + "/creative-agency"}>Creative Agency</Link></li>
+                            <li><Link to={process.env.PUBLIC_URL + "/personal-portfolio"}>Personal Portfolio</Link></li>
+                            <li><Link to={process.env.PUBLIC_URL + "/home-startup"}>Home Startup</Link></li>
+                            <li><Link to={process.env.PUBLIC_URL + "/corporate-agency"}>Corporate Agency</Link></li>
+                        </ul>
+                    </div>
+                    <div className="col-lg-7 col-xl-6">
+                        <div className="contact-info-wrap">
+                            <div className="contact-inner">
+                                <address className="address">
+                                    <h4 className="title">Contact Information</h4>
+                                    <p className=''>Level 3, Convention Tower<br /> World Trade Center, UAE </p>
+                                </address>
+                                <address className="address">
+                                    <span className='innovate-list-para'>We're Available 24/7. Call Now.</span>
+                                    <a href="tel:8884562790" className="tel"><FaPhone /> +971-501-599-266</a>
+                                    <a href="mailto:hello@dignifyd.ae" className="tel"><FaEnvelope /> hello@dignifyd.ae</a>
+                                </address>
+                            </div>
+                            <div className="contact-inner">
+                                <h5 className="title">Find us here</h5>
+                                <div className="contact-social-share">
+                                    <ul className="social-share list-unstyled">
+                                        <li>
+                                            <a target="_blank" href="https://www.instagram.com/dignifyd/?hl=en"><FaFacebookF /></a>
+                                        </li>
 
-            <li>
-              <Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link>
-            </li>
-          </ul>
-        </nav>
-        <div className="footer-top mt--100">
-          <div className="footer-social-link">
-            <ul className="list-unstyled">
-              <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
-                  <FaFacebookF />
-                </a>
-              </li>
-           
-             
-              <li>
-                <a target="_blank" href="https://in.linkedin.com/company/dignifyd">
-                  <FaLinkedin />
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.instagram.com/dignifyd/?hl=en">
-                  <FaInstagram />
-                </a>
-              </li>
-             
-          
-            
-            </ul>
-          </div>
-        </div>
-      </Offcanvas.Body>
-    </Offcanvas>
-  );
-};
+                                        <li>
+                                            <a target="_blank" href=""><FaInstagram /></a>
+                                        </li>
+                                        <li>
+                                            <a target="_blank" href="https://in.linkedin.com/company/dignifyd
+"><FaLinkedinIn /></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </Offcanvas.Body>
+        </Offcanvas>
+    )
+}
 
 export default OffcanvasMenu;

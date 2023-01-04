@@ -1,35 +1,35 @@
 [
     {
-        "image": "/images/icon/icon-1.png",
+        "image": "/images/graphic-designer/brandingLogo.png",
         "title": "Branding & Logo Design ",
         "description": "Leverage our expertise of building brands from scratch. Hire our professional graphic designers that offer a full range of design services for any brand- be it classic or quirky."
     },
     {
-        "image": "/images/icon/icon-2.png",
+        "image": "/images/graphic-designer/socialMediaGraphics.png",
         "title": "Social Media Graphics",
         "description": "Our visual designers are known for creating crisp and interactive social media designs. Each of your online posts will be made purely to engage the target audience"
     },
     {
-        "image": "/images/icon/icon-3.png",
+        "image": "/images/graphic-designer/infographics.png",
         "title": "Infographics Design",
         "description": "Our top Graphic designers help you create visually-compelling infographics that are easy to understand, remember, and embed. We ensure that each of your designs follow your brand guidelines."
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/graphic-designer/displayBanner.png",
         "title": "Display Banners Design",
         "description": "Our professional Graphic designers will creatively push your marketing efforts forward with the help of conversion-focused display banner design services. Be it static or dynamic HTML display banners, we can help.",
         "cate": "Design"
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/graphic-designer/landingPageDesigns.png",
         "title": "Landing Pages Design",
         "description": "Your branding and marketing campaign goals are the foundation of your landing page design. Hire full time graphic designers to guarantee that you stay on track with what’s expected, so your prospects can enjoy a seamless experience.",
         "cate": "Design"
     },
     {
-        "image": "/images/icon/icon-27.png",
+        "image": "/images/graphic-designer/websiteDesign.png",
         "title": "Website Design",
-        "description": "",
+        "description": "We have the perfect team of creative graphic designers for you! From start to finish, we'll be there with every step in designing a website that reflects your brand and stands out from all others.",
         "cate": "Design"
     }
     

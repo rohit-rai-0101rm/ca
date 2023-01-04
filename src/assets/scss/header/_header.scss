@@ -1,6 +1,3 @@
-/*-------------------------
-   Header Styles
--------------------------*/
 .axil-header {
     position: absolute;
     width: 100%;
@@ -571,8 +568,7 @@
 
 // Offcanvas Menu
 .header-offcanvasmenu {
-    width: 60vw;
-    min-width: 300px;
+    min-width: 60vw;
     background-color: var(--color-white);
     transition: all 0.8s cubic-bezier(0.77, 0.2, 0.05, 1);
      @media #{$smlg-device} {
