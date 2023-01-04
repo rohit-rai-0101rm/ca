@@ -22,6 +22,7 @@ import SectionTitle from "../elements/section-title/SectionTitle";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 import Testimonials from "./Testimonials";
 import ServiceData from "../data/service/ServiceMain.json";
+import ServiceProp3 from "../component/service/ServiceProp3";
 
 const DigitalAgency = () => {
   return (
@@ -70,7 +71,7 @@ const DigitalAgency = () => {
                 </h4>
               </center>
 
-              <ServicePropHome
+              <ServiceProp3
                 colSize="col-xl-4 col-md-6"
                 serviceStyle=""
                 itemShow="6"

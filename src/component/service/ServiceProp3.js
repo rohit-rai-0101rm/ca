@@ -16,13 +16,13 @@ const ServiceProp3 = ({colSize, serviceStyle, serviceData}) => {
 						</div>
 						<div className="content">
 							<h6 className="title"> 
-								<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.title)}`}>{data.title}</Link>
+								<Link >{data.title}</Link>
 							</h6>
 							<p>{data.description}</p>
 							<br/>
 							<br/>
 
-							<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.title)}`} className="more-btn">Find out more</Link>
+							<Link to={process.env.PUBLIC_URL + `/contact`} className="more-btn">Find out more</Link>
 						</div>
 					</div>
 			 	</div>

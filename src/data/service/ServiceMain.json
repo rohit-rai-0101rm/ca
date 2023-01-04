@@ -3,23 +3,23 @@
     {
         "image": "/images/icon/icon-2.png",
         "title": "Design",
-        "description": "With creativity backed by cutting-edge technology, we provide visual effect solutions for composing and producing new visuals for your brand.We realize how crucial it is for brands to have distinguished and appealing visuals. With our highly skilled team of professionals dedicated to delivering quality designing services to our clients, we produce just that. "
+        "description": "With creativity backed by cutting-edge technology, we provide visual effect solutions for composing and producing new visuals for your brand."
     },
     {
         "image": "/images/icon/icon-3.png",
         "title": "Digital marketing",
-        "description": "We are committed to leveraging different Digital Marketing channels to ensure higher value for our clients. The internet has become intertwined with all aspects of business, and integrated digital marketing strategies are more important than ever. We understand this shift and make sure that our marketing services give you effective ROI to increase the growth of your business."
+        "description": "We are committed to leveraging different Digital Marketing channels to ensure higher value for our clients."
     },
     {
         "image": "/images/icon/icon-34.png",
         "title": "SEO",
-        "description": "With our services, you can ensure that your business reaches a large set of audience. We focus on implementing research-based strategies to reach a larger target audience for our client’s business.  ",
+        "description": "With our services, you can ensure that your business reaches a large set of audience.",
         "cate": "Online Marketing"
     },
     {
         "image": "/images/icon/icon-27.png",
         "title": "Website Development",
-        "description": "Our team of developers combines our client’s vision with their expertise to achieve great results.The comprehensive experience we have enables us to envision creative projects and deliver them across all major industries. With an expert development team and professional employees always ready to guide you and consult you on the best possible practices, we ensure the stable development of new applications. ",
+        "description": "Our team of developers combines our client’s vision with their expertise to achieve great results.",
         "cate": "Design"
     },
    
@@ -27,7 +27,7 @@
     {
         "image": "/images/icon/icon-4.png",
         "title": "Manage Service Provider",
-        "description": "Our Digital Support Services help our clients power their digital growth.Managed by IT professionals and powered by superb team support at every step, our support services are always there to meet all your business needs.Our experts provide quick support and flexible response to increasing customer satisfaction within your audience. Our customer-driven approach results in productive and efficient use of resources so that all challenges customers are facing get solved with fast and reliable support. ",
+        "description": "Managed by IT professionals and powered by superb team support at every step, our support services are always there to meet all your business needs.",
         "cate": "Design"
     },
     {

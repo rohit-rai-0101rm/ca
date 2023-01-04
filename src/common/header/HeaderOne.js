@@ -5,6 +5,7 @@ import OffcanvasMenu from './OffcanvasMenu';
 import StickyHeader from './StickyHeader';
 import SwitcherHeader from '../../elements/switcher/SwitcherHeader';
 import MobileMenu from './MobileMenu';
+import { Link } from 'react-router-dom';
 
 
 const HeaderOne = () => {
@@ -44,10 +45,13 @@ const HeaderOne = () => {
                             simage="/images/dignifydLogo.png"
                             />
                         </div>
+                        <Link to="/">
                         <span className='logo-text'>
                         Dignifyd
 
                         </span>
+                        </Link>
+                      
                         <div className="header-main-nav">
                             <Nav />
                         </div>

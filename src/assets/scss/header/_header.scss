@@ -28,17 +28,15 @@
                     height: 10px;
                     }
                    
-            width: 50px;
             display: flex;
             align-items: center;
-            height: 90px;
             }
             img {
                 @media #{$sm-layout} {
                     width: 80px;
                     }
                    
-            width: 100px;
+            width: 90px;
             display: flex;
             align-items: center;
             height: 90px;
@@ -757,6 +755,7 @@
         }
     }
 }
+
 
 
 // Mobile Menu
