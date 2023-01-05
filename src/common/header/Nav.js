@@ -22,21 +22,7 @@ const Nav = () => {
 
                     </ul>
                 </li>
-<<<<<<< HEAD
-                <li className="menu-item-has-children">
-                    <Link to="#">Hire Top Talent <FaAngleDown /></Link>
-                    <ul className="axil-submenu">
-                        <li><Link to="/services/digital-marketing" >
-                        Digital Marketing
-                            <ul className='axil-submenu'>
-                            <li><Link to="/services/seo" >SEO</Link></li>
-                        <li><Link to="/services/web-development">Web Development</Link></li>
-                        <li><Link to="/services/design">Design</Link></li>
-                            </ul>
-                            
-                           </Link></li>
-                       
-=======
+
                 <li className="menu-item-has-children2">
                     <Link to="#">Hire Top Talent<FaAngleDown /></Link>
                     <ul className="axil-submenu2">
@@ -66,7 +52,6 @@ const Nav = () => {
                         </li>
 
 
->>>>>>> dev/b
 
                     </ul>
                   
@@ -74,11 +59,7 @@ const Nav = () => {
 
                 </li>
 
-<<<<<<< HEAD
-=======
 
-
->>>>>>> dev/b
                 <li className="menu-item-has-children">
                     <Link to="#">Services<FaAngleDown /></Link>
                     <ul className="axil-submenu">
@@ -92,10 +73,8 @@ const Nav = () => {
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> dev/b
+
                 <li><Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link></li>
             </ul>
         </nav>
