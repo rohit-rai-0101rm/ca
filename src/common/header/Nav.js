@@ -11,6 +11,7 @@ const Nav = () => {
                     <Link to="/">Home </Link>
 
                 </li>
+
                 <li className="menu-item-has-children">
                     <Link to="#">Why Dignifyd <FaAngleDown /></Link>
                     <ul className="axil-submenu">
@@ -21,6 +22,7 @@ const Nav = () => {
 
                     </ul>
                 </li>
+<<<<<<< HEAD
                 <li className="menu-item-has-children">
                     <Link to="#">Hire Top Talent <FaAngleDown /></Link>
                     <ul className="axil-submenu">
@@ -34,10 +36,49 @@ const Nav = () => {
                             
                            </Link></li>
                        
+=======
+                <li className="menu-item-has-children2">
+                    <Link to="#">Hire Top Talent<FaAngleDown /></Link>
+                    <ul className="axil-submenu2">
+                        <li>Digital Marketers
+                       
+                            <ul className='axil-submenu3'>
+                                <li>
+
+                                    SEM && PPC Specialist
+                                </li>
+                                <li>
+
+                                    SEO Specialist
+                                </li>
+
+                                <li>
+
+                                    Programmatic Specialist
+                                </li>
+
+
+                            </ul>
+                       
+
+
+
+                        </li>
+
+
+>>>>>>> dev/b
 
                     </ul>
+                  
+                 
+
                 </li>
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> dev/b
                 <li className="menu-item-has-children">
                     <Link to="#">Services<FaAngleDown /></Link>
                     <ul className="axil-submenu">
@@ -51,6 +92,10 @@ const Nav = () => {
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dev/b
                 <li><Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link></li>
             </ul>
         </nav>
