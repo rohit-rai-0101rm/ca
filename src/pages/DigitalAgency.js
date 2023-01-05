@@ -23,6 +23,7 @@ import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 import Testimonials from "./Testimonials";
 import ServiceData from "../data/service/ServiceMain.json";
 import ServiceProp3 from "../component/service/ServiceProp3";
+import UncontrolledExample from "../common/Carousel";
 
 const DigitalAgency = () => {
   return (
@@ -103,6 +104,7 @@ const DigitalAgency = () => {
         <AboutFour />
         <Innovate />
         <TestimonialOne />
+       
         {
           /*
         <CounterUpOne />

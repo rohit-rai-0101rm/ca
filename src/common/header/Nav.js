@@ -27,7 +27,7 @@ const Nav = () => {
                     <Link to="#">Hire Top Talent<FaAngleDown /></Link>
                     <ul className="axil-submenu2">
                         <li>Digital Marketers
-                       
+
                             <ul className='axil-submenu3'>
                                 <li>
 
@@ -45,7 +45,7 @@ const Nav = () => {
 
 
                             </ul>
-                       
+
 
 
 
@@ -54,8 +54,8 @@ const Nav = () => {
 
 
                     </ul>
-                  
-                 
+
+
 
                 </li>
 
