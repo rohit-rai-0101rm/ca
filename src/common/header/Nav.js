@@ -25,8 +25,11 @@ const Nav = () => {
 
                 <li className="menu-item-has-children2">
                     <Link to="#">Hire Top Talent<FaAngleDown /></Link>
-                    <ul className="axil-submenu2">
-                        <li>Digital Marketers
+                    <div>
+                        <ul className="axil-submenu2">
+
+
+                            Digital Marketers<FaAngleRight />
 
                             <ul className='axil-submenu3'>
                                 <li>
@@ -49,11 +52,14 @@ const Nav = () => {
 
 
 
-                        </li>
 
 
 
-                    </ul>
+                        </ul>
+                    </div>
+
+
+
 
 
 

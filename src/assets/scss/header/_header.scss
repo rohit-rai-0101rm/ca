@@ -1380,41 +1380,7 @@
                     }
                 }
             }
-            .menu-item-has-children-hireTopTalent {
-                .axil-submenu2 {
-                    display: none;
-                    position: initial;
-                    visibility: visible;
-                    opacity: 1;
-                    min-width: 100%;
-                    box-shadow: none;
-                    padding: 0 0 10px;
-                    transition: initial;
-
-                    li {
-                        opacity: 1;
-                        transform: translateX(0);
-
-                        a {
-                            padding: 7px 10px;
-
-                            &::after {
-                                display: none;
-                            }
-                        }
-                    }
-
-                    &.active {
-                        display: block;
-                    }
-                }
-
-                &.menu-item-has-children-hireTopTalent {
-                    .axil-submenu2 {
-                        display: block;
-                    }
-                }
-            }
+          
         }
     }
 
