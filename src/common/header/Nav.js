@@ -29,31 +29,38 @@ const Nav = () => {
                         <ul className="axil-submenu2">
 
 
-                            Digital Marketers<FaAngleRight />
-
-                            <ul className='axil-submenu3'>
-                                <li>
-
-                                    SEM && PPC Specialist
-                                </li>
-                                <li>
-
-                                    SEO Specialist
-                                </li>
-
-                                <li>
-
-                                    Programmatic Specialist
-                                </li>
-
-
-                            </ul>
 
 
 
+                            <li>Digital Marketers <FaAngleRight />
 
+                                <ul className="axil-submenu3">
+                                    <li><Link to={process.env.PUBLIC_URL + "/about"}>About</Link></li>
+                                    <li><Link to="/how-it-works">How it works</Link></li>
+                                    <li><Link to="/why-india" >Why India</Link></li>
+                                    <li><Link>Pricing</Link></li>
 
+                                </ul>
 
+                            </li>
+
+                            <li>Web Developers <FaAngleRight /> 
+                            
+                            <ul className="axil-submenu4">
+                                    <li><Link to={process.env.PUBLIC_URL + "/about"}>About2</Link></li>
+                                    <li><Link to="/how-it-works">How it works2</Link></li>
+                                    <li><Link to="/why-india" >Why India2</Link></li>
+                                    <li><Link>Pricing2</Link></li>
+
+                                </ul>
+
+                            
+                            </li>
+                            <li>Designers <FaAngleRight /> </li>
+
+                            <li>Salesforce Expert <FaAngleRight /> </li>
+                            <li>Software Developers<FaAngleRight /> </li>
+                            <li>Mobile App Developers<FaAngleRight /> </li>
 
                         </ul>
                     </div>
