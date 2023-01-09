@@ -69,11 +69,27 @@ const Nav = () => {
                                     PHP        Developer
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Wordpress Developer                            </Dropdown.Item>
+                                    <Link to="hire-wordpress-developers">
+                                        Wordpress Developer
+
+                                    </Link>
+
+
+
+
+                                </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Wordpress Plugin Developer                              </Dropdown.Item>
-                                <Dropdown.Item>
-                                    Wordpress Designer                             </Dropdown.Item>
+
+                                    <Link to="/hire-wordpress-plugin-developer">
+                                        Wordpress Plugin Developer
+                                    </Link>
+                                </Dropdown.Item>
+
+                                <Link to="/hire-wordpress-designer">
+                                    <Dropdown.Item>
+                                        Wordpress Designer                             </Dropdown.Item>
+                                </Link>
+
 
                             </Dropdown.Submenu>
                         </Dropdown.Item>

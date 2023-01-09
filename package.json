@@ -30,6 +30,10 @@
   "scripts": {
     "build": "react-scripts  --openssl-legacy-provider build ",
     "start": "react-scripts  --openssl-legacy-provider start ",
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 4c94c7affd3d62877eae7f8eb97bdd2636af9ca0
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
