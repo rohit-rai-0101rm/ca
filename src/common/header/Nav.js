@@ -32,21 +32,26 @@ const Nav = () => {
                     >
                         <Dropdown.Item className='axil-submenu2'>
                             Digital Marketers <FaAngleRight />
+
                             <Dropdown.Submenu position="right">
                                 <Link to="/hire-ppc-expert">
+                                </Link>
+
+                                    <div className='biggerbox'>
                                     <Dropdown.Item>
                                         SEM && PPC specialist
                                     </Dropdown.Item>
-                                </Link>
 
                                 <Dropdown.Item>
                                     SEO Specialist                            </Dropdown.Item>
                                 <Dropdown.Item>
                                     Programmatic Specialist                            </Dropdown.Item>
+                                    </div>
+                                    
                             </Dropdown.Submenu>
                         </Dropdown.Item>
                         <Dropdown.Item>
-                            Web Developers   <FaAngleRight />                        <Dropdown.Submenu position="right">
+                            Web Developers   <FaAngleRight />      <Dropdown.Submenu position="right">
                                 <Dropdown.Item>
                                     React JS
                                 </Dropdown.Item>
