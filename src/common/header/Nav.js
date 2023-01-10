@@ -39,13 +39,17 @@ const Nav = () => {
 
                                     <div className='biggerbox'>
                                     <Dropdown.Item>
+                                        <Link to="/hire-ppc-expert">
                                         SEM && PPC specialist
+
+                                        </Link>
                                     </Dropdown.Item>
 
                                 <Dropdown.Item>
-                                    SEO Specialist                            </Dropdown.Item>
-                                <Dropdown.Item>
-                                    Programmatic Specialist                            </Dropdown.Item>
+                                    <Link to="/hire-seo-expert">   SEO Specialist   </Link>
+                                    </Dropdown.Item>
+                                <Dropdown.Item> 
+                                  <Link to="/programmatic-advertising">  Programmatic Specialist </Link>                           </Dropdown.Item>
                                     </div>
                                     
                             </Dropdown.Submenu>
@@ -53,23 +57,27 @@ const Nav = () => {
                         <Dropdown.Item>
                             Web Developers   <FaAngleRight />      <Dropdown.Submenu position="right">
                                 <Dropdown.Item>
-                                    React JS
+                                  <Link to="/hire-reactjs-developers">  React JS</Link>
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Angular JS
+                                   <Link to="/hire-angularjs-developers"> Angular JS</Link>
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Node JS
+                                    <Link to="/hire-nodejs-developers">   Node JS</Link>
+                                 
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Laravel JS                            </Dropdown.Item>
-                                <Dropdown.Item>
-                                    Shopify        Developer                    </Dropdown.Item>
-                                <Dropdown.Item>
-                                    PHP        Developer
+                                    <Link to= "/hire-laravel-developers">    Laravel JS   </Link>
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    <Link to="hire-wordpress-developers">
+                                    <Link to="/hire-shopify-developers"> Shopify        Developer  </Link>
+                                </Dropdown.Item>
+                                <Dropdown.Item>
+                                    <Link to="/hire-php-developers">   PHP        Developer</Link>
+                                 
+                                </Dropdown.Item>
+                                <Dropdown.Item>
+                                    <Link to="/hire-wordpress-developers">
                                         Wordpress Developer
 
                                     </Link>
@@ -87,7 +95,8 @@ const Nav = () => {
 
                                 <Link to="/hire-wordpress-designer">
                                     <Dropdown.Item>
-                                        Wordpress Designer                             </Dropdown.Item>
+                                        <Link to="/hire-wordpress-designer">Wordpress Designer </Link>
+                                    </Dropdown.Item>
                                 </Link>
 
 
@@ -96,44 +105,55 @@ const Nav = () => {
                         <Dropdown.Item>
                             Designers     <FaAngleRight />                     <Dropdown.Submenu position="right">
                                 <Dropdown.Item>
-                                    Graphics Designers                            </Dropdown.Item>
+                                    <Link to="/hire-graphic-designers">    Graphics Designers </Link>
+                                </Dropdown.Item>
                                 <Dropdown.Item>
-                                    UX/UI Designer                           </Dropdown.Item>
+                                    <Link to ="/hire-ui-ux-designers">   UX/UI Designer  </Link>
+                                </Dropdown.Item>
                             </Dropdown.Submenu>
                         </Dropdown.Item>
                         <Dropdown.Item>
                             Salesforce Expert  <FaAngleRight />                        <Dropdown.Submenu position="right">
                                 <Dropdown.Item>
-                                    Salesforce Developer
+                                    <Link to ="/hire-salesforce-developer">  Salesforce Developer</Link>
+                                  
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Salesforce Administrator
+                                    <Link to="/hire-salesforce-administrator">        Salesforce Administrator</Link>
+                                    
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Salesforce Consultant
+                                    <Link to ="/hire-salesforce-consultant">    Salesforce Consultant</Link>
+                                
                                 </Dropdown.Item>
                             </Dropdown.Submenu>
                         </Dropdown.Item>
                         <Dropdown.Item>
                             Software Developers <FaAngleRight />                       <Dropdown.Submenu position="right">
                                 <Dropdown.Item>
-                                    Java Developer                            </Dropdown.Item>
+                                    <Link to="/hire-java-developers"> Java Developer  </Link>
+                                </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Python Developer                            </Dropdown.Item>
+                                    <Link to ="/hire-python-developers">  Python Developer </Link>
+                                </Dropdown.Item>
                                 <Dropdown.Item>
-                                    .NET Developer                            </Dropdown.Item>
+                                    <Link to="/hire-dot-net-developers">   .NET Developer    </Link>
+                                </Dropdown.Item>
                             </Dropdown.Submenu>
                         </Dropdown.Item>
                         <Dropdown.Item>
                             Mobile App Developers  <FaAngleRight />                         <Dropdown.Submenu position="right">
                                 <Dropdown.Item>
-                                    ios Developer
+                                    <Link to="/hire-ios-developers"> ios Developer</Link>
+                                   
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    Android Developer
+                                    <Link to="/hire-android-developers">  Android Developer</Link>
+                                  
                                 </Dropdown.Item>
                                 <Dropdown.Item>
-                                    React Native Developer
+                                    <Link to="/hire-react-native-developers">  React Native Developer</Link>
+                                  
                                 </Dropdown.Item>
                             </Dropdown.Submenu>
                         </Dropdown.Item>

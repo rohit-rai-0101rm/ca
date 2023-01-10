@@ -43,8 +43,9 @@ const LaravelDevelopers = () => {
         <HeaderOne />
         <HireLaravelDeveloperIntro/>
 
-        <LaravelSection/>
+      
         <ReactProcess/>
+        <LaravelSection/>
 
         <AdvantageSection/>
         <LaravelBestChoice/>

@@ -34,10 +34,11 @@ const AngularDevelopers = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireNodeDeveloperIntro />
-        <AdvantageSection/>
+       
 
         <ReactProcess/>
         <NodeSection/>
+        <AdvantageSection/>
         <NodeBestChoice/>
         <FrequentlyAsked3/>
         <CtaLayoutOne /> 

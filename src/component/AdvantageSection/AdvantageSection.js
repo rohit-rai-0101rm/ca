@@ -5,7 +5,7 @@ import ServicePropThree from '../service/ServicePropThree'
 const AdvantageSection = () => {
   return (
     <div>  
-    <div className="section section-padding-2 bg-color-dark">
+    <div className="section section-padding-2 bg-color-ship-gray">
         <div className="container">
         <center>
         <h4 className='coloringtext'>The DIgnifyd Advantage</h4>

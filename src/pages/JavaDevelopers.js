@@ -31,9 +31,10 @@ const JavaDevelopers = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireJavaDeveloperIntro />
-        <ReactSection/>
+        
      
         <ReactProcess/>
+        <ReactSection/>
         <AdvantageSection/>
         <ReactBestChoice/>
         <ReactImportantSkills/>

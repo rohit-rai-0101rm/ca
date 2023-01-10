@@ -31,8 +31,9 @@ const AngularDevelopers = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireAngularDeveloperIntro />
-        <AngularSection/>
+       
         <ReactProcess/>
+        <AngularSection/>
 
         <AdvantageSection/>
         <AngularImportantSkills/>

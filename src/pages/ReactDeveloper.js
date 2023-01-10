@@ -29,10 +29,11 @@ const ReactDeveloper = () => {
     <main className="main-wrapper">
         <HeaderOne />
         <HireDevelopersIntro />
-        <ReactSection/>
-     
         <ReactProcess/>
+        <ReactSection/>
         <AdvantageSection/>
+      
+       
         <ReactBestChoice/>
         <ReactImportantSkills/>
         <FrequentlyAsked/>

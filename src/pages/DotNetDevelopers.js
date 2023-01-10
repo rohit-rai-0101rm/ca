@@ -40,10 +40,11 @@ const DotNetDevelopers = () => {
         <DotNetDevelopersIntro />
         <DotNetDevelopersSectionHire />
         <ReactProcess />
+        <NodeSection />
         <AdvantageSection />
 
         
-        <NodeSection />
+        
         <DotNetBestChoice />
         <FaqDotNet />
         <CtaLayoutOne />
