@@ -16,9 +16,29 @@ const Nav = () => {
                     <Link to="#">Why Dignifyd <FaAngleDown /></Link>
                     <ul className="axil-submenu">
                         <li><Link to={process.env.PUBLIC_URL + "/about"}>About</Link></li>
+                        <ul className='axil-submenuuuuu'>
+                            <li><a href="#">html</a></li>
+                            <li><a href="#">html</a></li>
+                            <li><a href="#">html</a></li>
+                        </ul>
                         <li><Link to="/how-it-works">How it works</Link></li>
+                        <ul className='axil-submenuuuuu'>
+                            <li><a href="#">html</a></li>
+                            <li><a href="#">html</a></li>
+                            <li><a href="#">html</a></li>
+                        </ul>
                         <li><Link to="/why-india" >Why India</Link></li>
+                        <ul className='axil-submenuuuuu'>
+                            <li><a href="#">html</a></li>
+                            <li><a href="#">html</a></li>
+                            <li><a href="#">html</a></li>
+                        </ul>
                         <li><Link>Pricing</Link></li>
+                        <ul className='axil-submenuuuuu'>
+                            <li><a href="#">html6</a></li>
+                            <li><a href="#">html</a></li>
+                            <li><a href="#">html</a></li>
+                        </ul>
 
                     </ul>
                 </li>
@@ -33,7 +53,7 @@ const Nav = () => {
                                     SEM && PPC Specialist
                                 </li>
                                 <li>
-
+ 
                                     SEO Specialist
                                 </li>
 
