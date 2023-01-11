@@ -57,7 +57,7 @@ const PythonDevelopoers = () => {
 
         <FaqPython />
         <CtaLayoutOne />
-        <FooterOne parentClass="" />
+        <FooterOne/>
       </main>
     </>
   );
