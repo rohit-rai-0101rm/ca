@@ -14,7 +14,7 @@ const AccessTalentPython = () => {
           Land India’s top remote talent with Uplers
 
           </h3>
-          <p className="innovate-list-para">Access the talent network of 50,000+ skilled experts with 100+ skill sets
+          <p className="innovate-list-para">Access the talent pool of 50,000+ skilled professionals with knowledge of more than 20 tech stacks
 
 </p>
         </div>
