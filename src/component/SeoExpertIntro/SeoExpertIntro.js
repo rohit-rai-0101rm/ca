@@ -22,7 +22,7 @@ const SeoExpertIntro = () => {
 </h1>
                                 <p className="innovate-list-para">Having worked with a variety of clients ranging from global brands, agencies to bootstrapping startups - our professional SEO Experts have delegated promising results to maximize their ROIs.</p>
                                
-                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Hire a SEo Expert</Link>
+                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Hire a SEO Expert</Link>
                             </center>
                             </AnimationOnScroll>
                         </div>

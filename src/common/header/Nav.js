@@ -129,7 +129,7 @@ const Nav = () => {
                             </Dropdown.Submenu>
                         </Dropdown.Item>
                         <Dropdown.Item>
-                            Software Developers <FaAngleRight />                       <Dropdown.Submenu position="right">
+                            Software Developers <FaAngleRight />      <Dropdown.Submenu position="right">
                                 <Dropdown.Item>
                                     <Link to="/hire-java-developers"> Java Developer  </Link>
                                 </Dropdown.Item>
