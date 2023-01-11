@@ -7,11 +7,11 @@ const allData = TeamData;
 
 const AccessTalentPython = () => {
   return (
-    <div className="section section-padding-team bg-color-dark pb--70 pb_lg--20 pb_md--0">
+    <div className="section section-padding bg-color-dark pb--70 pb_lg--20 pb_md--0">
       <div className="container">
         <div className="section-heading heading-light">
-          <h3 className="title mt--120">
-          Land India’s top remote talent with Uplers
+          <h3 className="title mt--100">
+          Land India’s top remote talent with Dignifyd
 
           </h3>
           <p className="innovate-list-para">Access the talent pool of 50,000+ skilled professionals with knowledge of more than 20 tech stacks

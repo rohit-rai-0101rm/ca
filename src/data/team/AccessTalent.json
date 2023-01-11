@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "/images/remoteTalent/reacticon22.svg",
+        "thumb": "/images/remoteTalent/react.svg",
         "title": "React Js",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
@@ -19,7 +19,6 @@
         "id": 2,
         "thumb": "/images/remoteTalent/angular-icon.svg",
         "title": "AngularJS",
-   
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -36,7 +35,6 @@
         "id": 3,
         "thumb": "/images/remoteTalent/node-icon.svg",
         "title": "NodeJs",
-      
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -53,7 +51,6 @@
         "id": 4,
         "thumb": "/images/remoteTalent/laravel-icon.svg",
         "title": "Laravel",
-     
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -70,7 +67,6 @@
         "id": 5,
         "thumb": "/images/remoteTalent/shopify-icon.svg",
         "title": "Shopify",
-      
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -87,7 +83,6 @@
         "id": 6,
         "thumb": "/images/remoteTalent/php-icon.svg",
         "title": "PhP",
-        
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -104,7 +99,6 @@
         "id": 7,
         "thumb": "/images/remoteTalent/wordpress-icon.svg",
         "title": "WordPress",
-       
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -121,7 +115,6 @@
         "id": 8,
         "thumb": "/images/remoteTalent/ux-ui-icon.svg",
         "title": "UI/UX",
-      
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -154,7 +147,6 @@
         "id": 10,
         "thumb": "/images/remoteTalent/java-icon.svg",
         "title": "Java",
-       
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -171,7 +163,6 @@
         "id": 11,
         "thumb": "/images/remoteTalent/python-icon.svg",
         "title": "Python",
-    
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -188,7 +179,6 @@
         "id": 12,
         "thumb": "/images/remoteTalent/net-icon.svg",
         "title": ".NET",
-    
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -205,7 +195,6 @@
         "id": 13,
         "thumb": "/images/remoteTalent/ios-icon.svg",
         "title": "ios",
-    
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -222,7 +211,6 @@
         "id": 14,
         "thumb": "/images/remoteTalent/android-icon.svg",
         "title": "Android",
-      
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -239,7 +227,6 @@
         "id": 15,
         "thumb": "/images/remoteTalent/native-icon.svg",
         "title": "React Native",
-      
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -256,7 +243,6 @@
         "id": 16,
         "thumb": "/images/remoteTalent/seo-icon.svg",
         "title": "SEO",
-       
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -270,10 +256,9 @@
         }
     },
     {
-        "id": 13,
+        "id": 17,
         "thumb": "/images/remoteTalent/programatic-icon.svg",
         "title": "Programmatic Ads",
-        
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -287,10 +272,9 @@
         }
     },
     {
-        "id": 14,
+        "id": 18,
         "thumb": "/images/remoteTalent/sem-icon.svg",
         "title": "SEM",
-    
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -304,10 +288,9 @@
         }
     },
     {
-        "id": 15,
+        "id": 19,
         "thumb": "/images/remoteTalent/ppc-icon.svg",
         "title": "PPC",
-   
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -321,10 +304,9 @@
         }
     },
     {
-        "id": 16,
+        "id": 20,
         "thumb": "/images/remoteTalent/salesforce-icon.svg",
         "title": "Salesforce",
- 
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",

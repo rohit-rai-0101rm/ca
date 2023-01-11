@@ -18,17 +18,11 @@ const RemoteEngineer = () => {
             <div className="col-xl-3 col-sm-6" key={data.id}>
               <div className="team-grid">
                 <div className="thumbnail">
-                  <Link
-                    to={
-                      process.env.PUBLIC_URL +
-                      `/team-details/${slugify(data.title)}`
-                    }
-                  >
+             
                     <img
                       src={process.env.PUBLIC_URL + data.thumb}
                       alt={data.title}
                     />
-                  </Link>
                 </div>
                 <div className="content">
               
