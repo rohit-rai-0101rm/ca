@@ -12,6 +12,7 @@ import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
 import FrequentlyAsked15 from '../component/FrequentlyAsked/FrequentlyAsked15'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import HireJavaDeveloperIntro from '../component/HireDevelopers/HireJavaDeveloperIntro'
+import JavaSection from '../component/JavaSection/JavaSection'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
 import ReactBestChoice from '../component/ReactBestChoice/ReactBestChoice'
@@ -34,7 +35,7 @@ const JavaDevelopers = () => {
         
      
         <ReactProcess/>
-        <ReactSection/>
+        <JavaSection/>
         <AdvantageSection/>
         <ReactBestChoice/>
         <ReactImportantSkills/>

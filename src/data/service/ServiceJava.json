@@ -1,0 +1,38 @@
+
+[
+    {
+        "image": "/images/wordpress-plugin/customPluginDevelopment.png",
+        "title": "Java API Integration",
+        "description": "Our top Java programmers offer API integration to give you existing projects an upgrade you never thought you needed. Above that, they will make sure you get top-notch security as well!"
+    },
+    {
+        "image": "/images/wordpress-plugin/pluginCustomization.png",
+        "title": "Java Software Development",
+        "description": "By incorporating the latest cutting-edge technological features that fit well with your expectations, our Java Developers commit to providing you with the best software development services."
+    },
+    {
+        "image": "/images/wordpress-plugin/pluginCustomization.png",
+        "title": "Java CMS Development",
+        "description": "Java ensures enterprise-grade security, and CMSs offer the convenience of managing content dynamically, making it the first choice of big organizations. Hire Java Developers from Uplers who could develop the best Java CMSs."
+    },
+    {
+        "image": "/images/wordpress-plugin/pluginIntegration.png",
+        "title": "Custom Java Development",
+        "description": "Our team of remote Java developers would integrate their skills and expertise with other business functions to create an elegant and custom solution that perfectly meets your unique and business-centric requirements!"
+    },
+    {
+        "image": "/images/wordpress-plugin/advancePluginDevelopment.png",
+        "title": "Java Mobile App Development",
+        "description": "Hire our dedicated Java programmers and you will be able to work with a team of talented individuals who can help design the perfect user interface. We offer features rich apps in both Android or iOS setups, all fully secure against hackers.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Java Web App Development",
+        "description": "Benefit from the expertise of our Full-stack Java Developers proficient with popular Java technologies such as Spring Boot, Hibernate, J2EE, Micro services, JSF, JSP Servlets, etc. and get highly scalable web-based solutions.",
+        "cate": "Design"
+    }
+ 
+ 
+    
+]
