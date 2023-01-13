@@ -25,3 +25,5 @@ export const formReducer = (
             return state;
     }
 };
+//reducer 1. initial state
+      //  2. action 

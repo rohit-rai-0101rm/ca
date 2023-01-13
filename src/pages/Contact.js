@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import SEO from "../common/SEO";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 import FooterOne from "../common/footer/FooterOne";

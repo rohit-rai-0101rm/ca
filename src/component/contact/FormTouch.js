@@ -11,6 +11,13 @@ const Result = () => {
 };
 
 const FormTouch = () => {
+  const [name, setName] = useState(null)
+  const [email, setEmail] = useState(null)
+const handleNameChange=(e)=>{
+  setName(e.target.value)
+
+}
+console.log("name",name)
   const form = useRef();
 
   const [result, showresult] = useState(false);
@@ -46,6 +53,7 @@ const FormTouch = () => {
    
       <div className="form-group">
         <input
+        onChange={(e)=>handleNameChange(e)}
           placeholder="Full Name*"
           type="text"
           className="form-control"
