@@ -1,7 +1,7 @@
 import { GET_IN_TOUCH_FAILURE, GET_IN_TOUCH_REQUEST, GET_IN_TOUCH_SUCCESS } from "../constants/formConstants";
 
 export const formReducer = (
-    state = { formReducer: {} },
+    state = { formApiResponse: {} },
     action
 ) => {
     switch (action.type) {
@@ -14,10 +14,14 @@ export const formReducer = (
             return {
                 ...state,
                 loading: false,
+                success:true,
+                formApiResponse:action.payload
             };
         case GET_IN_TOUCH_FAILURE:
             return {
                 ...state,
+                success:false,
+
                 loading: false,
                 error: action.payload,
             }

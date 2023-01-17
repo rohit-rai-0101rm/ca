@@ -21,6 +21,7 @@ import BcrumbBannerTouch from "../elements/breadcrumb/BcrumbBannerTouch";
 import FormTouch from "../component/contact/FormTouch";
 
 const Contact = () => {
+  
   return (
     <>
       <SEO title="Blog Grid" />

@@ -1,8 +1,9 @@
-import React, { useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import Alert from "react-bootstrap/Alert";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { contactUsApi } from "../../actions/formActions";
+import { useAlert } from "react-alert";
 
 const Result = () => {
 
@@ -14,6 +15,8 @@ const Result = () => {
 };
 
 const FormTouch = () => {
+  const alert = useAlert()
+  const { loading, error, success, formApiResponse } = useSelector((state) => state.form)
   const dispatch = useDispatch()
   const [name, setName] = useState(null)
   const [email, setEmail] = useState(null)
@@ -87,7 +90,19 @@ const FormTouch = () => {
     console.log()
     dispatch(contactUsApi(name, email, company, phone, discription, time, formType))
   }
+  useEffect(() => {
 
+    if (error) {
+      alert.error(error);
+    }
+
+
+    if (success) {
+      alert.success("form submitted successfully");
+
+    }
+
+  }, [dispatch, alert, error, success]);
   return (
     <form ref={form} onSubmit={(e) => handleFormSubmit(e)} className="axil-contact-form">
 

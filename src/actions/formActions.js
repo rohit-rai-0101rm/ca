@@ -6,12 +6,13 @@ export const contactUsApi=(name,email,company,phone,projectDescription,withinEig
         dispatch({
             type:GET_IN_TOUCH_REQUEST
         })
-        const {data}=await axios.post(`/api/v1/contact-us/new`,
+        const {data}=await axios.post(`http://localhost:5000/api/v1/contact-us/new`,
         {name,email,company,phone,projectDescription,withinEightDays,formType})
+        console.log(data)
 
         dispatch({
             type:GET_IN_TOUCH_SUCCESS,
-            payload:data.user
+            payload:data.contactUsResponse
         })
     }
     catch(error){
