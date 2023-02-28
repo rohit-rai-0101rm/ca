@@ -3,7 +3,7 @@
         "id": 1,
         "thumb": "/images/team/paavan.png",
         "title": "Paavan Ahuja",
-        "designation": "Founder & CEO",
+        "designation": "Chief Operating Officer",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -18,9 +18,9 @@
     },
     {
         "id": 2,
-        "thumb": "/images/team/sudeep.jpeg",
-        "title": "Sudeep Singh",
-        "designation": "CTO",
+        "thumb": "/images/team/lalit.jpeg",
+        "title": "Lalit Mata",
+        "designation": "Executive Director",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
@@ -35,9 +35,9 @@
     },
     {
         "id": 3,
-        "thumb": "/images/team/pradeep.jpeg",
-        "title": "Pradeep  Ahuja",
-        "designation": "Chairman",
+        "thumb": "/images/team/rahil.jpeg",
+        "title": "Rahil Hassan",
+        "designation": "Chief executive officer",
         "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
         "social": {
             "facebook": "https://www.facebook.com/",
