@@ -14,7 +14,7 @@ const BannerOne = () => {
                                 <h1 className="title">innovative.<br/>bold.<br/>effective.</h1>
                                
 
-                                <span className="subtitle">Jumpstart your <strong>Digital Journey with Dignifyd!</strong>  We create websites and apps, devise growth strategies, and develop a brand identity.</span>
+                                <span className="subtitle">Jumpstart your <strong>Digital Journey with NXG!</strong>  We create websites and apps, devise growth strategies, and develop a brand identity.</span>
                                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">
                                     Schedule a free consultation</Link>
                             </AnimationOnScroll>
