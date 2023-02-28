@@ -25,7 +25,7 @@ const FooterOne = ({ parentClass }) => {
           <div className="footer-social-link">
             <ul className="list-unstyled">
               <li>
-                <a target="_blank" href="https://www.facebook.com/dignifydsolutions/">
+                <a target="_blank" href="https://www.linkedin.com/company/nxgtechae/about/">
                   <FaFacebookF />
                 </a>
               </li>
@@ -37,7 +37,7 @@ const FooterOne = ({ parentClass }) => {
                 </a>
               </li>
               <li>
-                <a target="_blank" href="https://www.instagram.com/dignifyd/?hl=en">
+                <a target="_blank" href="https://www.linkedin.com/company/nxgtechae/about/">
                   <FaInstagram />
                 </a>
               </li>
@@ -52,11 +52,8 @@ const FooterOne = ({ parentClass }) => {
             <div className="col-xl-6 col-lg-5">
               <div className="footer-widget border-end">
 
-                <img className="footerLogo" src="/images/dignifydLogo.png" />
-                <span className='logo-text'>
-                  NXG
-
-                </span>
+                <img className="" src="/images/logoLight.png" />
+              
               </div>
 
             </div>
