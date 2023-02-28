@@ -29,10 +29,10 @@ const FooterOne = ({ parentClass }) => {
                   <FaFacebookF />
                 </a>
               </li>
-           
-             
+
+
               <li>
-                <a target="_blank" href="https://in.linkedin.com/company/dignifyd">
+                <a target="_blank" href="https://www.linkedin.com/company/nxgtechae/about/">
                   <FaLinkedin />
                 </a>
               </li>
@@ -41,9 +41,9 @@ const FooterOne = ({ parentClass }) => {
                   <FaInstagram />
                 </a>
               </li>
-             
-          
-            
+
+
+
             </ul>
           </div>
         </div>
@@ -51,16 +51,16 @@ const FooterOne = ({ parentClass }) => {
           <div className="row">
             <div className="col-xl-6 col-lg-5">
               <div className="footer-widget border-end">
-              
-                <img className="footerLogo" src="/images/dignifydLogo.png"/>
-                <span className='logo-text'>
-                        Dignifyd
 
-                        </span>
+                <img className="footerLogo" src="/images/dignifydLogo.png" />
+                <span className='logo-text'>
+                  NXG
+
+                </span>
               </div>
-              
+
             </div>
-            
+
             <div className="col-xl-6 col-lg-7">
               <div className="row">
                 <div className="col-sm-6">
@@ -71,7 +71,7 @@ const FooterOne = ({ parentClass }) => {
                         {getServiceData.slice(0, 6).map((data, index) => (
                           <li key={index}>
                             <Link
-                              
+
                             >
                               {data.title}
                             </Link>
@@ -93,8 +93,7 @@ const FooterOne = ({ parentClass }) => {
                                 className="px-2 footerContact"
                                 src="/images/contact/email.svg"
                               />
-                              hello@dignifyd.ae
-                            </div>
+                              info@nxgtech.io                            </div>
                           </Link>
                         </li>
                         <li>
@@ -110,17 +109,17 @@ const FooterOne = ({ parentClass }) => {
                           </Link>
                         </li>
                         <li>
-                         
-                            <div className="d-flex flex-row">
-                              <img
-                                className="px-2 footerContact"
-                                src="/images/contact/website.svg"
-                              />
-                              <a href="https://in.linkedin.com/company/dignifyd"  target="blank">
-                              www.dignifyd.ae
-                              </a>
-                              {" "}
-                            </div>{" "}
+
+                          <div className="d-flex flex-row">
+                            <img
+                              className="px-2 footerContact"
+                              src="/images/contact/website.svg"
+                            />
+                            <a href="" target="blank">
+                              nxgtech.io
+                            </a>
+                            {" "}
+                          </div>{" "}
                         </li>
                       </ul>
                     </div>
@@ -136,9 +135,9 @@ const FooterOne = ({ parentClass }) => {
               <div className="footer-copyright">
                 <span className="copyright-text">
                   © {new Date().getFullYear()}. All rights reserved by{" "}
-                  <a href="https://in.linkedin.com/company/dignifyd"  target="blank">
-                  <strong>Dignifyd</strong> Digital Solutions.
-                              </a>
+                  <a href="https://in.linkedin.com/company/dignifyd" target="blank">
+                    <strong>NXG</strong>  Technologies.
+                  </a>
                 </span>
               </div>
             </div>

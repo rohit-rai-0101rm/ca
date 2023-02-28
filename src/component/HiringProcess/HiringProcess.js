@@ -18,8 +18,8 @@ const HiringProcess = () => {
       <div className="container">
         <div className={`process-work`}>
           <Tilty perspective={2000}>
-            <div className="thumbnail">
-              <img src="/images/others/process-1.png" alt="Thumbnail" />
+            <div className="">
+              <img src="/images/googleAdProcess/shareJd.png" alt="Thumbnail" />
             </div>
           </Tilty>
           <div className="content">
@@ -87,8 +87,8 @@ const HiringProcess = () => {
             </div>
           </div>
           <Tilty perspective={2000}>
-            <div className="thumbnail">
-              <img src="/images/others/process-1.png" alt="Thumbnail" />
+            <div className="">
+              <img src="/images/googleAdProcess/shortlistTalent.png" alt="Thumbnail" />
             </div>
           </Tilty>
         </div>
@@ -96,8 +96,8 @@ const HiringProcess = () => {
       <div className="container">
         <div className={`process-work`}>
           <Tilty perspective={2000}>
-            <div className="thumbnail">
-              <img src="/images/others/process-1.png" alt="Thumbnail" />
+            <div className="">
+              <img src="/images/googleAdProcess/job-interview.png" alt="Thumbnail" />
             </div>
           </Tilty>
           <div className="content">
@@ -171,8 +171,8 @@ const HiringProcess = () => {
             </div>
           </div>
           <Tilty perspective={2000}>
-            <div className="thumbnail">
-              <img src="/images/others/process-1.png" alt="Thumbnail" />
+            <div className="">
+            <img src="/images/googleAdProcess/onboard.png" alt="Thumbnail" />
             </div>
           </Tilty>
         </div>

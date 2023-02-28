@@ -10,7 +10,7 @@ const BuiltDignifyd = () => {
             <div className="case-study-featured">
               <div className="section-heading heading-left">
                 <h2 className="titleUnique">
-                  We’ve built <strong className="uniqueBold">Dignifyd</strong> to bring businesses{" "}
+                  We’ve built <strong className="uniqueBold">NXG Technologies</strong> to bring businesses{" "}
                   <strong className="uniqueBold">Digitally Ahead.</strong>
                 </h2>
               </div>

@@ -16,7 +16,7 @@ const TeamDetails = () => {
         </div>
         <div className="row">
           {allData.map((data) => (
-            <div className="col-xl-3 col-sm-6" key={data.id}>
+            <div className="col-xl-4 col-sm-4" key={data.id}>
               <div className="team-grid">
                 <div className="thumbnail">
                   <Link

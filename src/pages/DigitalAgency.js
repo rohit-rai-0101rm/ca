@@ -28,7 +28,7 @@ import UncontrolledExample from "../common/Carousel";
 const DigitalAgency = () => {
   return (
     <>
-      <SEO title="Digital Agency" />
+      <SEO title="Technologies" />
       <ColorSwitcher />
       <main className="main-wrapper">
         <HeaderOne />

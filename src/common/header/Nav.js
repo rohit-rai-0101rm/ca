@@ -14,7 +14,7 @@ const Nav = () => {
                 </li>
 
                 <li className="menu-item-has-children">
-                    <Link to="#">Why Dignifyd <FaAngleDown /></Link>
+                    <Link to="#">Why NXG <FaAngleDown /></Link>
                     <ul className="axil-submenu">
                         <li><Link to={process.env.PUBLIC_URL + "/about"}>About</Link></li>
                         <li><Link to="/how-it-works">How it works</Link></li>

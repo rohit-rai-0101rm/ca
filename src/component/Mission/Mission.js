@@ -35,7 +35,7 @@ const Mission = () => {
                 </h3>
 
                 <p className="innovate-list-para" >
-                  Dignifyd, strives to meet its customers’ needs in order to
+                  NXG, strives to meet its customers’ needs in order to
                   build a long-term, successful business relationship with them.<br/>
                   <br/>
                   We believe in excellent customer service and that all of our

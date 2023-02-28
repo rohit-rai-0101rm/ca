@@ -24,7 +24,7 @@ const PixelDiscription = () => {
                 </h4>
                 <p className="innovate-list-para">
                 A Graphic Design Company That is Pixel Perfect
-                  Dignifyd is one of the preferred design agencies across 52+ nations owing to our quick TAT records, quality-standards, and great experience. We have been working over bulk design production requirements as well as creative design requirements from scratch. These include – websites, landing pages, display banners, email templates, blogs, infographics, eBooks, etc.
+                  NXG is one of the preferred design agencies across 52+ nations owing to our quick TAT records, quality-standards, and great experience. We have been working over bulk design production requirements as well as creative design requirements from scratch. These include – websites, landing pages, display banners, email templates, blogs, infographics, eBooks, etc.
                 </p>
                 <p className="innovate-list-para">
               Our people are our core strength in delivering a stress-free and superior quality working experience to our partners’. Whether you want us to develop a design from scratch or adapt your design and produce the rest of the pages based on it, we have the team strength and the right talent to get your work done seamlessly

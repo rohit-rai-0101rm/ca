@@ -45,7 +45,7 @@ const Contact = () => {
                     Our customer care is open from Mon-Fri, 10:00 am to 6:00 pm
                   </p>
                   <h4 className="phone-number">
-                    <a href="tel:+971-501-599-266">+971-501-599-266</a>
+                    <a href="tel:+971-501-599-266">+971 50 634 6693</a>
                   </h4>
                 </div>
                 <div className="contact-info mb--30">
