@@ -44,7 +44,7 @@ const HeaderOne = () => {
 
                                     limage="/images/logoDark.png"
                                     dimage="/images/logoLight.png"
-                                    simage="/images/nxg.png"
+                                    simage="/images/logoLight.png"
                                 />
                             </div>
                      

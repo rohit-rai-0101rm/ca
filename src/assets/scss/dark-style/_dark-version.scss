@@ -65,16 +65,7 @@
             color: var(--dark-body-text);
         }
     }
-    .section-padding-mission{
-        background-color: #27272E;
-    }
-    .section-padding-team{
-        background-color: #171717;
-    }
-.footerContact{
-    filter: invert(48%) sepia(89%) saturate(80%) hue-rotate(0deg) brightness(780%) contrast(200%);
 
-}
     .input-group {
         background-color: #171717;
         box-shadow: none;
@@ -102,20 +93,6 @@
             margin-bottom: 0;
             font-size: 14px;
         }
-    }
-    .section-padding-proffessional {
-        padding: 175px 0px 0px;
-        @media #{$smlg-device} {
-            padding: 100px 0 70px;
-        }
-        @media #{$md-layout} {
-            padding: 80px 0 50px;
-        }
-        @media #{$sm-layout} {
-            padding: 60px 0 30px;
-        }
-        background-color: #171717;
-        
     }
 
     .error-msg {
@@ -375,10 +352,10 @@
         .header-navbar {
             .header-logo {
                 .light-version-logo {
-                    display: block;
+                    display: none;
                 }
                 .dark-version-logo {
-                    display: none;
+                    display: block;
                 }
             }
         }
@@ -388,7 +365,7 @@
                      .header-navbar {
                         .header-logo {
                             .sticky-logo {
-                                display: block;
+                                display: none;
                             }
                         }
                     }
@@ -401,7 +378,7 @@
                      .header-navbar {
                         .header-logo {
                             .sticky-logo {
-                                display: block;
+                                display: none;
                             }
                         }
                     }
@@ -741,53 +718,6 @@
             box-shadow: 0 20px 48px 0 rgba(0, 0, 0, 0.25);
         }
     }
-    .section-padding-innovate{
-        background-color:  var(--color-dark);
-        color: white !important;
-    }
-    .titleUnique{
-        font-weight: 100;
-    }
-    .uniqueBold{
-        font-weight: 800;
-    }
-    .section-padding-innovate {
-        max-height: 850px;
-        background-color:  var(--color-dark);
-        padding: 75px 0px 75px 0px;
-        @media #{$sm-layout} {
-            max-height: 1250px;
-        }
-        @media #{$md-layout} {
-            max-height: 1250px;
-        }
-       
-        
-    }
-    .section-padding-pixel{
-        background-color: #171717;
-
-    }
-    .section-padding-spider{
-        background-color:var(--color-dark) ;
-    }
-    .section-padding-technologies{
-        background-color: color-ship-gray;
-        color: white !important;
-
-    }
-    .section-padding-unleash{
-        background-color:  var(--color-dark);
-        color: white !important;
-    }
-    .section-padding-amazing{
-        background-color:  var(--color-ship-gray);
-
-    }
-    .addressLine2{
-        font-size: 20px;
-        color: #fff;
-    }
     .contact-address {
         .address {
             p {
@@ -871,47 +801,7 @@
             border-color: var(--dark-border-gray);
         }
     }
-    .pricing-table-enquiry {
-        background-color: var(--dark-main-body);
-        .pricing-header {
-            .subtitle {
-                color: var(--dark-body-text);
-            }
-            .price-wrap {
-                border-color: rgba(227, 230, 233, 0.2);
-                .amount {
-                    color: var(--dark-body-text);
-                }
-            }
-        }
-        &:hover, &.active {
-            .pricing-header {
-                .price-wrap {
-                    border-color: rgba(227, 230, 233, 0.4);
-                    .amount {
-                        color: var(--color-white);
-                    }
-                }
-                .axil-btn {
-                    background-color: var(--color-primary);
-                    border-color: var(--color-link);
-                    color: var(--color-white);
-                    &:after {
-                        transform: translateY(-50%) translateX(-50%) scale(1);
-                    }
-                }
-            }
-        }
-        &.pricing-borderd {
-            border-color: var(--dark-border-gray);
-        }
-    }
     
-    .titleSigns{
-        color: white !important;
-        font-weight: 700 !important;
-    }
-
 
     // Why Choose 
     .why-choose-us {
@@ -1209,7 +1099,7 @@
             }
         }
     }
-  
+
     // Splash Page
 
     .splash-main-banner {
@@ -1257,20 +1147,6 @@
             opacity: 0.1;
         }
     }
-    .section-padding-pro {
-        padding: 75px 0px 0px;
-        @media #{$smlg-device} {
-            padding: 100px 0 70px;
-        }
-        @media #{$md-layout} {
-            padding: 80px 0 50px;
-        }
-        @media #{$sm-layout} {
-            padding: 60px 0 30px;
-        }
-        background-color:  var(--color-dark);
-        
-    }
 
     .support-box  {
         a {
@@ -1286,16 +1162,6 @@
     .splash-call-to-action {
         background-color: var(--dark-bg-color);
     }
-    .logo-text{
-        font-weight: 600;
-        font-size: larger;
-        color: white;
-    }
 }
-       .original
-        {
-              height: 100%;
-              width:100%;
-              object-fit: cover;
-        }
-      
+
+
