@@ -37,6 +37,7 @@
             img {
                 @media #{$sm-layout} {
                     width: 80px;
+                    height: auto;
                 }
 
                 display: flex;
