@@ -11,8 +11,8 @@ const MobileMenu = ({MobileHandler}) => {
                 <div className="mobilemenu-header">
                     <div className="mobile-nav-logo">
                         <Link to={process.env.PUBLIC_URL + "/"}>
-                            <img className="light-mode mobileImg" src={process.env.PUBLIC_URL + "/images/NXGLogo.png"} alt="Site Logo" />
-                            <img className="dark-mode mobileImg" src={process.env.PUBLIC_URL + "/images/NXGLogo.png"} alt="Site Logo" />
+                            <img className="light-mode mobileImg" src={process.env.PUBLIC_URL + "/images/nxg.png"} alt="Site Logo" />
+                            <img className="dark-mode mobileImg" src={process.env.PUBLIC_URL + "/images/logoDark.png"} alt="Site Logo" />
                         </Link>
                         
                     </div>
