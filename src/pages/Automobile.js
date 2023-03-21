@@ -16,6 +16,7 @@ import Automobilelogisticsintro2 from '../component/HireDevelopers/Automobilelog
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
+import Automobilebestchoice from '../component/ReactBestChoice/Automobilebestchoice'
 import ReactBestChoice from '../component/ReactBestChoice/ReactBestChoice'
 import ReactImportantSkills from '../component/ReactImportantSkills/ReactImportantSkills'
 import ReactProcess from '../component/ReactProcess/ReactProcess'
@@ -42,8 +43,8 @@ const Automobile = () => {
         
       
        
-        <ReactBestChoice/>
-        <ReactImportantSkills/>
+        <Automobilebestchoice/>
+        
        
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />

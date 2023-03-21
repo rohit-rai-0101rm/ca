@@ -11,12 +11,12 @@ const BannerConsultation = () => {
                     <div className="col-lg-6">
                         <div className="banner-content">
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
-                                <h1 className="title">innovative.<br/>bold.<br/>effective.</h1>
+                                <h1 className="title">How Can Mobile<br/>Programming Help?</h1>
                                
 
-                                <span className="subtitle">Jumpstart your <strong>Digital Journey with NXG!</strong>  We create websites and apps, devise growth strategies, and develop a brand identity.</span>
+                                <span className="subtitle">We help clients evolve their business model by helping them rethink how digitalization can add more value to their product.</span>
                                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">
-                                    Schedule a free consultation</Link>
+                                    Request a free consultation</Link>
                             </AnimationOnScroll>
                         </div>
                     </div>
