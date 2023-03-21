@@ -90,6 +90,7 @@ import JavaDevelopers from './pages/JavaDevelopers';
 import IosDeveloper from './pages/IosDeveloper';
 import AndroidDevelopers from './pages/AndroidDevelopers';
 import RemoteStaffing from './pages/RemoteStaffing';
+import Banking from './pages/Banking';
 
 
 
@@ -146,7 +147,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />}/>
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
 				<Route path={process.env.PUBLIC_URL + "/remote-staffing"} element={<RemoteStaffing />}/>
-
+				<Route path={process.env.PUBLIC_URL + "/banking-fintech"} element={<Banking/>}/>
 				
 
 				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<Seo />}/>
@@ -194,6 +195,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-react-native-developers"} element={<ReactNativeDevelopers/>}/>
 
 				<Route path={process.env.PUBLIC_URL + "/programmatic-advertising"} element={<ProgrammaticSpecialist/>}/>
+				
 
 			</Routes>
 		</ScrollToTop>
