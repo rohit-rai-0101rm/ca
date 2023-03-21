@@ -8,7 +8,7 @@
 
     .header-navbar {
         display: flex;
-        align-items: center;
+       align-items: center;
         justify-content: space-between;
 
         .header-logo {
@@ -55,10 +55,8 @@
 
         .header-main-nav {
             flex: 1;
-            margin: 0 55px 0 50px;
 
             @media #{$smlg-device} {
-                margin: 0 30px;
             }
 
             @media #{$md-layout} {
