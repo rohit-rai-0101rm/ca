@@ -90,6 +90,7 @@ import JavaDevelopers from './pages/JavaDevelopers';
 import IosDeveloper from './pages/IosDeveloper';
 import AndroidDevelopers from './pages/AndroidDevelopers';
 import RemoteStaffing from './pages/RemoteStaffing';
+import Automobile from './pages/Automobile';
 
 
 
@@ -170,6 +171,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-laravel-developers"} element={<LaravelDevelopers/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-seo-expert"} element={<SeoExperts/>}/>
 				<Route path={process.env.PUBLIC_URL + "/hire-ppc-expert"} element={<PpcExperts/>}/>
+				<Route path={process.env.PUBLIC_URL + "/automobile"} element={<Automobile/>}/>
 
 
 				<Route path={process.env.PUBLIC_URL + "/hire-php-developers"} element={<PHPDevelopers/>}/>

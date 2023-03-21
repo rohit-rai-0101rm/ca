@@ -1,0 +1,35 @@
+[
+    {
+        "image": "/images/advantage/skipSourcing.png",
+        "title": "Autonomous Vehicles (Self-Driving Cars)",
+        "description": "Helping increase road safety, reduce cost, enhance productivity, and reduce congestion."
+    },
+    {
+        "image": "/images/advantage/prehost.png",
+        "title": "Connected Vehicles (Telematics)",
+        "description": "Allowing drivers to reach a destination quickly, safely, and in a cost-efficient manner."
+    },
+    {
+        "image": "/images/advantage/saveSalary.png",
+        "title": "Cybersecurity and Data Protection",
+        "description": "Protecting digital automobiles from cyber threats or data breaches."
+    },
+    {
+        "image": "/images/advantage/beat.png",
+        "title": "Infotainment Solutions",
+        "description": "Offering interactive and engaging technology solutions for in-vehicle infotainment.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/advantage/security.png",
+        "title": "Connected Supply Chains (Telematics)",
+        "description": "Decentralizing the supply chain to create a transparent and accelerated business flow.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/advantage/noobligationInterview.png",
+        "title": "Navigation",
+        "description": "Enhanced navigation, geolocation, and AR features to deliver improved experience to the driver in real-time.",
+        "cate": "Design"
+    }
+]
