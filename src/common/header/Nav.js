@@ -23,6 +23,10 @@ const Nav = () => {
 
                     </ul>
                 </li>
+                <li className="menu-item-has-children">
+                <a href="remote-staffing" target="_blank">Remote Staffing</a>
+            
+            </li>
                 <li className='menu-item-has-children'>
                     <Dropdown
 

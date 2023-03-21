@@ -89,6 +89,7 @@ import SalesConsultant from './pages/SalesConsultant';
 import JavaDevelopers from './pages/JavaDevelopers';
 import IosDeveloper from './pages/IosDeveloper';
 import AndroidDevelopers from './pages/AndroidDevelopers';
+import RemoteStaffing from './pages/RemoteStaffing';
 
 
 
@@ -144,6 +145,9 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/coming-soon"} element={<ComingSoon />}/>
 				<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />}/>
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
+				<Route path={process.env.PUBLIC_URL + "/remote-staffing"} element={<RemoteStaffing />}/>
+
+				
 
 				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<Seo />}/>
 				<Route path={process.env.PUBLIC_URL + "/services/digital-marketing"} element={<DigitalMarketing />}/>
