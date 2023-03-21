@@ -15,7 +15,7 @@ const FrequentlyAsked3 = () => {
                 <div className="faq-accordion">
                     <Accordion defaultActiveKey="1">
                             <Accordion.Item>
-                                <Accordion.Header><span>How much will it cost to hire a NodeJS developer from Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How much will it cost to hire a NodeJS developer from NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 <p className='innovate-list-para'>The full-time hiring of a NodeJS developer from us will cost you approximately $3000 a month which is subjective to the skillset and experience of the candidate.
                                 </p>
@@ -26,7 +26,7 @@ const FrequentlyAsked3 = () => {
                     <br/>
                     <Accordion defaultActiveKey="2">
                             <Accordion.Item>
-                                <Accordion.Header><span>How do I hire NodeJS Developers through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How do I hire NodeJS Developers through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p className='innovate-list-para'>You can hire NodeJS programmers on-demand who work as an extension to your in-house web development team.</p>
@@ -43,7 +43,7 @@ const FrequentlyAsked3 = () => {
                     <br/>
                     <Accordion defaultActiveKey="3">
                             <Accordion.Item>
-                                <Accordion.Header><span>What is the average work experience of a NodeJS developer hired through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>What is the average work experience of a NodeJS developer hired through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p className='innovate-list-para'>The average work experience of NodeJS developers hired through us is of senior level, which is 5+ years.
@@ -74,7 +74,7 @@ const FrequentlyAsked3 = () => {
                     <br/>
                     <Accordion defaultActiveKey="5">
                             <Accordion.Item>
-                                <Accordion.Header><span>How long will it take to hire Node JS programmers from Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How long will it take to hire Node JS programmers from NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p className='innovate-list-para'>Depending upon your requirement, you can hire a dedicated Node.js programmer in India from us in 2-4 weeks.

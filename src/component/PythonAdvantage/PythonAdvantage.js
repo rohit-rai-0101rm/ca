@@ -9,7 +9,7 @@ const PythonAdvantage = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h4 className='coloringtext'>The Dignifyd Advantage</h4>
+        <h4 className='coloringtext'>The NXG Advantage</h4>
         <p className='innovate-list-para'>What to expect when you hire from the top talent network?
 </p>
 

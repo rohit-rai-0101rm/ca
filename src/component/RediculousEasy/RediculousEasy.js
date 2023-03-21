@@ -8,14 +8,14 @@ const RediculousEasy = () => {
         <div className="row">
           <center>
             <h3 className="talentTitle">
-              How Dignifyd is making it ridiculously easy to hire Indian Talents?
+              How NXG is making it ridiculously easy to hire Indian Talents?
             </h3>
           </center>
 
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">1</h3>
-              <h5 className="title">Dignifyd Source</h5>
+              <h5 className="title">NXG Source</h5>
               <p className="innovate-list-para">
               We attract talents in India through the top 3 benefits that are super attractive.
               </p>
@@ -36,7 +36,7 @@ const RediculousEasy = () => {
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">2</h3>
-              <h5 className="title">Dignifyd Vet</h5>
+              <h5 className="title">NXG Vet</h5>
               <p className="innovate-list-para">
               We screen every candidate with our rigorous Vetting process for language proficiency, technical capabilities, and behavioral skills.
               </p>
@@ -45,7 +45,7 @@ const RediculousEasy = () => {
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">3</h3>
-              <h5 className="title">Dignifyd Match</h5>
+              <h5 className="title">NXG Match</h5>
               <p className="innovate-list-para">
               We match the job requirement with the candidates through our skill matchmaking process, ensuring that only the best one matches. (We have 70% First Interview Select Ratio)
               </p>
@@ -54,7 +54,7 @@ const RediculousEasy = () => {
           <div className="col-lg-6">
             <div className="about-quality">
               <h3 className="sl-number">4</h3>
-              <h5 className="title">Dignifyd Manage</h5>
+              <h5 className="title">NXG Manage</h5>
               <p className="innovate-list-para">
               We take care of all the employment contracts, payrolls, IT support, HR support, etc.
               </p>

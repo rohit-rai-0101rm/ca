@@ -14,7 +14,7 @@ const HireIosDevelopersIntro = () => {
                             <center>
                                 <h1 className="title">Finding an iOS Developer is Easy Getting a Reliable one is Tough</h1>
                                 <h1 className='title'></h1>
-                                <p className='innovate-list-para'>When you hire from Dignifyd, you get a reliable team member who delivers. After working with more than 7,000 clients worldwide, we realized what it meant to have the right people in your team. Putting forth this takeaway, we scaled this expertise into a vetting process that sets both the soft and hard skills of a candidate to test.
+                                <p className='innovate-list-para'>When you hire from NXG, you get a reliable team member who delivers. After working with more than 7,000 clients worldwide, we realized what it meant to have the right people in your team. Putting forth this takeaway, we scaled this expertise into a vetting process that sets both the soft and hard skills of a candidate to test.
 
                                 </p>
                                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Share your Requirements</Link>

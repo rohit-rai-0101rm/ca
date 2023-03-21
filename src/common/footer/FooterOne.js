@@ -52,7 +52,7 @@ const FooterOne = ({ parentClass }) => {
             <div className="col-xl-6 col-lg-5">
               <div className="footer-widget border-end">
 
-                <img className="" src="/images/logoLight.png" />
+                <img className="" src="/images/nxg.png" />
               
               </div>
 
@@ -101,7 +101,7 @@ const FooterOne = ({ parentClass }) => {
                                 className="px-2 footerContact"
                                 src="/images/contact/tele.svg"
                               />
-                              +971-501-599-266{" "}
+                              +971506346693{" "}
                             </div>{" "}
                           </Link>
                         </li>
@@ -113,7 +113,7 @@ const FooterOne = ({ parentClass }) => {
                               src="/images/contact/website.svg"
                             />
                             <a href="" target="blank">
-                              nxgtech.io
+                              www.nxgtech.io
                             </a>
                             {" "}
                           </div>{" "}
@@ -132,7 +132,7 @@ const FooterOne = ({ parentClass }) => {
               <div className="footer-copyright">
                 <span className="copyright-text">
                   © {new Date().getFullYear()}. All rights reserved by{" "}
-                  <a href="https://in.linkedin.com/company/dignifyd" target="blank">
+                  <a href="https://in.linkedin.com/company/NXG" target="blank">
                     <strong>NXG</strong>  Technologies.
                   </a>
                 </span>

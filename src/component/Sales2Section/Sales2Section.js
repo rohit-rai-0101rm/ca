@@ -7,7 +7,7 @@ import ServiceProp13 from '../service/ServiceProp13'
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h4 className='coloringtext'>Hire Salesforce Developers from Dignifyd</h4>
+        <h4 className='coloringtext'>Hire Salesforce Developers from NXG</h4>
         <br/>
         <h4 className='coloringtext'>Sharp talent with robust knowledge of Salesforce</h4>
        

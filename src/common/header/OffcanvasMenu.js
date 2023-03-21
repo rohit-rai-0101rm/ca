@@ -27,7 +27,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                                 <address className="address">
                                     <h5 className=''>We're Available 24/7. Call Now.</h5>
                                     <a href="tel:8884562790" className="tel innovate-list-para"><FaPhone /> +971-501-599-266</a>
-                                    <a href="mailto:hello@dignifyd.ae" className="tel innovate-list-para"><FaEnvelope /> info@nxgtech.io</a>
+                                    <a href="mailto:hello@NXG.ae" className="tel innovate-list-para"><FaEnvelope /> info@nxgtech.io</a>
                                 </address>
                             </div>
                             <div className="contact-inner">

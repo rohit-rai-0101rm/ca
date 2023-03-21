@@ -15,7 +15,7 @@ const FrequentlyAsked15 = () => {
                 <div className="faq-accordion">
                     <Accordion defaultActiveKey="1">
                             <Accordion.Item>
-                                <Accordion.Header><span>How do Dignifyd vet Java developers?</span></Accordion.Header>
+                                <Accordion.Header><span>How do NXG vet Java developers?</span></Accordion.Header>
                                 <Accordion.Body>
                                 <p>We at Uplers follow an aggressive vetting process including sourcing, aptitude test, technical test, PI, and final call to ensure that you get a resource that can meet your company's cultural and technical needs.
                                 </p>
@@ -26,7 +26,7 @@ const FrequentlyAsked15 = () => {
                     <br/>
                     <Accordion defaultActiveKey="2">
                             <Accordion.Item>
-                                <Accordion.Header><span>How long does it take to hire Java Programmers from Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How long does it take to hire Java Programmers from NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p>Hiring a Java Programmer from Uplers can take two to four weeks. It is subjective to your requirements and time window.
@@ -40,7 +40,7 @@ const FrequentlyAsked15 = () => {
                     <br/>
                     <Accordion defaultActiveKey="3">
                             <Accordion.Item>
-                                <Accordion.Header><span>What is the cost of hiring a Java developer through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>What is the cost of hiring a Java developer through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p>The cost of hiring a Java developer through Uplers depends on your business needs. Usually, we charge approximately $25 an hour, which is again dependent on multiple factors.

@@ -27,7 +27,7 @@ const Nav = () => {
                     <Dropdown
 
                         openOnHover="true"
-                        title='Dedicated Resources'
+                        title='Remote Staffing'
 
                     >
                         <Dropdown.Item className='axil-submenu2'>

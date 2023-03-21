@@ -55,7 +55,7 @@ const Contact = () => {
                     business hours.
                   </p>
                   <h4 className="phone-number">
-                    <a href="mailto:hello@dignifyd.ae">info@nxgtech.io</a>
+                    <a href="mailto:hello@NXG.ae">info@nxgtech.io</a>
                   </h4>
                 </div>
               </div>

@@ -10,7 +10,7 @@ const GraphicDesignerSection = () => {
     <div className="section section-padding bg-color-light pb--70">
       <center>
         <h4>
-        How to hire Graphic Designers through Dignifyd?
+        How to hire Graphic Designers through NXG?
 
         </h4>
         <p className="innovate-list-para">

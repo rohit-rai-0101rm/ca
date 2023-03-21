@@ -9,7 +9,7 @@ const Ios2Section = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h3 className='coloringtext'>Hire iOS Developers from Dignifyd</h3>
+        <h3 className='coloringtext'>Hire iOS Developers from NXG</h3>
 
         </center>
         <div className='row'>

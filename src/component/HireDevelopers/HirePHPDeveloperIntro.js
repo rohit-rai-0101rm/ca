@@ -13,7 +13,7 @@ const HirePHPDeveloperIntro = () => {
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
                             <center>
                                 <h1 className="title">Hire Dedicated PHP Developers from India</h1>
-                                <span className="subtitle"> Finding the right talent is hard. Dignifyd makes it easy to hire the best PHP Developers from India- remotely. We’ve sourced and pre-screened our candidates so that you can focus on what matters—your business. Our team of talent pool curators helps you hire, manage, and retain top talent for your project.</span>
+                                <span className="subtitle"> Finding the right talent is hard. NXG makes it easy to hire the best PHP Developers from India- remotely. We’ve sourced and pre-screened our candidates so that you can focus on what matters—your business. Our team of talent pool curators helps you hire, manage, and retain top talent for your project.</span>
                                
                                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Share your Requirements</Link>
                             </center>

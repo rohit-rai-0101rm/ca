@@ -8,7 +8,7 @@ const NodeSection = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h4 className='coloringtext'>Hire full-stack NodeJS Developer from Dignifyd</h4>
+        <h4 className='coloringtext'>Hire full-stack NodeJS Developer from NXG</h4>
         <br/>
         <h5 className='coloringtext'>Smart individuals with expert skills</h5>
 

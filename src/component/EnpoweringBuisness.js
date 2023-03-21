@@ -14,7 +14,7 @@ const EnpoweringBuisness = () => {
                 <h4 className="title">Empowering Businesses</h4>
 
                 <h3 className="title">
-                  Why Global Brands prefer hiring talent from Dignifyd
+                  Why Global Brands prefer hiring talent from NXG
                 </h3>
            
               </div>

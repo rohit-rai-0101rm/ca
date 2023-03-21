@@ -15,7 +15,7 @@ const FrequentlyAsked9= () => {
                 <div className="faq-accordion">
                     <Accordion defaultActiveKey="1">
                             <Accordion.Item>
-                                <Accordion.Header><span>How long will it take to hire a Shopify developer from Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How long will it take to hire a Shopify developer from NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 <p>Depending upon your requirement, you can onboard Shopify developers from us in 2-4 weeks.
                                 </p>
@@ -26,7 +26,7 @@ const FrequentlyAsked9= () => {
                     <br/>
                     <Accordion defaultActiveKey="2">
                             <Accordion.Item>
-                                <Accordion.Header><span>How do I hire Shopify Developers through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How do I hire Shopify Developers through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p>You can hire Shopify experts on-demand who work as an extension to your in-house web development team.</p>
@@ -105,7 +105,7 @@ const FrequentlyAsked9= () => {
                                 <Accordion.Header><span>I am someone with less or no technical knowledge about Shopify Development. How can you help me with that?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
-                                <p>When you hire Shopify experts from Dignifyd, you need not worry about the development process and post-deployment services. We ensure that your queries are taken care of by our technical experts so that you can manage your website post its deployment. We always have a support team to help you.
+                                <p>When you hire Shopify experts from NXG, you need not worry about the development process and post-deployment services. We ensure that your queries are taken care of by our technical experts so that you can manage your website post its deployment. We always have a support team to help you.
                                 
                                 </p>
                                 

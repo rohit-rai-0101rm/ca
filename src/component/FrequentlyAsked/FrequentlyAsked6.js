@@ -33,7 +33,7 @@ const FrequentlyAsked6= () => {
                                 
                                 <p>There are a large number of individual Laravel developers who’d be willing to work for you. However, you need to look for the one that brings you maximum advantages.</p>
                                 <br/>
-                                <p>Dignifyd , in the effort to build a long-term business partnership between the client and talent, ensure the interests of each party.</p>
+                                <p>NXG , in the effort to build a long-term business partnership between the client and talent, ensure the interests of each party.</p>
                                 
                                 <br/>
                                 </Accordion.Body>

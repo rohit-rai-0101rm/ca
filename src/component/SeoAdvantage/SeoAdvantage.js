@@ -8,7 +8,7 @@ const SeoAdvantage = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h4 className='coloringtext'>The Dignifyd Advantage
+        <h4 className='coloringtext'>The NXG Advantage
 </h4>
 
         </center>

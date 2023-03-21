@@ -10,7 +10,7 @@ const TeamONE = () => {
         <div className="section section-padding bg-color-dark pb--70 pb_lg--20 pb_md--0">
         <div className="container">
             <div className="section-heading heading-light">
-            <h2 className="title mb--50">The Dignifyd Advantage</h2>
+            <h2 className="title mb--50">The NXG Advantage</h2>
             <p>What to expect when you hire from the top talent network?</p>
             </div>
             <div className="row">

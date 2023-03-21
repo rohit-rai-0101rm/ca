@@ -15,7 +15,7 @@ const FrequentlyAsked12= () => {
                 <div className="faq-accordion">
                     <Accordion defaultActiveKey="1">
                             <Accordion.Item>
-                                <Accordion.Header><span>What is the cost of hiring a salesforce developer through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>What is the cost of hiring a salesforce developer through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 <p className='innovate-list-paraABC'>The full-time hiring of a Salesforce Developer from us will cost you approximately $2000 a month. The hiring cost can vary due to many factors, including your specific requirements and the developer's expertise and experience.
                                 </p>
@@ -26,7 +26,7 @@ const FrequentlyAsked12= () => {
                     <br/>
                     <Accordion defaultActiveKey="2">
                             <Accordion.Item>
-                                <Accordion.Header><span>How long does it take to hire a salesforce developer from Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How long does it take to hire a salesforce developer from NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p className='innovate-list-paraABC' >Within 48 hours of sharing your requirements, Uplers will shortlist the first batch of candidates from its pool of Salesforce Experts. This process is comparatively easier and quicker than standard hiring methods. Hence, by following four easy steps, you can hire the best within weeks, not months.</p>
@@ -40,7 +40,7 @@ const FrequentlyAsked12= () => {
                     <br/>
                     <Accordion defaultActiveKey="3">
                             <Accordion.Item>
-                                <Accordion.Header><span>How do I hire salesforce Developers through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How do I hire salesforce Developers through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p className='innovate-list-paraABC'>You can hire Salesforce consultants from India on-demand who work as an extension to your in-house team.

@@ -15,7 +15,7 @@ const FrequentlyAsked = () => {
                 <div className="faq-accordion">
                     <Accordion defaultActiveKey="1">
                             <Accordion.Item>
-                                <Accordion.Header><span>How do I hire React developers through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>How do I hire React developers through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 <p>You can hire React developers from India on-demand who work as an extension to your in-house web development team.
                                 </p>

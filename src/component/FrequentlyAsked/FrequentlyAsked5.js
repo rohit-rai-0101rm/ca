@@ -31,7 +31,7 @@ const FrequentlyAsked5= () => {
                                 
                                 <p>There are a large number of individual Laravel developers who’d be willing to work for you. However, you need to look for the one that brings you maximum advantages.</p>
                                 <br/>
-                                <p>Dignifyd , in the effort to build a long-term business partnership between the client and talent, ensure the interests of each party.</p>
+                                <p>NXG , in the effort to build a long-term business partnership between the client and talent, ensure the interests of each party.</p>
                                 
                                 <br/>
                                 </Accordion.Body>
@@ -85,7 +85,7 @@ const FrequentlyAsked5= () => {
                     <br/>
                     <Accordion defaultActiveKey="6">
                             <Accordion.Item>
-                                <Accordion.Header><span>What are the advantages of hiring developers from Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>What are the advantages of hiring developers from NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p>Hire dedicated Laravel developers from Uplers and unveil an efficient way of executing business operations. Our talent curators take over the legwork and give you freedom from the tedious hiring process and even post-hiring responsibilities.

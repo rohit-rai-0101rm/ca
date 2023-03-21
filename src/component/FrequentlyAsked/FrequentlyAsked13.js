@@ -15,7 +15,7 @@ const FrequentlyAsked13= () => {
                 <div className="faq-accordion">
                     <Accordion defaultActiveKey="1">
                             <Accordion.Item>
-                                <Accordion.Header><span>What is the cost of hiring a salesforce admin through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>What is the cost of hiring a salesforce admin through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 <p className='innovate-list-paraABC'>The full-time hiring of a Salesforce Administrator from us will cost you approximately $2000 a month. There are various factors that determine the hiring cost, including administrators' years of technical experience with Salesforce, Salesforce certifications they have, specific vertical industry experience, exposure to large projects, etc.
                                 </p>
@@ -76,7 +76,7 @@ const FrequentlyAsked13= () => {
                     <br/>
                     <Accordion defaultActiveKey="5">
                             <Accordion.Item>
-                                <Accordion.Header><span>Will I have total control over your Salesforce admin hired through Dignifyd?</span></Accordion.Header>
+                                <Accordion.Header><span>Will I have total control over your Salesforce admin hired through NXG?</span></Accordion.Header>
                                 <Accordion.Body>
                                 
                                 <p className='innovate-list-paraABC'>The best part of hiring talent from Uplers is that you not only have complete control over the resources you hire, but you’d be free from any pre and post-hiring responsibilities.

@@ -11,7 +11,7 @@ const ProcessFollowed = () => {
         <div className="section section-padding-equal bg-color-light faq-area">
             <div className="container">
                 <div className="row">
-                         <center>  <h4>Web Development Process followed by Dignifyd being a Website Development Agency</h4> </center> 
+                         <center>  <h4>Web Development Process followed by NXG being a Website Development Agency</h4> </center> 
                           
                     <div className="col-lg-5 col-xl-4">
                    

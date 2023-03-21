@@ -9,7 +9,7 @@ const ReactNative = () => {
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h3 className='coloringtext'>Hire React Native Developers from Dignifyd
+        <h3 className='coloringtext'>Hire React Native Developers from NXG
 </h3>
 
         </center>

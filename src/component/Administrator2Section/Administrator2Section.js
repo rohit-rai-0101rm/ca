@@ -8,7 +8,7 @@ import ServiceProp14 from '../service/ServiceProp14'
     <div className="section section-padding-2 bg-color-dark">
         <div className="container">
         <center>
-        <h2 className='coloringtext'>Hire Salesforce Administrators from Dignifyd</h2>
+        <h2 className='coloringtext'>Hire Salesforce Administrators from NXG</h2>
         <br/>
         <h4 className='coloringtext'>Experts with in-depth and practical knowledge of the Salesforce platform</h4>
        

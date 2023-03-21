@@ -19,11 +19,11 @@ const ProgrammaticSpecialistIntro = () => {
                     Target the right audience at the right time
                   </h1>
                   <h5 className="themeText">
-                    Partner with Dignifyd - a leading Programmatic Advertising
+                    Partner with NXG - a leading Programmatic Advertising
                     Agency
                   </h5>
                   <p className="innovate-list-para">
-                    Dignifyd isn’t just another Programmatic Advertising Agency;
+                    NXG isn’t just another Programmatic Advertising Agency;
                     we help you hire skilled talent - who are both culturally
                     and technically fit.
                   </p>

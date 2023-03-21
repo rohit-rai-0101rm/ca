@@ -42,7 +42,7 @@ const Talk = () => {
             <hr />
             <center>
               {" "}
-              <h6 className="title">sales@dignifyd.ae</h6>
+              <h6 className="title">sales@NXG.ae</h6>
             </center>
 
             <div className="pricing-body">
@@ -64,7 +64,7 @@ const Talk = () => {
             <hr />
             <center>
               {" "}
-              <h6 className="title">support@dignifyd.in</h6>
+              <h6 className="title">support@NXG.in</h6>
             </center>
             <div className="pricing-body">
               <center>
@@ -86,7 +86,7 @@ const Talk = () => {
             <hr />
             <center>
               {" "}
-              <h6 className="title">corporate@dignifyd.in</h6>
+              <h6 className="title">corporate@NXG.in</h6>
             </center>
             <div className="pricing-body">
               <center>

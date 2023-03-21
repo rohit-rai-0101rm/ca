@@ -8,7 +8,7 @@ const JavaSection = () => {
             <div className="section section-padding-2 bg-color-dark">
                 <div className="container">
                     <center>
-                        <h3 className='coloringtext'>Hire full-stack Java Developers from Dignifyd
+                        <h3 className='coloringtext'>Hire full-stack Java Developers from NXG
                         </h3>
                        <h6 className='coloringtext'>Enhance your web and mobile app solutions</h6>
                     </center>
