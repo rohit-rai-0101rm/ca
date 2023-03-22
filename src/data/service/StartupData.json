@@ -1,0 +1,36 @@
+[
+    {
+        "image": "/images/seoIcons/fullsuitseo.png",
+        "title": "Augmented and Virtual Reality (AR/VR)​",
+        "description":"Customized AR and VR solutions to help businesses make their products more informative, interactive, and immersive."
+    },
+    {
+        "image": "/images/seoIcons/localseoservices.png",
+        "title": "Blockchain",
+        "description": "Using Blockchain to simplify payments, providing product provenance ,implementing smart contracts and improving B2B transactions for your business."
+    },
+    {
+        "image": "/images/seoIcons/GoogleAnalytics.png",
+        "title": "Robotics & Automation",
+        "description": "Applying technology to enhance your brand's digital presence with tools, helping you rapidly grow and automate your business."
+    },
+    {
+        "image": "/images/seoIcons/link-building.png",
+        "title": "Artificial intelligence (AI) and Machine Learning (ML)",
+        "description": "Tailored AI/ML solutions to help startups gain real-time insights, predict outcomes, detect anomalies, and accelerate business processes.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/seoaudits.png",
+        "title": "Internet of Things (IoT)",
+        "description": "Leveraging our hands-on experience in designing, developing, and implementing intelligent IoT solutions to enable our clients to integrate IoT into their business operations.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/ecommerceSEO.png",
+        "title": "Cloud Computing",
+        "description": "Developing Cloud Native platforms to build & implement scalable solutions in modern, dynamic IT environments for superior customer experience, ease of automation/management and reduced costs.",
+        "cate": "Design"
+    }
+    
+]
