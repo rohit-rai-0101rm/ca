@@ -36,7 +36,7 @@ import TestimonialOne from "../component/testimonial/TestimonialOne";
 import WordPressSection from "../component/WordPressSection/WordPressSection";
 import SectionTitle from "../elements/section-title/SectionTitle";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
-import ServiceData from "../data/service/ServiceSeo.json";
+import ServiceData from "../data/service/BankingData.json";
 import ServicePropSeo from "../component/service/ServicePropSeo";
 import SeoAdvantage from "../component/SeoAdvantage/SeoAdvantage";
 import SeoExpertsBestChoice from "../component/SeoExpertsBestChoice/SeoExpertsBestChoice";
@@ -49,6 +49,8 @@ import GoogleAdProcess from "../component/GoogleAdProcess/GoogleAdProcess";
 import AccessTalent from "../component/AccessTalent/AccessTalent";
 import BankingIntro from "../component/bankingintro/BankingIntro";
 import BankingDesc from "../component/bankingDesc/BankingDesc";
+import BankingProps from "../component/service/BankingProps";
+import BankingBlog from "../component/bankingintro/BankingBlog";
 const allData = ServiceData;
 const Banking = () => {
   return (
@@ -62,12 +64,10 @@ const Banking = () => {
       
         <div className="section section-padding" id="section1">
           <div className="container">
-            <center>
-              <h4 className="unique">SEO Services We Deliver</h4>
-            </center>
+          
 
             <div className="row">
-              <ServicePropSeo
+              <BankingProps
                 colSize="col-lg-4 col-md-6"
                 serviceStyle="service-style-2"
                 serviceData={allData}
@@ -75,11 +75,8 @@ const Banking = () => {
             </div>
           </div>
         </div>
+        <BankingBlog/>
 
-        <SeoExpertsBestChoice />
-        <AccessTalent/>
-
-        <FrequentlyAskedQuestionSeoExperts />
         <CtaLayoutOne />
         <FooterOne parentClass="" />
       </main>
