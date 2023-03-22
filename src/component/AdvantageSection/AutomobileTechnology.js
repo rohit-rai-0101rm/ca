@@ -9,7 +9,8 @@ const AutomobileTechnology = () => {
     <div className="section section-padding-2 bg-color-ship-gray">
         <div className="container">
         <center>
-        <h4 className='coloringtext'>Automobile & Logistics</h4>
+        <h4 className='coloringtext'>Automobile & logistics</h4>
+
         <h5 className='coloringtext'>Digital Transformation Technologies</h5>
 
         </center>

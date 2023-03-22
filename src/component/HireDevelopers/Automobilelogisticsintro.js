@@ -12,7 +12,8 @@ const Automobilelogisticsintro = () => {
                         <div className="banner-content">
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
                             <center>
-                                <h1 className="title">Digital Transformation <br/>Technologies</h1>
+                                <h1 className="title">Digital Transformation </h1>
+                               <strong><h1><span className="themeText">Technologies </span></h1> </strong>
                                 <h1 className='title'></h1>
                                 <p className='innovate-list-para'>At Mobile Programming, we help automobile and logistics companies become efficient across an extended supply chain.
 
