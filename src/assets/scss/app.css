@@ -8418,6 +8418,15 @@ body.active-dark-mode .my_switcher button span.dark {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
 }
+.services-grid.service-style-2 .contentBanking p {
+  color: var(--color-body);
+  opacity: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  
+  -webkit-box-orient: vertical;
+}
 
 .services-grid.service-style-2 .content .more-btn {
   color: var(--color-body);

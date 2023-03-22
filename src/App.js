@@ -93,6 +93,9 @@ import RemoteStaffing from './pages/RemoteStaffing';
 import Automobile from './pages/Automobile';
 import EducationElearning from './pages/EducationElearning';
 import RetailEcommerce from './pages/RetailEcommerce';
+import Banking from './pages/Banking';
+import Pharma from './pages/Pharma';
+import Startup from './pages/Startup';
 
 
 
@@ -149,7 +152,9 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />}/>
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
 				<Route path={process.env.PUBLIC_URL + "/remote-staffing"} element={<RemoteStaffing />}/>
-
+				<Route path={process.env.PUBLIC_URL + "/banking-fintech"} element={<Banking/>}/>
+				<Route path={process.env.PUBLIC_URL + "/pharma"} element={<Pharma/>}/>
+				<Route path={process.env.PUBLIC_URL + "/startup"} element={<Startup/>}/>
 				
 
 				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<Seo />}/>
@@ -200,6 +205,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/programmatic-advertising"} element={<ProgrammaticSpecialist/>}/>
 				<Route path={process.env.PUBLIC_URL + "/education-elearning"} element={<EducationElearning/>}/>
 				<Route path={process.env.PUBLIC_URL + "/retail-ecommerce"} element={<RetailEcommerce />}/>
+				
+
 			</Routes>
 		</ScrollToTop>
     </Router>

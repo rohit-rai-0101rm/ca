@@ -1,0 +1,36 @@
+[
+    {
+        "image": "/images/seoIcons/fullsuitseo.png",
+        "title": "Cloud​",
+        "description":" Banking, Finance, Service, Insurance industries are quickly making a shift towards cloud-based SaaS applications for processes like CRM, financial accounting, Know Your Customer verification, etc."
+    },
+    {
+        "image": "/images/seoIcons/localseoservices.png",
+        "title": "Blockchain",
+        "description": "Various key features like cryptographic security, built-in redundancy, and process integrity make blockchain an attractive option for enabling secure transactions."
+    },
+    {
+        "image": "/images/seoIcons/GoogleAnalytics.png",
+        "title": "Robotic Process Automation (RPA)",
+        "description": "Automating repetitive, standardized, and mundane human tasks to reduce IT expenditures without compromising service provisioning."
+    },
+    {
+        "image": "/images/seoIcons/link-building.png",
+        "title": "Chatbots & Conversational AI",
+        "description": "Using AI and cognitive technology to help create new models of customer engagement.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/seoaudits.png",
+        "title": "Banking-as-a-Platform",
+        "description": "Providing applications, development tools, middleware, operating systems, virtualizations, servers, storage, and networking to banks and other financial service providers.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/ecommerceSEO.png",
+        "title": "Digital Wallet",
+        "description": "Offering improved personalization for faster payments by leveraging insights on payment, locational, and behavioral data.",
+        "cate": "Design"
+    }
+    
+]
