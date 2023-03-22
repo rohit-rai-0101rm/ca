@@ -10,7 +10,10 @@ const RetailSection = () => {
     <div>  
     <div className="section section-padding-2 bg-color-ship-gray">
         <div className="container">
-
+        <center>
+        <h4 className='coloringtext'>Retail & eCommerce</h4>
+        <h4 className='coloringtext'>Innovation Technologies in Retail & eCommerce</h4>
+        </center>
         <div className='row'>
             <ServiceProp21 colSize="col-xl-6 col-md-6" serviceStyle="" itemShow="6" />
         </div>
