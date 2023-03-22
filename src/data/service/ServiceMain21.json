@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/images/advantage/skipSourcing.png",
+        "title": "AR/VR",
+        "description": "Creating immersive and interactive learning experiences that enable students to investigate more deeply, see more clearly, and learn by engaging."
+    },
+    {
+        "image": "/images/advantage/prehost.png",
+        "title": "Video Conferencing",
+        "description": "Facilitating virtual classrooms and video-based lessons for convenient remote learning."
+    },
+    {
+        "image": "/images/advantage/saveSalary.png",
+        "title": "AI-based learning Apps & Platforms",
+        "description": "Enabling modern education practices through apps and platforms that simplify the learning process."
+    },
+    {
+        "image": "/images/advantage/beat.png",
+        "title": "Collaboration Tools",
+        "description": "Allowing teachers and students to collaborate in real-time to take notes, capture photos, create to-do lists, and record voice reminders.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/advantage/security.png",
+        "title": "eLearning Chatbots",
+        "description": "Advanced conversational bots delivering human-like experiences to students for quickly resolving queries and reducing ambiguities.",
+        "cate": "Design"
+    }
+]

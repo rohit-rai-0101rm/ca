@@ -1,0 +1,37 @@
+[
+    {
+        "image": "/images/advantage/skipSourcing.png",
+        "title": "Robotic Process Automation (RPA)",
+        "description": "Enabling businesses to utilize the power of automation to reduce operational costs, increase efficiency, and enhance speeds"
+    },
+    {
+        "image": "/images/advantage/prehost.png",
+        "title": "Blockchain",
+        "description": "Using the encryption capabilities of blockchain to simplify payments, manage supply chains, and decentralize marketplaces for retail and e-commerce companies."
+    },
+    {
+        "image": "/images/advantage/saveSalary.png",
+        "title": "Omnichannel Commerce",
+        "description": "Creating a seamless and consistent experience across channels while factoring in different devices customers are using."
+    },
+    {
+        "image": "/images/advantage/beat.png",
+        "title": "Bluetooth Beacons",
+        "description": "Driving customer engagement, increasing sales, and building loyalty through personalized, location-based notifications using BLE-powered beacons.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/advantage/security.png",
+        "title": "Point of Sale (POS) Solutions",
+        "description": "Developing innovative POS apps to accept payments, manage inventory, and increase efficiency.",
+        "cate": "Design"
+    }
+    ,
+    {
+        "image": "/images/advantage/security.png",
+        "title": "Custom Applications",
+        "description": "B2B and B2C e-commerce solutions, custom marketplace application development, payment gateway integration, e-commerce portal, and supply chain custom application development.",
+        "cate": "Design"
+    }
+
+]
