@@ -91,6 +91,7 @@ import IosDeveloper from './pages/IosDeveloper';
 import AndroidDevelopers from './pages/AndroidDevelopers';
 import RemoteStaffing from './pages/RemoteStaffing';
 import Banking from './pages/Banking';
+import Pharma from './pages/Pharma';
 
 
 
@@ -148,6 +149,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />}/>
 				<Route path={process.env.PUBLIC_URL + "/remote-staffing"} element={<RemoteStaffing />}/>
 				<Route path={process.env.PUBLIC_URL + "/banking-fintech"} element={<Banking/>}/>
+				<Route path={process.env.PUBLIC_URL + "/pharma"} element={<Pharma/>}/>
 				
 
 				<Route path={process.env.PUBLIC_URL + "/services/seo"} element={<Seo />}/>

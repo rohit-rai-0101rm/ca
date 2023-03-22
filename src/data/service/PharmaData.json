@@ -1,0 +1,48 @@
+[
+    {
+        "image": "/images/seoIcons/fullsuitseo.png",
+        "title": "Data Analytics ​​",
+        "description":" Detecting and analyzing patterns in huge datasets to identify valuable insights on health outcomes, simplifying decision-making for healthcare providers."
+    },
+    {
+        "image": "/images/seoIcons/localseoservices.png",
+        "title": "Telemedicine",
+        "description": "Using the capabilities of video to allow patients to communicate with healthcare providers in real-time to discuss symptoms, medical issues, and diagnosis"
+    },
+    {
+        "image": "/images/seoIcons/GoogleAnalytics.png",
+        "title": "Blockchain & Electronic Health Records",
+        "description": "Using the encryption security of blockchain to prevent data breaches, improve the accuracy of medical records, and reduce costs."
+    },
+    {
+        "image": "/images/seoIcons/link-building.png",
+        "title": "Connected Medical & Wearable Devices",
+        "description": "Utilizing wearable technologies like BLE to monitor high-risk patients, personalize healthcare experience, and provide predictive healthcare.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/seoaudits.png",
+        "title": "Gamification",
+        "description": "Engaging healthcare apps to improve patient engagement and ensure wellness.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/ecommerceSEO.png",
+        "title": "Health Insurance",
+        "description": "End-to-end digital solutions with a strategic approach to detect, tackle, and eliminate health insurance frauds.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/ecommerceSEO.png",
+        "title": "Clinical Trial Apps",
+        "description": "Clinical trial research applications to assist planning, managing, conducting, and analyzing clinical trials.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/seoIcons/ecommerceSEO.png",
+        "title": "Patient Communication",
+        "description": "Doctor/Patient-centered communication apps to accelerate patient satisfaction, treatment adherence, remote monitoring and self-monitoring.",
+        "cate": "Design"
+    }
+    
+]

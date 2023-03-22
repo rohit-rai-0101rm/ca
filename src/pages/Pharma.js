@@ -36,7 +36,7 @@ import TestimonialOne from "../component/testimonial/TestimonialOne";
 import WordPressSection from "../component/WordPressSection/WordPressSection";
 import SectionTitle from "../elements/section-title/SectionTitle";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
-import ServiceData from "../data/service/BankingData.json";
+import ServiceData from "../data/service/PharmaData.json";
 import ServicePropSeo from "../component/service/ServicePropSeo";
 import SeoAdvantage from "../component/SeoAdvantage/SeoAdvantage";
 import SeoExpertsBestChoice from "../component/SeoExpertsBestChoice/SeoExpertsBestChoice";
@@ -51,17 +51,18 @@ import BankingIntro from "../component/bankingintro/BankingIntro";
 import BankingDesc from "../component/bankingDesc/BankingDesc";
 import BankingProps from "../component/service/BankingProps";
 import BankingBlog from "../component/bankingintro/HowHelpNxg";
+import PharmaIntro from "../component/pharma/PharmaIntro";
 import HowHelpNxg from "../component/bankingintro/HowHelpNxg";
 const allData = ServiceData;
-const Banking = () => {
+const Pharma = () => {
   return (
     <>
       <SEO title="Digital Agency" />
       <ColorSwitcher />
       <main className="main-wrapper">
         <HeaderOne />
-        <BankingIntro />
-        <BankingDesc />
+        <PharmaIntro />
+        
       
         <div className="section section-padding" id="section1">
           <div className="container">
@@ -76,7 +77,7 @@ const Banking = () => {
             </div>
           </div>
         </div>
-        <HowHelpNxg/>
+       <HowHelpNxg/>
 
         <CtaLayoutOne />
         <FooterOne parentClass="" />
@@ -85,4 +86,4 @@ const Banking = () => {
   );
 };
 
-export default Banking;
+export default Pharma;

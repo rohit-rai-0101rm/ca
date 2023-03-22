@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import CountUp from "react-countup";
 import TrackVisibility from "react-on-screen";
 
-const BankingBlog = () => {
+const HowHelpNxg = () => {
   return (
     <div className="section section-padding case-study-featured-area">
       <div className="container">
@@ -57,4 +57,4 @@ const BankingBlog = () => {
   );
 };
 
-export default BankingBlog;
+export default HowHelpNxg;
