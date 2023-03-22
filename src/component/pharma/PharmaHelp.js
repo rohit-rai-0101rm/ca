@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import CountUp from "react-countup";
 import TrackVisibility from "react-on-screen";
 
-const HowHelpNxg = () => {
+const PharmaHelp = () => {
   return (
     <div className="section section-padding case-study-featured-area">
       <div className="container">
@@ -44,17 +44,14 @@ const HowHelpNxg = () => {
         <br/>
         <div>
         <center>
-        <p><b>Smart digital solutions for banking and fintech firms to help achieve agility, cost leadership, and operational efficiency.
-        </b></p>
+        <p>The healthcare industry faces numerous challenges in the form of poor cost margins, skyrocketing R&D expenses,<br/> fragmented supply chains, and strict compliance policies. That is why there is a need for new-age digital technologies that <br/>can automate processes, enable data-driven decisions, and expand innovation. Companies need to act quickly and build <br/>core internal digital capabilities.
+        </p>
         
-        <p>In a highly competitive market with ever-changing regulatory compliances, it becomes essential for the banking, financial services, <br/>and insurance (BFSI) industry to take up the digital transformation journey.</p>
-        <p>To survive and thrive in the continuously evolvingmarket with emerging customer needs, <br/>the BFSI industry needs to adopt newer technologies and models.</p>
-        
-        
+       
         </center>
        </div>
     </div>
   );
 };
 
-export default HowHelpNxg;
+export default PharmaHelp;

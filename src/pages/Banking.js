@@ -50,8 +50,9 @@ import AccessTalent from "../component/AccessTalent/AccessTalent";
 import BankingIntro from "../component/bankingintro/BankingIntro";
 import BankingDesc from "../component/bankingDesc/BankingDesc";
 import BankingProps from "../component/service/BankingProps";
-import BankingBlog from "../component/bankingintro/HowHelpNxg";
-import HowHelpNxg from "../component/bankingintro/HowHelpNxg";
+import BankingBlog from "../component/bankingintro/BankingHelp";
+import HowHelpNxg from "../component/bankingintro/BankingHelp";
+import BankingHelp from "../component/bankingintro/BankingHelp";
 const allData = ServiceData;
 const Banking = () => {
   return (
@@ -76,7 +77,7 @@ const Banking = () => {
             </div>
           </div>
         </div>
-        <HowHelpNxg/>
+        <BankingHelp/>
 
         <CtaLayoutOne />
         <FooterOne parentClass="" />
