@@ -5,7 +5,9 @@ import SEO from '../common/SEO'
 import AboutOne from '../component/about/AboutOne'
 import AdvantageSection from '../component/AdvantageSection/AdvantageSection'
 import AutomobileTechnology from '../component/AdvantageSection/AutomobileTechnology'
+import EducationSection from '../component/AdvantageSection/EducationSection'
 import BannerConsultation from '../component/banner/BannerConsultation'
+import BannerEducation from '../component/banner/BannerEducation'
 import BlogOne from '../component/blog/BlogOne'
 import BrandOne from '../component/brand/BrandOne'
 import CounterUpOne from '../component/counterup/CounterUpOne'
@@ -13,10 +15,12 @@ import CtaLayoutOne from '../component/cta/CtaLayoutOne'
 import FrequentlyAsked from '../component/FrequentlyAsked/FrequentlyAsked'
 import Automobilelogisticsintro from '../component/HireDevelopers/Automobilelogisticsintro'
 import Automobilelogisticsintro2 from '../component/HireDevelopers/Automobilelogisticsintro2'
+import EducationElearningIntro from '../component/HireDevelopers/EducationElearningIntro'
 import HireDevelopersIntro from '../component/HireDevelopers/HireDevelopersIntro'
 import PricingOne from '../component/pricing/PricingOne'
 import ProjectOne from '../component/project/ProjectOne'
 import Automobilebestchoice from '../component/ReactBestChoice/Automobilebestchoice'
+import EducationCostumSolution from '../component/ReactBestChoice/EducationCostumSolution'
 import ReactBestChoice from '../component/ReactBestChoice/ReactBestChoice'
 import ReactImportantSkills from '../component/ReactImportantSkills/ReactImportantSkills'
 import ReactProcess from '../component/ReactProcess/ReactProcess'
@@ -27,17 +31,17 @@ import SectionTitle from '../elements/section-title/SectionTitle'
 import ColorSwitcher from '../elements/switcher/ColorSwitcher'
 
 
-const Automobile = () => {
+const EducationElearning = () => {
   return (
     <>
     <SEO title="Digital Agency"/>
     <ColorSwitcher />
     <main className="main-wrapper">
         <HeaderOne />
-        <Automobilelogisticsintro />
-        <AutomobileTechnology/>
-        <BannerConsultation/>
-        <Automobilebestchoice/>
+        <EducationElearningIntro />
+        <EducationSection/>
+        <BannerEducation/>
+        <EducationCostumSolution/>
         <CtaLayoutOne /> 
         <FooterOne parentClass="" />
     </main>
@@ -45,4 +49,4 @@ const Automobile = () => {
   )
 }
 
-export default Automobile
+export default EducationElearning

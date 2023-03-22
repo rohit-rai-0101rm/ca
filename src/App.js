@@ -91,6 +91,8 @@ import IosDeveloper from './pages/IosDeveloper';
 import AndroidDevelopers from './pages/AndroidDevelopers';
 import RemoteStaffing from './pages/RemoteStaffing';
 import Automobile from './pages/Automobile';
+import EducationElearning from './pages/EducationElearning';
+import RetailEcommerce from './pages/RetailEcommerce';
 
 
 
@@ -196,7 +198,8 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/hire-react-native-developers"} element={<ReactNativeDevelopers/>}/>
 
 				<Route path={process.env.PUBLIC_URL + "/programmatic-advertising"} element={<ProgrammaticSpecialist/>}/>
-
+				<Route path={process.env.PUBLIC_URL + "/education-elearning"} element={<EducationElearning/>}/>
+				<Route path={process.env.PUBLIC_URL + "/retail-ecommerce"} element={<RetailEcommerce />}/>
 			</Routes>
 		</ScrollToTop>
     </Router>
