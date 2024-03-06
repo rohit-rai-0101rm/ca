@@ -96,6 +96,8 @@ import RetailEcommerce from './pages/RetailEcommerce';
 import Banking from './pages/Banking';
 import Pharma from './pages/Pharma';
 import Startup from './pages/Startup';
+import RefundPolicy from './pages/RefundPolicy';
+import CancellationPolicy from './pages/CancellationPolicy'
 
 
 
@@ -205,6 +207,9 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/programmatic-advertising"} element={<ProgrammaticSpecialist/>}/>
 				<Route path={process.env.PUBLIC_URL + "/education-elearning"} element={<EducationElearning/>}/>
 				<Route path={process.env.PUBLIC_URL + "/retail-ecommerce"} element={<RetailEcommerce />}/>
+
+				<Route path={process.env.PUBLIC_URL + "/refund-policy"} element={<RefundPolicy/>}/>
+				<Route path={process.env.PUBLIC_URL + "/cancellation-policy"} element={<CancellationPolicy /> }/>
 				
 
 			</Routes>

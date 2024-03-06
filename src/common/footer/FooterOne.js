@@ -101,7 +101,7 @@ const FooterOne = ({ parentClass }) => {
                                 className="px-2 footerContact"
                                 src="/images/contact/tele.svg"
                               />
-                              +971506346693{" "}
+                              +918130808751{" "}
                             </div>{" "}
                           </Link>
                         </li>
@@ -149,6 +149,16 @@ const FooterOne = ({ parentClass }) => {
                   <li>
                     <Link to={process.env.PUBLIC_URL + "/terms-use"}>
                       Terms of Use
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/refund-policy"}>
+                      Refund Policy
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/cancellation-policy"}>
+                      Cancellation Policy
                     </Link>
                   </li>
                 </ul>
