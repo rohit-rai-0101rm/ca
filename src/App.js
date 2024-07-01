@@ -57,7 +57,7 @@ import HowWorks from './pages/HowWorks';
 import Seo from './pages/Seo';
 import Design from './pages/Design';
 import DigitalMarketing from './pages/DigitalMarketing';
-import Webdevelopment from './pages/Webdevelopment';
+
 import SeoPage from './pages/SeoPage';
 import WhyIndia from './pages/WhyIndia';
 
@@ -164,7 +164,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/services/digital-marketing"} element={<DigitalMarketing />}/>
 
 
-				<Route path={process.env.PUBLIC_URL + "/services/web-development"} element={<Webdevelopment />}/>
+			
 				<Route path={process.env.PUBLIC_URL + "/services/design"} element={<Design />}/>
 				<Route path={process.env.PUBLIC_URL + "/why-india"} element={<WhyIndia />}/>
 				<Route path={process.env.PUBLIC_URL + "/dedicated-resources"} element={<DedicatedResource />}/>
