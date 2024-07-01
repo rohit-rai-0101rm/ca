@@ -132,10 +132,10 @@ const FooterOne = ({ parentClass }) => {
             <div className="col-md-6">
               <div className="footer-copyright">
                 <span className="copyright-text">
-              
-                 
-                    <strong>NXG TECH AND CONSUTING PRIVATE LIMITED</strong>
-                  
+                  © {new Date().getFullYear()}. All rights reserved by{" "}
+                  <a href="https://nxgtech.io/" target="blank">
+                    <strong>NXG TECH AND CONSUTING PRIVATE LIMITED</strong>.
+                  </a>
                 </span>
               </div>
             </div>

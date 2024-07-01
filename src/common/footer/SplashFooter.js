@@ -11,7 +11,7 @@ const SplashFooter = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-5">
                         <div className="footer-copyright">
-                            <span className="copyright-text">NXG TECH AND CONSUTING PRIVATE LIMITED</span>
+                            <span className="copyright-text">© {new Date().getFullYear()}. All rights reserved by NXG TECH AND CONSUTING PRIVATE LIMITED.</span>
                         </div>
                         </div>
                         <div className="col-lg-2">
