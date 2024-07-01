@@ -134,7 +134,7 @@ const FooterOne = ({ parentClass }) => {
                 <span className="copyright-text">
                   © {new Date().getFullYear()}. All rights reserved by{" "}
                   <a href="https://nxgtech.io/" target="blank">
-                    <strong>NXG TECH AND CONSUTING PRIVATE LIMITED</strong>.
+                    <strong>NXG TECH AND CONSULTING PRIVATE LIMITED</strong>.
                   </a>
                 </span>
               </div>
