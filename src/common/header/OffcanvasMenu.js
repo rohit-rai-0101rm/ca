@@ -22,12 +22,12 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                             <div className="contact-inner">
                                 <address className="">
                                     <h2 className="title">Contact Information</h2>
-                                    <p className='innovate-list-para'>1209, Burlington Tower<br /> Buisness Bay, Dubai <br />UAE </p>
+                                    <p className='innovate-list-para'>48, 4th floor, Build High Contractions Tower- 2, Rama Road Industrial Area,<br />  Moti Nagar, Delhi 110015.</p>
                                 </address>
                                 <address className="address">
                                     <h5 className=''>We're Available 24/7. Call Now.</h5>
-                                    <a href="tel:8884562790" className="tel innovate-list-para"><FaPhone /> +971-501-599-266</a>
-                                    <a href="mailto:hello@NXG.ae" className="tel innovate-list-para"><FaEnvelope /> info@nxgtech.io</a>
+                                    <a href="tel:8130808751" className="tel innovate-list-para"><FaPhone /> +91-8130808751</a>
+                                    <a href="mailto:info@nxgtech.io" className="tel innovate-list-para"><FaEnvelope /> info@nxgtech.io</a>
                                 </address>
                             </div>
                             <div className="contact-inner">

@@ -9971,7 +9971,7 @@ body.active-dark-mode .my_switcher button span.dark {
 }
 
 .splash-footer .footer-bottom-link ul li a {
-  font-size: 16px;
+  font-size: 1px;
   color: var(--color-body);
 }
 
@@ -12914,9 +12914,10 @@ body.op-modal-open {
 }
 
 .footer-bottom-link ul li {
-  padding: 0 20px;
+  padding: 0 10px;
   display: inline-block;
   position: relative;
+  font-size: 14px;
 }
 
 .footer-bottom-link ul li::after {
@@ -12937,6 +12938,7 @@ body.op-modal-open {
 }
 
 .footer-bottom-link ul li a {
+  font-size: 14px!important;
   color: var(--color-gray-1);
 }
 

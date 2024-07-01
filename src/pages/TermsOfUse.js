@@ -26,7 +26,7 @@ const TermsOfUse = () => {
                                 <div className="privacy-policy-content">
                                     <p className='mb-3'>Agreement between Nxgtech Technology and business or individual. The client/individual is subject to the following terms and conditions.</p>
                                     <h4>General Working Agreement</h4>
-                                    <p>This document defines the terms and conditions of our working relationship. All projects or services that Nxgtech Technology or YAM Technologies (hereafter referred to as “Nxgtech Technology” or “we”) may be contracted to produce or provide for you (hereafter referred to as “you” or “the client”) will be subject to the following:
+                                    <p>This document defines the terms and conditions of our working relationship. All projects or services that Nxgtech Technology (hereafter referred to as “Nxgtech Technology” or “we”) may be contracted to produce or provide for you (hereafter referred to as “you” or “the client”) will be subject to the following:
                                     </p>
                                     <h4>Summary</h4>
                                     <p>We will always do our best to fulfil your needs and meet your goals, but sometimes it’s best to have a few things written down so that we both know what’s what, who should do what and what happens if stuff goes wrong. In this contract you won’t find complicated legal terms or long passages of unreadable text. We have no desire to trick you into signing something that you might later regret. We do want what’s best for the safety of both parties, now and in the future.</p>
@@ -72,7 +72,7 @@ const TermsOfUse = () => {
                                     <p>We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.</p>
 
                                     <h4>But Where’s All The Fine Print?</h4>
-                                    <p>By starting a project with Nxgtech Technology or YAM Technologies the client accepts these Terms and Conditions.</p>
+                                    <p>By starting a project with Nxgtech Technology  the client accepts these Terms and Conditions.</p>
                                 </div>
                             </div>
                         </div>

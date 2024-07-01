@@ -15,6 +15,7 @@ import ServiceData from "../../data/service/ServiceMain.json";
 import { slugify } from "../../utils";
 import Logo from "../../elements/logo/Logo";
 
+
 const getServiceData = ServiceData;
 
 const FooterOne = ({ parentClass }) => {
@@ -131,34 +132,39 @@ const FooterOne = ({ parentClass }) => {
             <div className="col-md-6">
               <div className="footer-copyright">
                 <span className="copyright-text">
-                  © {new Date().getFullYear()}. All rights reserved by{" "}
-                  <a href="https://in.linkedin.com/company/NXG" target="blank">
-                    <strong>NXG</strong>  Technologies.
-                  </a>
+              
+                 
+                    <strong>NXG TECH AND CONSUTING PRIVATE LIMITED</strong>
+                  
                 </span>
               </div>
             </div>
             <div className="col-md-6">
               <div className="footer-bottom-link">
-                <ul className="list-unstyled">
-                  <li>
+                <ul className="list-unstyled" style={{fontSize: '14px'}}>
+                  <li className="px-2">
                     <Link to={process.env.PUBLIC_URL + "/privacy-policy"}>
                       Privacy Policy
                     </Link>
                   </li>
-                  <li>
+                  <li className="px-2">
                     <Link to={process.env.PUBLIC_URL + "/terms-use"}>
                       Terms of Use
                     </Link>
                   </li>
-                  <li>
+                  <li className="px-2">
                     <Link to={process.env.PUBLIC_URL + "/refund-policy"}>
                       Refund Policy
                     </Link>
                   </li>
-                  <li>
+                  <li className="px-2">
                     <Link to={process.env.PUBLIC_URL + "/cancellation-policy"}>
                       Cancellation Policy
+                    </Link>
+                  </li>
+                  <li className="px-2">
+                    <Link to={process.env.PUBLIC_URL + "/shipping-policy"}>
+                      Shipping Policy
                     </Link>
                   </li>
                 </ul>

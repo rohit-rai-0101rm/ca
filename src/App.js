@@ -98,6 +98,7 @@ import Pharma from './pages/Pharma';
 import Startup from './pages/Startup';
 import RefundPolicy from './pages/RefundPolicy';
 import CancellationPolicy from './pages/CancellationPolicy'
+import ShippingPolicy from './pages/ShippingPolicy';
 
 
 
@@ -210,7 +211,7 @@ const App = () => {
 
 				<Route path={process.env.PUBLIC_URL + "/refund-policy"} element={<RefundPolicy/>}/>
 				<Route path={process.env.PUBLIC_URL + "/cancellation-policy"} element={<CancellationPolicy /> }/>
-				
+				<Route path={process.env.PUBLIC_URL + "/shipping-policy"} element={<ShippingPolicy /> }/>
 
 			</Routes>
 		</ScrollToTop>
