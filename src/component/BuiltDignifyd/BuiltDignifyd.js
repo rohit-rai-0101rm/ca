@@ -12,8 +12,8 @@ const BuiltDignifyd = () => {
                 <h2 className="titleUnique">
                   We’ve built{" "}
                   <strong className="uniqueBold">NXG Technologies</strong> to
-                  bring businesses{" "}
-                  <strong className="uniqueBold">Digitally Ahead.</strong>
+                  provide customized tech and
+                  <strong className="uniqueBold"> Software Solutions.</strong>
                 </h2>
               </div>
             </div>
