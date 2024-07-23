@@ -19,6 +19,7 @@ import TeamOne from "../component/team/TeamOne";
 import BcrumbBannerOne from "../elements/breadcrumb/BcrumbBannerOne";
 import SectionTitle from "../elements/section-title/SectionTitle";
 import ServiceData from "../data/service/ServiceMain.json";
+import PricingTable from "./PricingTable";
 
 const Pricing = () => {
   return (
@@ -31,6 +32,7 @@ const Pricing = () => {
         mainThumb="/images/banner/banner-thumb-3.png"
       />
       <BuiltDignifyd />
+      <PricingTable />
       {/*
               <CounterUpOne />
 

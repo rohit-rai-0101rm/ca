@@ -31,59 +31,59 @@ const PricingOne = () => {
     <>
       <div className="row">
         <div className="col-lg-4 ">
-          <div className="pricing-table pricing-borderd">
+          <div className="pricing-table pricing-table-new h-100 pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/stunningDesigns.png" />
               <h5 className="title">
-                Stunning <br /> Designs
+                Basic <br />
               </h5>
             </div>
             <div className="pricing-body">
               <center>
                 <p className="discription1">
-                  We develop stunningone-of-a-kind digital designs that catches
-                  people’s eye and brings your brand to life online.
+                  Starting from 10,000 INR <br />
                 </p>
               </center>
             </div>
           </div>
         </div>
         <div className="col-lg-4 ">
-          <div className="pricing-table pricing-borderd">
+          <div className="pricing-table pricing-table-new h-100 pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/revol.png" />
-              <h3 className="title">Revolutionary Technology</h3>
+              <h3 className="title">Intermediate</h3>
             </div>
             <div className="pricing-body">
               <p className="discription1">
-                <center>
-                  Tailor-made solutions that resonate with your customers and
-                  drives them to act in return increasing your
-                  <strong> MMR.</strong>
-                </center>
+                <center>Starting from 15,000 INR</center>
               </p>
             </div>
           </div>
         </div>
 
         <div className="col-lg-4 ">
-          <div className="pricing-table pricing-borderd">
+          <div className="pricing-table-new pricing-table h-100 pricing-borderd">
             <div className="pricing-header">
-              <img src="/images/unique/flexiblePlatforms.png" />
-              <h3 className="title">
-                Flexible <br />
-                Platfroms
-              </h3>
+              <h3 className="title">Advance</h3>
             </div>
             <div className="pricing-body">
               <center>
-                <p className="discription1">
-                  We create websites and apps that are beautiful yet functional.
-                </p>
+                <p className="discription1">Based on your requirement.</p>
+              </center>
+              <center>
+                <Link
+                  to="/contact"
+                  type="submit"
+                  className="axil-btn btn-fill-dark btn-fluid  btn-dark btn btn-dark submit-btn-new"
+                  name="submit-btn"
+                >
+                  SUBMIT
+                </Link>
               </center>
             </div>
           </div>
         </div>
+        <center className="mt-120">
+          <p>*All Pricing depends on the customization</p>
+        </center>
       </div>
     </>
   );
