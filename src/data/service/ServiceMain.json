@@ -1,5 +1,4 @@
 [
-  
     {
         "image": "/images/icon/icon-2.png",
         "title": "Design",
@@ -22,18 +21,10 @@
         "description": "Our team of developers combines our client’s vision with their expertise to achieve great results.",
         "cate": "Design"
     },
-   
-  
     {
         "image": "/images/icon/icon-4.png",
         "title": "Manage Service Provider",
         "description": "Managed by IT professionals and powered by superb team support at every step, our support services are always there to meet all your business needs.",
         "cate": "Design"
-    },
-    {
-        "image": "/images/icon/icon-5.png",
-        "title": "Dedicated Resources",
-        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
     }
-    
 ]

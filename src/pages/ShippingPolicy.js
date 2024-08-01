@@ -23,9 +23,7 @@ const ShippingPolicy = () => {
                   <h5>Effective Date: March, 2024</h5>
                   <p className="mb-4">
                     This Shipping Policy outlines the methods, timelines, and
-                    costs associated with NXG Technologies' order deliveries,
-                    including both physical and digital products. Please review
-                    this Policy thoroughly before placing an order.
+                    costs associated with NXG Technologies' order deliveries.
                   </p>
                   <h4>Order Processing</h4>
                   <p className="mb-4">

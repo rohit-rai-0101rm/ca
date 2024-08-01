@@ -15,7 +15,6 @@ import ServiceData from "../../data/service/ServiceMain.json";
 import { slugify } from "../../utils";
 import Logo from "../../elements/logo/Logo";
 
-
 const getServiceData = ServiceData;
 
 const FooterOne = ({ parentClass }) => {
@@ -26,25 +25,30 @@ const FooterOne = ({ parentClass }) => {
           <div className="footer-social-link">
             <ul className="list-unstyled">
               <li>
-                <a target="_blank" href="https://www.linkedin.com/company/nxgtechae/about/">
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/company/nxgtechae/about/"
+                >
                   <FaFacebookF />
                 </a>
               </li>
 
-
               <li>
-                <a target="_blank" href="https://www.linkedin.com/company/nxgtechae/about/">
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/company/nxgtechae/about/"
+                >
                   <FaLinkedin />
                 </a>
               </li>
               <li>
-                <a target="_blank" href="https://www.linkedin.com/company/nxgtechae/about/">
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/company/nxgtechae/about/"
+                >
                   <FaInstagram />
                 </a>
               </li>
-
-
-
             </ul>
           </div>
         </div>
@@ -52,11 +56,8 @@ const FooterOne = ({ parentClass }) => {
           <div className="row">
             <div className="col-xl-6 col-lg-5">
               <div className="footer-widget border-end">
-
                 <img className="" src="/images/nxg.png" />
-              
               </div>
-
             </div>
 
             <div className="col-xl-6 col-lg-7">
@@ -68,13 +69,17 @@ const FooterOne = ({ parentClass }) => {
                       <ul className="list-unstyled">
                         {getServiceData.slice(0, 6).map((data, index) => (
                           <li key={index}>
-                            <Link
-
-                            >
-                              {data.title}
-                            </Link>
+                            <Link>{data.title}</Link>
                           </li>
                         ))}
+                        <a
+                          href="https://algotrading.nxgtech.io/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="list-unstyled text-dark"
+                        >
+                          Algo Trading
+                        </a>
                       </ul>
                     </div>
                   </div>
@@ -91,7 +96,8 @@ const FooterOne = ({ parentClass }) => {
                                 className="px-2 footerContact"
                                 src="/images/contact/email.svg"
                               />
-                              info@nxgtech.io                            </div>
+                              info@nxgtech.io{" "}
+                            </div>
                           </Link>
                         </li>
                         <li>
@@ -107,7 +113,6 @@ const FooterOne = ({ parentClass }) => {
                           </Link>
                         </li>
                         <li>
-
                           <div className="d-flex flex-row">
                             <img
                               className="px-2 footerContact"
@@ -115,8 +120,7 @@ const FooterOne = ({ parentClass }) => {
                             />
                             <a href="" target="blank">
                               www.nxgtech.io
-                            </a>
-                            {" "}
+                            </a>{" "}
                           </div>{" "}
                         </li>
                       </ul>
@@ -141,7 +145,7 @@ const FooterOne = ({ parentClass }) => {
             </div>
             <div className="col-md-6">
               <div className="footer-bottom-link">
-                <ul className="list-unstyled" style={{fontSize: '14px'}}>
+                <ul className="list-unstyled" style={{ fontSize: "14px" }}>
                   <li className="px-2">
                     <Link to={process.env.PUBLIC_URL + "/privacy-policy"}>
                       Privacy Policy
