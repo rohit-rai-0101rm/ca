@@ -78,7 +78,7 @@ const FooterOne = ({ parentClass }) => {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            Algo Trading
+                            Algo Trading Software
                           </a>
                         </li>
                       </ul>

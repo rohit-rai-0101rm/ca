@@ -31,56 +31,53 @@ const WhyAbout = () => {
         mainThumb="/images/banner/banner-thumb-3.png"
       />
       <BuiltDignifyd />
-      {
-        /*
+      {/*
               <CounterUpOne />
 
-        */
-      }
+        */}
 
       <div className="section section-padding-2 bg-color-dark">
-          <div className="container">
-            <div className="row">
-              <center>
-                <h4 className="titleServicesHeading">
-                  {" "}
-                  Services that get you results
-                </h4>
-              </center>
+        <div className="container">
+          <div className="row">
+            <center>
+              <h4 className="titleServicesHeading">
+                {" "}
+                Services that get you results
+              </h4>
+            </center>
 
-              <ServicePropHome
-                colSize="col-xl-4 col-md-6"
-                serviceStyle=""
-                itemShow="6"
-                serviceData={ServiceData}
-              />
-            </div>
+            <ServicePropHome
+              colSize="col-xl-4 col-md-6"
+              serviceStyle=""
+              itemShow="6"
+              serviceData={ServiceData}
+            />
           </div>
-          <ul className="list-unstyled shape-group-10">
-            <li className="shape shape-1">
-              <img
-                src={process.env.PUBLIC_URL + "/images/others/line-9.png"}
-                alt="Circle"
-              />
-            </li>
-            <li className="shape shape-2">
-              <img
-                src={process.env.PUBLIC_URL + "/images/others/bubble-42.png"}
-                alt="Circle"
-              />
-            </li>
-            <li className="shape shape-3">
-              <img
-                src={process.env.PUBLIC_URL + "/images/others/bubble-43.png"}
-                alt="Circle"
-              />
-            </li>
-          </ul>
         </div>
+        <ul className="list-unstyled shape-group-10">
+          <li className="shape shape-1">
+            <img
+              src={process.env.PUBLIC_URL + "/images/others/line-9.png"}
+              alt="Circle"
+            />
+          </li>
+          <li className="shape shape-2">
+            <img
+              src={process.env.PUBLIC_URL + "/images/others/bubble-42.png"}
+              alt="Circle"
+            />
+          </li>
+          <li className="shape shape-3">
+            <img
+              src={process.env.PUBLIC_URL + "/images/others/bubble-43.png"}
+              alt="Circle"
+            />
+          </li>
+        </ul>
+      </div>
       <Success />
-      <Mission/>
+      <Mission />
 
-      <TeamDetails />
       <JobOpenings />
       <CtaLayoutOne />
 
