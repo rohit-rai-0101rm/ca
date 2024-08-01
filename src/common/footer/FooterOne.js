@@ -72,14 +72,15 @@ const FooterOne = ({ parentClass }) => {
                             <Link>{data.title}</Link>
                           </li>
                         ))}
-                        <a
-                          href="https://algotrading.nxgtech.io/"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="list-unstyled text-dark"
-                        >
-                          Algo Trading
-                        </a>
+                        <li>
+                          <a
+                            href="https://algotrading.nxgtech.io/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            Algo Trading
+                          </a>
+                        </li>
                       </ul>
                     </div>
                   </div>
