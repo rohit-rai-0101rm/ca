@@ -200,6 +200,10 @@ const App = () => {
             path={process.env.PUBLIC_URL + "/about"}
             element={<WhyAbout />}
           />
+          <Route
+            path={process.env.PUBLIC_URL + "/about"}
+            element={<WhyAbout />}
+          />
 
           {/* Pages  */}
           <Route
