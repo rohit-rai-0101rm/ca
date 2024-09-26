@@ -15173,3 +15173,9 @@ body.op-modal-open {
 .text-dark {
   color: #000;
 }
+.cta-two{
+  background: #5956E9 !important;
+}
+.cta-two::before{
+display: none !important;
+}

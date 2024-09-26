@@ -24,6 +24,7 @@ import Testimonials from "./Testimonials";
 import ServiceData from "../data/service/ServiceMain.json";
 import ServiceProp3 from "../component/service/ServiceProp3";
 import UncontrolledExample from "../common/Carousel";
+import PayWithCta from "../component/cta/PayWithCta";
 
 const DigitalAgency = () => {
   return (
@@ -45,6 +46,7 @@ const DigitalAgency = () => {
             </center>
 
             <PricingOne />
+            <PayWithCta/>
           </div>
           <ul className="list-unstyled shape-group-3">
             <li className="shape shape-1">
